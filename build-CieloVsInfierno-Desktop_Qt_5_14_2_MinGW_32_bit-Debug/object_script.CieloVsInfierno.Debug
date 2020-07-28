@@ -1,0 +1,15 @@
+debug/Arbol.o
+debug/ArbolGenealogico.o
+debug/ArbolMundo.o
+debug/Controller.o
+debug/Familia.o
+debug/FileManager.o
+debug/ListaDoble.o
+debug/ListaSimple.o
+debug/Mundo.o
+debug/Pais.o
+debug/Persona.o
+debug/Random.o
+debug/main.o
+debug/mainwindow.o
+debug/moc_mainwindow.o

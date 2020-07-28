@@ -1,0 +1,15 @@
+release/Arbol.o
+release/ArbolGenealogico.o
+release/ArbolMundo.o
+release/Controller.o
+release/Familia.o
+release/FileManager.o
+release/ListaDoble.o
+release/ListaSimple.o
+release/Mundo.o
+release/Pais.o
+release/Persona.o
+release/Random.o
+release/main.o
+release/mainwindow.o
+release/moc_mainwindow.o

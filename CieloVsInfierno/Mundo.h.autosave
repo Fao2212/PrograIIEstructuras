@@ -1,0 +1,41 @@
+#ifndef MUNDO_H
+#define MUNDO_H
+#include "includes.h"
+
+struct Mundo{
+
+    ArbolMundo * arbolMundo;
+    ListaDoble * poblacion;
+    ListaSimple * familias;
+    int identidades[100000];
+    QString apellidos[200];
+    
+    int consecutivo;
+
+    Mundo(){
+        initMundo();
+    }
+
+    void initMundo();
+    void agregarPoblacion(int cantidad);
+    void ordenarMundo();//quicksort
+    void initIdentidades();
+
+    Persona * crearPersona();
+    void asignarFamilia(Persona *);
+    void asignarId();
+
+    ArbolGenealogico * buscarArbolFamiliar();
+    void crearArbolFamiliar(QString apellido,Pais * pais);
+
+    Persona * buscarPersona(int id);//Usa el arbol para encontrar el mas proximo y se mueve anterior o siguietne a partir del nodo
+    void pecar();
+    void buenasAcciones();
+    void pecadosHeredados();
+
+
+
+
+};
+
+#endif // MUNDO_H

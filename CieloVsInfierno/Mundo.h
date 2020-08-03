@@ -11,6 +11,9 @@ struct Mundo{
     QString apellidos[200];
     QString nombres[1001];
     Pais * paises[25];
+    int vivos;//El total esta en poblacion index
+    Infierno * infierno;
+    Cielo * cielo;
 
     int consecutivo;
 
@@ -37,12 +40,12 @@ struct Mundo{
     ArbolGenealogico * buscarArbolFamiliar(Persona *);
     ArbolGenealogico * crearArbolFamiliar(Persona *);
     void guardarFamilia(Persona * persona);
-    void imprimirUnaFamilia(Persona * persona);
+    QString imprimirUnaFamilia(Persona * persona);
+    int totalPersonasMuertas();
 
     Persona * buscarPersona(int id);//Usa el arbol para encontrar el mas proximo y se mueve anterior o siguietne a partir del nodo
     void pecar();
     void buenasAcciones();
-    void pecadosHeredados();
 
 
 

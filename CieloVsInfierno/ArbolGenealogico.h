@@ -13,7 +13,7 @@ struct ArbolGenealogico{
     }
 
     void initArbolGenealogico(QString nombre,Pais * pais);
-    Persona * buscarDisponible();
+    Persona * buscarDisponible(Persona * persona);
 
 };
 

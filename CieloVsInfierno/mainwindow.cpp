@@ -3,6 +3,8 @@
 #include "Mundo.h"
 #include "Persona.h"
 #include "Pais.h"
+#include "Familia.h"
+#include "Infierno.h"
 
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
@@ -57,11 +59,22 @@ void MainWindow::on_pushButton_3_clicked()
         qDebug()<<id.toInt();
         Persona * persona = mundo->buscarPersona(id.toInt());
         if (persona != nullptr) {
-            qDebug()<<"qUIERO IMPRIMIR0";
-           mundo->imprimirUnaFamilia(persona);
+           qDebug()<<"qUIERO IMPRIMIR0";
+           this->ui->txtTemporal->addItem("Familia de: "+persona->toString());
+           this->ui->txtTemporal->addItem(mundo->imprimirUnaFamilia(persona));
         }
         else {
             qDebug()<<"No esiste";
         }
     }
+}
+
+void MainWindow::on_pushButton_4_clicked()
+{
+    mundo->pecar();
+}
+
+void MainWindow::on_btnCondenacion_clicked()
+{
+    mundo->infierno->condenacion();
 }

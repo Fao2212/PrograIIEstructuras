@@ -16,17 +16,24 @@ struct ListaDoble{
         void insertar (Persona * persona);
         void imprimir();
         int largo();
-        void ordenarPorId();
         Nodo * mergeSort(Nodo * nodo,QString id);
         Nodo * split(Nodo * nodo);
         Nodo * merge(Nodo * primero,Nodo * segundo,QString id);
         Nodo * get(int pos);
         void bubbleSort(QString modo);
         void quickSort();
-        int partition (Nodo * arr[], int l, int h);
-        void * quickSort(Nodo * A[], int l, int h);
+        int partition (Nodo * arr[], int l, int h,Comportamiento comportamiento);
+        void * quickSort(Nodo * A[], int l, int h,Comportamiento comportamiento);
         void swap(Nodo * a,Nodo * b);
         void enviarAlFinal();
+        void moverPrimerNodo();
+        void enviarAlFinal(Persona * p);
+        Nodo * buscar(Persona * );
+
+        void recorridoPecaminoso();
+        void caminoDelBien();
+        void ordenarPorId();
+        void ordenarPorPecado(Persona * personas[],Comportamiento comportamiento);
 
     };
 

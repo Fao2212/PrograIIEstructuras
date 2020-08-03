@@ -2,6 +2,7 @@
 #include "mainwindow.h"
 #include "Mundo.h"
 #include "ListaDoble.h"
+#include "HashCielo.h"
 
 int main(int argc, char *argv[])
 {
@@ -18,5 +19,8 @@ int main(int argc, char *argv[])
     MainWindow m;
     m.show();
     return a.exec();
-    //return 0;//
+    //Probando hash
+    /*HashCielo * a = new HashCielo();
+    a->hashFunction(nullptr);*/
+    return 0;
 }

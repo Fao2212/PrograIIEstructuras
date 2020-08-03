@@ -16,8 +16,12 @@ struct Familia{
     void agregarHijos(Persona * hijos[]);
     void agregarPadre(Persona * padre);
     Persona * buscarCabezaDeFamilia(Persona * persona);//Busca recursivamente hasta encontrar el nulo
-    QString imprimirFamilia();//Busca la cabeza e imprime recursivamente
-    QString imprimirFamilia(Persona * persona,QString datos);
+    QString imprimirFamilia();
+    Persona ** getFamilia();
+    Persona ** getFamilia(Persona * persona,Persona ** datos,int * index);
+    void imprimirHijos(Persona * p);
+    void heredarPecados(Comportamiento,int);
+    void heredarPecados(Comportamiento,int,Persona*,int index);
 
 };
 

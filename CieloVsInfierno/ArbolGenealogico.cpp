@@ -13,13 +13,27 @@ void ArbolGenealogico::initArbolGenealogico(QString nombre, Pais *pais){
 Persona * ArbolGenealogico::buscarDisponible(Persona * persona){
     Nodo * temp = heap->primerNodo;
     Persona * p = temp->dato;
-    if(p != persona)
+
+    if(p != persona){
         if(!p->familiaAsignada ){
             heap->enviarAlFinal();
             p->familiaAsignada = true;
             return p;
         }
-        return nullptr;
+        else{
+            heap->enviarAlFinal();
+            return nullptr;
+        }
+    }
+        else{
+            if (heap->primerNodo->siguiente != nullptr) {
+                heap->moverPrimerNodo();
+                return buscarDisponible(persona);
+            }
+            else {
+                return  nullptr;
+            }
+        }
     }
 
 

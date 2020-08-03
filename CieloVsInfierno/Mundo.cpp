@@ -10,6 +10,10 @@
 #include "Familia.h"
 #include "ArbolGenealogico.h"
 #include "Nodo.h"
+#include "NodoAG.h"
+#include "Infierno.h"
+#include "Cielo.h"
+
 void Mundo:: nombrarPersona(Persona * persona){
     darNombre(persona);
     darApellido(persona);
@@ -64,6 +68,9 @@ void Mundo::initMundo(){
     this->poblacion = new ListaDoble();
     this->familias = new ListaSimple();
     this->consecutivo = 0;
+    this->vivos = 0;
+    this->infierno = new Infierno(this);
+    this->cielo = new Cielo(infierno);
     initIdentidades();
     initNombres();
     initApellidos();
@@ -83,7 +90,11 @@ void Mundo :: agregarPoblacion(int cantidad){
     }
     iniciarDistribucionDeFamilias();
     ordenarMundo();
-    arbolMundo->arbol->inOrden(arbolMundo->arbol->raiz);
+    NodoAG * mier = familias->primerNodo;
+    while (mier->siguiente != nullptr) {
+        mier->dato->heap->imprimir();
+        mier = mier->siguiente;
+    }
 }
 
 void Mundo::ordenarMundo(){
@@ -96,6 +107,7 @@ Persona * Mundo::crearPersona(){
     nombrarPersona(persona);
     darPais(persona);
     guardarFamilia(persona);
+    vivos++;
     return persona;
 }
 
@@ -109,11 +121,13 @@ void Mundo::darNombre(Persona * persona){
 }
 
 void Mundo::darApellido(Persona * persona){
-    persona->apellido = apellidos[Random::RandomRange(0,200)];
+    persona->apellido = apellidos[Random::RandomRange(0,199)];
 }
 
 void Mundo::darPais(Persona * persona){
-    persona->pais = paises[Random::RandomRange(0,25)];
+    int randon = Random::RandomRange(0,24);
+    qDebug()<<randon;
+    persona->pais = paises[randon];
 }
 
 void Mundo::guardarFamilia(Persona * persona){
@@ -136,7 +150,7 @@ ArbolGenealogico * Mundo:: crearArbolFamiliar(Persona * persona){
 }
 
 void Mundo::asignarFamilia(Persona *persona){
-    int numeroDeHijos = Random::RandomRange(0,5);
+    int numeroDeHijos = Random::RandomRange(0,4);
     Persona * hijos[5];
     for (int i = 0;i<5;i++) {
         if(i<numeroDeHijos){
@@ -152,15 +166,28 @@ void Mundo::asignarFamilia(Persona *persona){
         }
     }
     persona->familia->agregarHijos(hijos);
+    persona->familiaAsignada = true;
+    persona->arbolGenealogico->heap->enviarAlFinal(persona);
 }
 
-void Mundo::imprimirUnaFamilia(Persona * persona){
-    qDebug()<<"ImprimirUnaFmailia0";
-    persona->familia->imprimirFamilia();
+QString Mundo::imprimirUnaFamilia(Persona * persona){
+    return  persona->familia->imprimirFamilia();
 }
 
 void Mundo::iniciarDistribucionDeFamilias(){//Tengo que pensar en como dar familias antes del shuffle
     for (int i = 0;i<poblacion->largo();i++) {
         asignarFamilia(poblacion->get(i)->dato);
     }
+}
+
+void Mundo::pecar(){
+    qDebug()<<"Inicia pecado";
+    poblacion->recorridoPecaminoso();
+    qDebug()<<"Termina pecado";
+}
+
+void Mundo::buenasAcciones(){
+    qDebug()<<"Inicia buenas acciones";
+    poblacion->caminoDelBien();
+    qDebug()<<"Termina buenas acciones";
 }

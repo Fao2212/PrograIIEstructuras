@@ -3,16 +3,26 @@
 #include "includes.h"
 struct Heap{
 
-    ListaDoble * asdasd;
+    Demonio * demonio;
+    QString apellido;
+    Pais * pais;
+    int index;
+    Persona * personas[200];
 
-    Heap(){
-
+    Heap(QString apellido,Pais * pais,Demonio * demonio){
+        this->pais = pais;
+        this->apellido = apellido;
+        this->demonio = demonio;
+        this->index = 0;
+        initArray();
     }
 
-    void insertarEnHeap(Persona * dato);//Asegurarse que el mayor siempre esta en el tope usando el arbol
-    void eliminarEnHeap();//Solo elimina la raiz. Esto puede que no se utilize
-    Nodo * buscarEnHeap(Persona * dato);
-
+    void initArray();
+    void add(Persona * persona);
+    void ordenar();
+    QString toString();
+    Persona * eliminar(Persona * persona);
+    Persona * buscarMenosPecador();
 };
 
 #endif // HEAP_H

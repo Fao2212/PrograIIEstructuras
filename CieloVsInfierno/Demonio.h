@@ -6,14 +6,16 @@ struct Demonio{
 
     QString nombre;
     Comportamiento pecado;
+    Comportamiento buenaAccion;
     QHash<QString,Heap *> * familias;
     Mundo * mundo;
     double PORCENTAJEDECONDENADOS = 0.05;
 
-    Demonio(QString nombre,Comportamiento pecado,Mundo * mundo){
+    Demonio(QString nombre,Comportamiento pecado,Mundo * mundo,Comportamiento buenaAccion){
         this->nombre = nombre;
         this->pecado = pecado;
         this->mundo = mundo;
+        this->buenaAccion = buenaAccion;
         initHash();
     }
 
@@ -23,8 +25,8 @@ struct Demonio{
     Heap * buscarEnInfierno(Persona *);
     QString getKey(Persona *);
     QString toString();
-
-
+    int sumarPecados();
+    QString imprimirInfierno();
 
 };
 

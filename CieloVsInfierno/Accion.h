@@ -14,6 +14,7 @@ struct Accion{
     }
 
     void aumentarValor(int cantidad);
+    QString toString();
 };
 
 #endif // ACCION_H

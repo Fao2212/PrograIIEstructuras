@@ -10,6 +10,7 @@ struct NodoAngeles{
 
     NodoAngeles(Angel * angel){
         this->angel = angel;
+        this->hijoMedio = this->hijoDerecho = this->hijoIzquierdo = nullptr;
     }
 
 };

@@ -43,6 +43,7 @@ struct Infierno{
     Persona * buscarBuenasAcciones();
     void enviarPorAlmas(QString demonio);
     void condenacion();
+    QString imprimirInfierno();
 
 };
 

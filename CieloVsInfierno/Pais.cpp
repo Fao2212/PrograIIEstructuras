@@ -16,3 +16,7 @@ void Pais::obtenerContinente(int pais){
     else
         this->continente = "AFRICA";
 }
+
+void Pais::sumarPecados(int pecados){
+    this->pecados += pecados;
+}

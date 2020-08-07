@@ -1,6 +1,7 @@
 #include "ArbolAngeles.h"
 #include "NodoAngeles.h"
 #include "Angel.h"
+#include "Random.h"
 
 void ArbolAngeles::buscarHoja(NodoAngeles * nodo){
     if(nodo->hijoIzquierdo == nullptr)
@@ -13,8 +14,10 @@ void ArbolAngeles::buscarHoja(NodoAngeles * nodo){
 }
 
 void ArbolAngeles::nuevoNivel(){
-    if(raiz == nullptr)
+    if(raiz == nullptr){
+        qDebug()<<"Raiz creada";
         this->raiz = new NodoAngeles(new Angel(hash,infierno));
+    }
     else
         buscarHoja(raiz);
 }
@@ -25,4 +28,10 @@ void ArbolAngeles::llenarHijos(NodoAngeles * nodo){
     nodo->hijoMedio = new NodoAngeles(new Angel(hash,infierno));
     nodo->hijoDerecho = new NodoAngeles(new Angel(hash,infierno));
 
+}
+
+void ArbolAngeles::generarNombres(QString nombres[]){
+    for (int i = 0;i<nombres->length();i++) {
+        nombres[i] = nombresAngeles[Random::RandomRange(0,9)];
+    }
 }

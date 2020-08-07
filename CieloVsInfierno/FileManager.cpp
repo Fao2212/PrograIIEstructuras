@@ -51,8 +51,6 @@ QString FileManager :: moverArchivo(QString path, QString newPath){//Poner el ar
 
 QDir FileManager :: setDir(){
     QDir direccion = QDir::currentPath();
-    qDebug()<<direccion;
     direccion.cdUp();
-    qDebug()<<direccion;
     return direccion;
 }

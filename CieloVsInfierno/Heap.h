@@ -23,6 +23,7 @@ struct Heap{
     QString toString();
     Persona * eliminar(Persona * persona);
     Persona * buscarMenosPecador();
+    int sumarPecados();
 };
 
 #endif // HEAP_H

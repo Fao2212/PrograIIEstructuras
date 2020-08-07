@@ -1,5 +1,6 @@
 #include "Familia.h"
 #include "Persona.h"
+#include "Log.h"
 
 
 void Familia::agregarHijos(Persona **hijos){
@@ -24,11 +25,14 @@ Persona * Familia::buscarCabezaDeFamilia(Persona * p){
 QString Familia::imprimirFamilia(){
     Persona ** xd = getFamilia();
     QString msg = "";
+    Log::createlog(QString::number(persona->id)+"RequestFamilia"+Log::timeStamp());
     for (int i=0;i<50;i++) {
         if(xd[i]!= nullptr){
-            msg+=xd[i]->toString();
+            msg+=xd[i]->toString()+"\n";
         }
     }
+    Log::addToLog(msg);
+    Log::saveLog();
     return msg;
 }
 
@@ -76,4 +80,14 @@ void Familia::heredarPecados(Comportamiento comportamiento, int cantidad, Person
         Persona * hijo = p->familia->hijos[i];
         heredarPecados(comportamiento,cantidad,hijo,index);
     }
+}
+
+QString Familia::toStringHijos(){
+    QString msg = "[";
+    for (int i = 0;i<5;i++) {
+        if(hijos[i] != nullptr)
+            msg += hijos[i]->toStringSimple()+",";
+    }
+    msg+="]";
+    return msg;
 }

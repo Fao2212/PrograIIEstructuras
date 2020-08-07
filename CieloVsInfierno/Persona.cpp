@@ -1,6 +1,9 @@
 #include "Persona.h"
 #include "Familia.h"
+#include "Pais.h"
 #include "Acciones.h"
+#include "Demonio.h"
+#include "Angel.h"
 
 void Persona:: initPersona(int id){
     this->id = id;
@@ -30,10 +33,13 @@ bool Persona::tieneFamilia(){
 }
 
 QString Persona::toString(){
-    return QString::number(this->id)+" "+this->nombre+" "+this->apellido;
+    return QString::number(id)+"\t"+nombre+"\t"+apellido+"\t"+pais->nombre+"\t"+
+            /*creencia+profesion+correo+horaDeNacimiento+*/acciones->toString()+
+            "\t"+familia->toStringHijos();
 }
 
 void Persona::sumarAccion(Comportamiento comportamiento, int cantidad){
+    sumarPecadosAPais(cantidad);
     acciones->sumarAccion(comportamiento,cantidad);
 }
 
@@ -67,4 +73,32 @@ void Persona::serSalvado(Angel *angel){
 
 bool Persona::tieneMasBuenasAcciones(){
     return acciones->totalBuenasAcciones() > acciones->totalPecados();
+}
+
+void Persona::sumarPecadosAPais(int pecados){
+    this->pais->sumarPecados(pecados);
+}
+
+QString Persona::toStringInfierno(){
+    return QDateTime::currentDateTime().toString()+"\tHumano#\t"+QString::number(id)+"\t"+nombre+
+            "\t"+apellido+"\t"+pais->nombre+"\t"+QDateTime::currentDateTime().toString()+
+            "\t"+toStringComportamiento(demonio->pecado)+"\t"+QString::number(getComportamiento(demonio->pecado))+"\t"+
+            toStringComportamiento(demonio->buenaAccion)+"\t"+QString::number(getComportamiento(demonio->buenaAccion))+"\t"+
+            demonio->nombre;
+}
+
+QString Persona::toStringCielo(){
+    return QDateTime::currentDateTime().toString()+"\tHumano#\t"+QString::number(id)+"\t"+nombre+
+            "\t"+apellido+"\t"+pais->nombre+"\t"+QDateTime::currentDateTime().toString()+
+            "\t"+"Pecados"+"\t"+QString::number(acciones->totalPecados())+"\t"+"Buenas Acciones"
+            +"\t"+QString::number(acciones->totalBuenasAcciones())+"\t"+
+            angel->toString();
+}
+
+QString Persona::toStringComportamiento(Comportamiento comportamiento){
+    return acciones->comportamientoName(comportamiento);
+}
+
+QString Persona::toStringSimple(){
+    return QString::number(id)+"\t"+nombre+"\t"+apellido;
 }

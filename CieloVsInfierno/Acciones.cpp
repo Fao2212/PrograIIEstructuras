@@ -7,7 +7,7 @@ void Acciones::initAcciones(){
 
     for (int i = 0;i < 7;i++) {
         pecados[i] = new Accion(enumValues[i],i);
-        buenasAcciones[i+7] = new Accion(enumValues[i+7],i+7);
+        buenasAcciones[i] = new Accion(enumValues[i+7],i+7);
     }
 }
 
@@ -16,8 +16,8 @@ Accion * Acciones::getAccion(Comportamiento comportamiento){
         if(comportamiento == pecados[i]->comportamiento){
             return pecados[i];
         }
-        if(comportamiento == buenasAcciones[i+7]->comportamiento)
-            return buenasAcciones[i+7];
+        if(comportamiento == buenasAcciones[i]->comportamiento)
+            return buenasAcciones[i];
     }
     return  nullptr;
 }
@@ -42,7 +42,7 @@ int Acciones::diferenciaIndividual(Comportamiento comportamiento){
             return accion->valor-buenasAcciones[accion->index]->valor;
         }
         else{
-            return accion->valor-pecados[accion->index]->valor;
+            return accion->valor-pecados[accion->index-7]->valor;
         }
     }
 }
@@ -66,6 +66,7 @@ int Acciones::totalPecados(){
 int Acciones::totalBuenasAcciones(){
     int resultado = 0;
     for (int i = 0;i<7;i++) {
+
         resultado += buenasAcciones[i]->valor;
     }
     return  resultado;
@@ -86,4 +87,54 @@ void Acciones::sumarBuenasAcciones(){
     for (int i = 0;i<7;i++) {
         buenasAcciones[i]->aumentarValor(Random::RandomRange(0,100));
     }
+}
+
+QString Acciones::comportamientoName(Comportamiento comportamiento){
+    switch (comportamiento) {
+            case IRA:
+            return "Ira";
+            case GULA:
+            return "Gula";
+            case AYUNO:
+            return "Ayuno";
+            case CALMA:
+            return "Calma";
+            case PEREZA:
+            return "Pereza";
+            case CODICIA:
+            return "Codicia";
+            case ENVIDIA:
+            return "Envidia";
+            case LUJURIA:
+            return "Lujuria";
+            case ORGULLO:
+            return "Orgullo";
+            case CASTIDAD:
+            return "Castidad";
+            case DONACION:
+            return "Donacion";
+            case HUMILDAD:
+            return "Humildad";
+            case DILIGENCIA:
+            return "Diligencia";
+            case SOLIDARIDAD:
+            return "Solidaridad";
+            case ID:
+            return "Id";
+            default:
+            return "";
+    }
+}
+
+QString Acciones::toString(){
+    QString msg = "[Pecados: ";
+    for (int i = 0;i<7;i++) {
+        msg += pecados[i]->toString()+",";
+    }
+    msg += "Buenas Acciones:";
+    for (int i = 0;i<7;i++) {
+        msg += buenasAcciones[i]->toString()+",";
+    }
+    msg+="]";
+    return msg;
 }

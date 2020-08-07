@@ -7,6 +7,9 @@ struct Angel{
     HashCielo * hash;
     Infierno * infierno;
     Persona * salvado;
+    QString nombre;
+    int version;
+    int generacion;
 
     Angel(HashCielo * hash,Infierno * infierno){
         this->hash = hash;

@@ -22,6 +22,7 @@ struct Familia{
     void imprimirHijos(Persona * p);
     void heredarPecados(Comportamiento,int);
     void heredarPecados(Comportamiento,int,Persona*,int index);
+    QString toStringHijos();
 
 };
 

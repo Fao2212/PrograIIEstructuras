@@ -5,6 +5,7 @@
 #include "Pais.h"
 #include "Familia.h"
 #include "Infierno.h"
+#include "Cielo.h"
 
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
@@ -77,4 +78,19 @@ void MainWindow::on_pushButton_4_clicked()
 void MainWindow::on_btnCondenacion_clicked()
 {
     mundo->infierno->condenacion();
+}
+
+void MainWindow::on_pushButton_6_clicked()
+{
+    mundo->cielo->salvacion();
+}
+
+void MainWindow::on_pushButton_5_clicked()
+{
+    mundo->buenasAcciones();
+}
+
+void MainWindow::on_pushButton_7_clicked()
+{
+    mundo->imprimirInfierno();
 }

@@ -29,8 +29,8 @@ Persona * Heap::eliminar(Persona * borrado){
         }
     }
     if(pos != -1){
-        personas[pos] = personas[index];
-        personas[index] = nullptr;
+        personas[pos] = personas[index-1];
+        personas[index-1] = nullptr;
         index--;
         return borrado;
     }
@@ -38,3 +38,12 @@ Persona * Heap::eliminar(Persona * borrado){
         return nullptr;
     }
 }
+
+QString Heap::toString(){
+    QString msg = "";
+    for (int i = 0;i<index;i++) {
+        msg+=personas[i]->toString()+"\n";
+    }
+    return msg;
+}
+//Hacer un bubble sort para reordenar el array al eliminar

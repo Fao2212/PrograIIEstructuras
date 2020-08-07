@@ -5,6 +5,8 @@
 #include "QFile"
 #include "QHash"
 #include "qlist.h"
+#include "QDir"
+#include "QDateTime"
 
 struct Arbol;
 struct ArbolGenealogico;
@@ -29,6 +31,8 @@ struct NodoAG;
 struct NodoA;
 
 struct Pais;
+struct Continente;
+
 struct Persona;
 struct Acciones;
 struct Accion;

@@ -2,10 +2,11 @@
 #include "Demonio.h"
 #include "Random.h"
 #include "Heap.h"
+#include "Log.h"
 
 void Infierno::initDemonios(){
     for (int i =0;i<7;i++) {
-        demonios[i] = new Demonio(nombresDeDemonios[i],enumValues[i],mundo);
+        demonios[i] = new Demonio(nombresDeDemonios[i],enumValues[i],mundo,enumValues[i+7]);
     }
 }
 
@@ -25,9 +26,14 @@ Demonio * Infierno::getDemonio(QString demonio){
 }
 
 void Infierno::condenacion(){
+    qDebug()<<"Comienza Condenacion";
+    QString time = QDateTime::currentDateTime().toString("yyyy-MM-ddhh-mm-ss");
+    Log::createlog("Condenacion"+time);
     for (int i = 0;i<7;i++) {
         demonios[i]->cosecharPecados();
     }
+    Log::saveLog();
+    qDebug()<<"Termina Condenacion";
 }
 
 Persona * Infierno::buscarBuenasAcciones(){
@@ -48,3 +54,17 @@ Persona * Infierno::buscarBuenasAcciones(){
     }
     return nullptr;
 }
+
+QString Infierno:: imprimirInfierno(){
+    QString msg = "Infierno/n";
+    for (int i = 0;i<7;i++) {
+        msg+= demonios[i]->imprimirInfierno()+"\n";
+    }
+    return msg;
+}
+    //TODOS LOS DEMONIOS Y SU PECADO
+    //TOTAL EN INFIERNO PROMEDIO DE PECADOS EL MAXIMO Y EL MINIMO
+    //RECORRIDO DE TODOS LOS INFIERNOS
+    //RECORRIDO DEL HEAP
+
+

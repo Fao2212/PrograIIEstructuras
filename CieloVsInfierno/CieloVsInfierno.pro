@@ -24,6 +24,7 @@ SOURCES += \
     ArbolGenealogico.cpp \
     ArbolMundo.cpp \
     Cielo.cpp \
+    Continente.cpp \
     Controller.cpp \
     Demonio.cpp \
     Familia.cpp \
@@ -33,10 +34,12 @@ SOURCES += \
     Infierno.cpp \
     ListaDoble.cpp \
     ListaSimple.cpp \
+    Log.cpp \
     Mundo.cpp \
     Pais.cpp \
     Persona.cpp \
     Random.cpp \
+    Util.cpp \
     main.cpp \
     mainwindow.cpp
 
@@ -49,6 +52,7 @@ HEADERS += \
     ArbolGenealogico.h \
     ArbolMundo.h \
     Cielo.h \
+    Contienente.h \
     Controller.h \
     Demonio.h \
     Familia.h \
@@ -58,6 +62,7 @@ HEADERS += \
     Infierno.h \
     ListaDoble.h \
     ListaSimple.h \
+    Log.h \
     Mundo.h \
     Nodo.h \
     NodoA.h \
@@ -66,6 +71,7 @@ HEADERS += \
     Pais.h \
     Persona.h \
     Random.h \
+    Util.h \
     includes.h \
     mainwindow.h
 

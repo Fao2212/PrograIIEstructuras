@@ -37,6 +37,7 @@ struct Acciones{
     int totalPecados();
     void sumarPecados();
     void sumarBuenasAcciones();
+    QString static comportamientoName(Comportamiento comportamiento);
 
 };
 

@@ -12,7 +12,9 @@
 #include "Nodo.h"
 #include "NodoAG.h"
 #include "Infierno.h"
+#include "Contienente.h"
 #include "Cielo.h"
+#include "Log.h"
 
 void Mundo:: nombrarPersona(Persona * persona){
     darNombre(persona);
@@ -20,7 +22,7 @@ void Mundo:: nombrarPersona(Persona * persona){
 }
 
 void Mundo::initApellidos(){
-
+    Log::addToLog("Creando apellidos");
     QDir a = FileManager::setDir();
     QString path = a.path()+"/CieloVsInfierno/Datos Humanos/Apellidos.txt";
     QString data = FileManager::leer(path);
@@ -36,6 +38,7 @@ void Mundo::initApellidos(){
 }
 
 void Mundo::initNombres(){
+    Log::addToLog("Creando nombres");
     QDir a = FileManager::setDir();
     QString path = a.path()+"/CieloVsInfierno/Datos Humanos/Nombres.txt";
     QString data = FileManager::leer(path);
@@ -46,6 +49,7 @@ void Mundo::initNombres(){
 }
 
 void Mundo::initPaises(){
+    Log::addToLog("Creando paises");
     QDir a = FileManager::setDir();
     QString path = a.path()+"/CieloVsInfierno/Datos Humanos/Paises.txt";
     QString data = FileManager::leer(path);
@@ -65,6 +69,7 @@ void Mundo::initPaises(){
 }
 
 void Mundo::initMundo(){
+    Log::createlog("CreacionDelMuntoTest");
     this->poblacion = new ListaDoble();
     this->familias = new ListaSimple();
     this->consecutivo = 0;
@@ -75,9 +80,12 @@ void Mundo::initMundo(){
     initNombres();
     initApellidos();
     initPaises();
+    initContinentes();
+    Log::saveLog();
 }
 
 void Mundo::initIdentidades(){
+    Log::addToLog("Creando identidades");
     for (int i = 0;i<1000000;i++) {
         identidades[i] = i;
     }
@@ -190,4 +198,25 @@ void Mundo::buenasAcciones(){
     qDebug()<<"Inicia buenas acciones";
     poblacion->caminoDelBien();
     qDebug()<<"Termina buenas acciones";
+}
+
+void Mundo::initContinentes(){
+    Log::addToLog("Creando continentes");
+    for (int i = 0;i<5;i++) {
+        contienentes[i] = new Continente(continentesName[i]);
+        for (int j = 0;j<25;j++) {
+            if(paises[j]->continente == contienentes[i]->nombre)
+                contienentes[i]->addPais(paises[j]);
+        }
+        qDebug()<<contienentes[i]->nombre<<contienentes[i]->toString();
+    }
+
+}
+
+QString Mundo::imprimirInfierno(){
+    QString msg = infierno->imprimirInfierno();
+    Log::createlog("ImpresionDelInfierno"+Log::timeStamp());
+    Log::addToLog(msg);
+    Log::saveLog();
+    return msg;
 }

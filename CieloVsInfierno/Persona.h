@@ -31,10 +31,15 @@ struct Persona{
     int getComportamiento(Comportamiento comportamiento);
     void morir(Demonio * demonio);
     void serSalvado(Angel * angel);
-    bool tieneMasBuenasAcciones();//if total 1 > total 2 return true
+    bool tieneMasBuenasAcciones();
+    void sumarPecadosAPais(int pecados);
 
 
     QString toString();
+    QString toStringComportamiento(Comportamiento comportamiento);
+    QString toStringInfierno();
+    QString toStringSimple();
+    QString toStringCielo();
     QString allData();
 };
 

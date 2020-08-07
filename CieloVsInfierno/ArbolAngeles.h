@@ -7,6 +7,18 @@ struct ArbolAngeles{
     NodoAngeles * raiz;
     HashCielo * hash;
     Infierno  * infierno;
+    int generacion;
+    QString nombresAngeles[10]{
+                "Miguel",
+                "Nuriel",
+                "Aniel",
+                "Rafael",
+                "Gabriel",
+                "Shamsiel",
+                "Raguel",
+                "Uriel",
+                "Azrael",
+                "Sariel"};
 
     ArbolAngeles(HashCielo * hash,Infierno * infierno){
         this->hash = hash;
@@ -17,6 +29,7 @@ struct ArbolAngeles{
     void nuevoNivel();
     void buscarHoja(NodoAngeles *);
     void llenarHijos(NodoAngeles * nodo);
+    void generarNombres(QString nombres[]);
 
 };
 

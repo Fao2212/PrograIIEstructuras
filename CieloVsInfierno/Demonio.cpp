@@ -4,19 +4,20 @@
 #include "Persona.h"
 #include "Heap.h"
 #include "Pais.h"
-
+#include "Log.h"
+#include "Acciones.h"
 void Demonio::initHash(){
     this->familias = new QHash<QString,Heap *>();
 }
 
 void Demonio::cosecharPecados(){
-    qDebug()<<"Inicia busqueda del demonio "+nombre;
+    Log::addToLog("Inicia busqueda del demonio "+nombre);
     int largo = mundo->poblacion->largo();
     Persona * personas[largo];
     mundo->poblacion->ordenarPorPecado(personas,pecado);
     int condenados = 0;
     int totalCondenados = mundo->vivos*PORCENTAJEDECONDENADOS;
-    qDebug()<<"Condenados"<<totalCondenados;
+    Log::addToLog("Condenados :"+QString::number(totalCondenados));
     int i = 0;
     while (condenados < totalCondenados && i<largo) {
         Persona * persona = personas[i];
@@ -24,12 +25,13 @@ void Demonio::cosecharPecados(){
             Heap * infierno = buscarEnInfierno(persona);
             persona->morir(this);
             infierno->add(persona);
+            Log::addToLog(persona->toStringInfierno());
             mundo->vivos = mundo->vivos-1;
             condenados++;
         }
         i++;
     }
-    qDebug()<<"Termina busqueda del demonio";
+    Log::addToLog("Termina busqueda del demonio");
 }
 
 Heap * Demonio::buscarEnInfierno(Persona * persona){
@@ -51,5 +53,15 @@ QString Demonio::getKey(Persona *persona){
     QString apellido = persona->apellido;
     QString nombrepais = persona->pais->nombre;
     return apellido+nombrepais;
+}
+
+QString Demonio::imprimirInfierno(){
+    QString msg = "Infierno de "+nombre+"/"+Acciones::comportamientoName(pecado)+"\n";
+    QList<QString> keys = familias->keys();
+    for (int i = 0;i<keys.length();i++) {
+        msg+=keys.at(i)+"\n";
+        msg+=familias->value(keys.at(i))->toString();
+    }
+    return msg;
 }
 

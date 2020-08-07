@@ -18,6 +18,7 @@ struct Pais{
     int pecados;//...
 
     void obtenerContinente(int pos);
+    void sumarPecados(int pecados);
 
 };
 

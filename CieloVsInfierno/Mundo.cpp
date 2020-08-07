@@ -214,9 +214,32 @@ void Mundo::initContinentes(){
 }
 
 QString Mundo::imprimirInfierno(){
-    QString msg = infierno->imprimirInfierno();
     Log::createlog("ImpresionDelInfierno"+Log::timeStamp());
+    QString msg = infierno->imprimirInfierno();
     Log::addToLog(msg);
     Log::saveLog();
     return msg;
+}
+
+QString Mundo::imprimirCielo(){
+    Log::createlog("ImpresiomDelCielo"+Log::timeStamp());
+    cielo->imprimirCielo();
+    Log::saveLog();
+    return "";
+}
+
+QString Mundo::imprimirGuerra(){
+    Log::createlog("EstadoDeGuerra"+Log::timeStamp());
+    int totalCielo = cielo->totalEnCielo();
+    int totalInfierno = infierno->pecadosTotales();
+    infierno->imprimirCantidadDeCadaPecado();
+    cielo->imprimirCantidadDeCadaBuenaAccion();
+    Log::addToLog("Neto Infierno\t"+QString::number(totalInfierno-totalCielo));
+    Log::addToLog("Neto Cielo\t"+QString::number(totalCielo-totalInfierno));
+    if(totalInfierno-totalCielo>totalCielo-totalInfierno)
+        Log::addToLog("Ganando:\tInfierno");
+    else
+        Log::addToLog("Ganando:\tCielo");
+    Log::saveLog();
+    return "";
 }

@@ -94,3 +94,13 @@ void MainWindow::on_pushButton_7_clicked()
 {
     mundo->imprimirInfierno();
 }
+
+void MainWindow::on_pushButton_8_clicked()
+{
+    mundo->imprimirGuerra();
+}
+
+void MainWindow::on_pushButton_9_clicked()
+{
+    mundo->imprimirCielo();
+}

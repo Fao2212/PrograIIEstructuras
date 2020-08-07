@@ -7,6 +7,14 @@ struct Cielo{
     HashCielo * hash;
     ArbolAngeles * angeles;
     Infierno * infierno;
+    Comportamiento buenasAcciones[7]{
+        HUMILDAD,
+        SOLIDARIDAD,
+        CALMA,
+        DILIGENCIA,
+        DONACION,
+        AYUNO,
+        CASTIDAD};
 
     Cielo(Infierno * infierno){
         initCielo(infierno);
@@ -14,7 +22,9 @@ struct Cielo{
 
     void initCielo(Infierno * infierno);
     void salvacion();
-
+    QString imprimirCielo();
+    QString imprimirCantidadDeCadaBuenaAccion();
+    int totalEnCielo();
 
 };
 

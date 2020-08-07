@@ -27,6 +27,8 @@ struct Demonio{
     QString toString();
     int sumarPecados();
     QString imprimirInfierno();
+    QString toStringPecado();
+
 
 };
 

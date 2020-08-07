@@ -1,12 +1,13 @@
 #include "HashCielo.h"
 #include "Random.h"
 #include "Persona.h"
+#include "Acciones.h"
 
 QString HashCielo::toString(){
     QString data = "";
     for (int i = 0;i<1000;i++) {
         QList<Persona *> * bucket = buckets[i];
-        qDebug()<<"Bucket "<<i<<" "<<bucket->length();
+        data += "Bucket "+QString::number(i)+"\n"+toStringBucket(bucket);
     }
     return data;
 }
@@ -29,4 +30,34 @@ Persona * HashCielo::get(QString id){
         }
     }
     return nullptr;
+}
+
+QString HashCielo::toStringBucket(QList<Persona *>* bucket){
+    QString msg = "";
+    for (int i = 0;i<bucket->length();i++) {
+        msg+=bucket->at(i)->toString()+"\n";
+    }
+    return msg;
+}
+
+int HashCielo::cantidadDeUnaBuenaAccion(Comportamiento comportamiento){
+    int cantidad = 0;
+    for (int i = 0;i<1000;i++) {
+        QList<Persona *> * bucket = buckets[i];
+        for (int i = 0;i<bucket->length();i++) {
+            cantidad += bucket->at(i)->getComportamiento(comportamiento);
+        }
+    }
+    return cantidad;
+}
+
+int HashCielo::totalBuenasAcciones(){
+    int cantidad = 0;
+    for (int i = 0;i<1000;i++) {
+        QList<Persona *> * bucket = buckets[i];
+        for (int i = 0;i<bucket->length();i++) {
+            cantidad += bucket->at(i)->acciones->totalBuenasAcciones();
+        }
+    }
+    return cantidad;
 }

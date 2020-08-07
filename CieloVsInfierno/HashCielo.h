@@ -16,7 +16,10 @@ struct HashCielo{
     void insert(Persona *);
     Persona * get(QString);//Innecesario
     QString toString();
-
+    int cantidadDeUnaBuenaAccion(Comportamiento comportamiento);
+    QString toStringBucket(QList<Persona *>* bucket);
+    int totalBuenasAcciones();
+;
 };
 
 #endif // HASHCIELO_H

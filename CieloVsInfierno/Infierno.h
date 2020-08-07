@@ -44,6 +44,8 @@ struct Infierno{
     void enviarPorAlmas(QString demonio);
     void condenacion();
     QString imprimirInfierno();
+    QString imprimirCantidadDeCadaPecado();
+    int pecadosTotales();
 
 };
 

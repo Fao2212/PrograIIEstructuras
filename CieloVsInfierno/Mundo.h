@@ -51,12 +51,14 @@ struct Mundo{
     //Consultas
     QString imprimirInfierno();
     QString rankingPaisesMasPecadores();
+    QString imprimirCielo();
     QString rankingPaisesMenosPecadores();
     QString rankingPaisesMasBondadosos();
     QString rankingPaisesMenosBondadosos();
 
     Persona * buscarPersona(int id);//Usa el arbol para encontrar el mas proximo y se mueve anterior o siguietne a partir del nodo
     void pecar();
+    QString imprimirGuerra();
     void buenasAcciones();
 
 

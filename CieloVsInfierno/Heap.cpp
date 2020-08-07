@@ -1,5 +1,6 @@
 #include "Heap.h"
 #include "Persona.h"
+#include "Acciones.h"
 
 void Heap::initArray(){
     for (int i = 0;i<200;i++) {
@@ -45,5 +46,13 @@ QString Heap::toString(){
         msg+=personas[i]->toString()+"\n";
     }
     return msg;
+}
+
+int Heap::sumarPecados(){
+    int res = 0;
+    for (int i = 0;i<index;i++) {
+        res+=personas[i]->acciones->totalPecados();
+    }
+    return res;
 }
 //Hacer un bubble sort para reordenar el array al eliminar

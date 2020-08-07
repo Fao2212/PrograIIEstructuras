@@ -65,3 +65,12 @@ QString Demonio::imprimirInfierno(){
     return msg;
 }
 
+QString Demonio::toStringPecado(){
+    QString msg = Acciones::comportamientoName(pecado)+"\t";
+    QList<QString> keys = familias->keys();
+    int resultado = 0;
+    for (int i = 0;i<keys.length();i++) {
+        resultado+=familias->value(keys.at(i))->sumarPecados();
+    }
+    return msg+QString::number(resultado);
+}

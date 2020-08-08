@@ -1,0 +1,7 @@
+PecadosTotales:	8270590
+Orgullo	1495711	Envidia	1403328	Ira	1298996	Pereza	1198108	Codicia	1063415	Gula	975220	Lujuria	835812	
+BuenasAccionesTotales:	1573773
+Humildad	223973	Solidaridad	224298	Calma	225524	Diligencia	222806	Donacion	225035	Ayuno	226383	Castidad	225754	
+Neto Infierno	6696817
+Neto Cielo	-6696817
+Ganando:	Infierno

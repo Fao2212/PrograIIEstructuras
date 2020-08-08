@@ -29,6 +29,9 @@ struct Arbol
        int cantNodos2(NodoA*);
        void nodos_nivel (NodoA*, int, int);
        int contadorNodos(NodoA*);
+       void toStringProgra(NodoA*,QList<Persona *> * personas);
+       void toStringHojas(NodoA*);
+
 
 };
 

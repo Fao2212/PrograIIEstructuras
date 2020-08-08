@@ -120,9 +120,6 @@ QString Infierno:: imprimirInfierno(){
     Log::addToLog("Menos Pecador:\t"+menosPecador->toString());
     return msg;
 }
-    //TODOS LOS DEMONIOS Y SU PECADO
-    //TOTAL EN INFIERNO PROMEDIO DE PECADOS EL MAXIMO Y EL MINIMO
-    //RECORRIDO DE TODOS LOS INFIERNOS
-    //RECORRIDO DEL HEAP
+
 
 

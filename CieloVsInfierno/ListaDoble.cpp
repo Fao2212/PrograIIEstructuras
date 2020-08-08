@@ -147,6 +147,7 @@ void ListaDoble::moverPrimerNodo(){
 }
 
 void ListaDoble::enviarAlFinal(Persona * persona){
+    qDebug()<<persona;
     Nodo * aCambiar = buscar(persona);
     if (aCambiar != ultimoNodo) {
         if (aCambiar == primerNodo) {

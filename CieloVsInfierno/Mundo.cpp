@@ -103,6 +103,7 @@ void Mundo :: agregarPoblacion(int cantidad){
         mier->dato->heap->imprimir();
         mier = mier->siguiente;
     }
+    imprimirMundo();
 }
 
 void Mundo::ordenarMundo(){
@@ -184,7 +185,8 @@ QString Mundo::imprimirUnaFamilia(Persona * persona){
 
 void Mundo::iniciarDistribucionDeFamilias(){//Tengo que pensar en como dar familias antes del shuffle
     for (int i = 0;i<poblacion->largo();i++) {
-        asignarFamilia(poblacion->get(i)->dato);
+        if(!poblacion->get(i)->dato->familiaAsignada)
+            asignarFamilia(poblacion->get(i)->dato);
     }
 }
 
@@ -240,6 +242,76 @@ QString Mundo::imprimirGuerra(){
         Log::addToLog("Ganando:\tInfierno");
     else
         Log::addToLog("Ganando:\tCielo");
+    Log::saveLog();
+    return "";
+}
+
+QString Mundo::rankingPaisesMasPecadores(){
+    QString msg = "Mas Pecadores\n";
+    ordenarPaisesTotalPecados();
+    for (int i = 0;i<10;i++) {
+        msg+=QString::number(i+1)+"."+paises[i]->nombre+" "+paises[i]->pecados+"\n";
+    }
+    return msg;
+}
+
+QString Mundo::rankingPaisesMenosPecadores(){
+    QString msg = "Menos Pecadores\n";
+    ordenarPaisesTotalPecados();
+    for (int i = 0;i<5;i++) {
+        msg+=QString::number(i+1)+"."+paises[i]->nombre+" "+paises[i]->pecados+"\n";
+    }
+    return msg;
+}
+
+QString Mundo::rankingPaisesMasBondadosos(){
+    QString msg = "Mas Bondadosos\n";
+    ordenarPaisesTotalBuenasAcciones();
+    for (int i = 0;i<10;i++) {
+        msg+=QString::number(i+1)+"."+paises[i]->nombre+" "+paises[i]->buenasAcciones+"\n";
+    }
+    return msg;
+}
+
+QString Mundo::rankingPaisesMenosBondadosos(){
+    QString msg = "Menos Bondadosos\n";
+    ordenarPaisesTotalBuenasAcciones();
+    for (int i = 0;i<5;i++) {
+        msg+=QString::number(i+1)+"."+paises[i]->nombre+" "+paises[i]->buenasAcciones+"\n";
+    }
+    return msg;
+}
+
+void Mundo::ordenarPaisesTotalPecados(){
+    for (int i = 0;i<24;i++) {
+        for (int j = i+1;j<25;j++) {
+            if (paises[j]->pecados > paises[i]->pecados){
+                Pais * temp = paises[i];
+                paises[i] = paises[j];
+                paises[j] = temp;
+            }
+        }
+    }
+}
+
+void Mundo::ordenarPaisesTotalBuenasAcciones(){
+    for (int i = 0;i<24;i++) {
+        for (int j = i+1;j<25;j++) {
+            if (paises[j]->buenasAcciones > paises[i]->buenasAcciones){
+                Pais * temp = paises[i];
+                paises[i] = paises[j];
+                paises[j] = temp;
+            }
+        }
+    }
+}
+
+QString Mundo::imprimirMundo(){
+    Log::createlog("Mundo"+Log::timeStamp());
+    Log::addToLog("Poblacion\t"+QString::number(poblacion->largo()));
+    for (int i = 0;i<poblacion->largo();i++) {
+        Log::addToLog(poblacion->get(i)->dato->toString());
+    }
     Log::saveLog();
     return "";
 }

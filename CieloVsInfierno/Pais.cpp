@@ -20,3 +20,7 @@ void Pais::obtenerContinente(int pais){
 void Pais::sumarPecados(int pecados){
     this->pecados += pecados;
 }
+
+void Pais::sumarBuenasAcciones(int buenasAcciones){
+    this->buenasAcciones += buenasAcciones;
+}

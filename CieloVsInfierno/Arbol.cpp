@@ -3,6 +3,7 @@
 #include "QDebug"
 #include "Nodo.h"
 #include "Persona.h"
+#include "Log.h"
 
 void Arbol::insertar(Nodo * dato)
 {
@@ -31,12 +32,16 @@ NodoA* Arbol::insertar(Nodo * valor, NodoA* nodo)
 
 void Arbol::inOrden(NodoA* nodo)
 {
+
    if (nodo != nullptr)
    {
      inOrden(nodo->hijoizquierdo);
+     if(nodo->hijoizquierdo != nullptr && nodo->hijoderecho != nullptr)
+     Log::addToLog(QString::number(nodo->hijoizquierdo->dato->dato->id)+QString::number(nodo->hijoderecho->dato->dato->id)+"\n");
      qDebug()<< nodo->dato->dato->id << "  id Persona";
      inOrden(nodo->hijoderecho);
    }
+
 }
 
 void Arbol::preOrden(NodoA* nodo)
@@ -240,3 +245,25 @@ NodoA* Arbol::borrarElemento(Nodo * ele, NodoA* arbol)
         }
         return arbol;
     }
+
+void Arbol::toStringProgra(NodoA*nodo,QList<Persona * > *personas){
+    if (nodo == nullptr)
+       return;
+    else if (nodo->hijoderecho == nullptr && nodo->hijoizquierdo==nullptr)
+         personas->append(nodo->dato->dato);
+
+    toStringProgra(nodo->hijoizquierdo,personas);
+    toStringProgra(nodo->hijoderecho,personas);
+}
+
+void Arbol::toStringHojas(NodoA * nodo){
+    if (nodo != nullptr)
+    {
+      if(nodo->hijoizquierdo == nullptr && nodo->hijoderecho == nullptr){
+          Log::addToLog(nodo->dato->dato->toString());
+      }
+      toStringHojas(nodo->hijoizquierdo);
+      toStringHojas(nodo->hijoderecho);
+    }
+
+}

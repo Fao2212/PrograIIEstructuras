@@ -32,7 +32,7 @@ struct Persona{
     void morir(Demonio * demonio);
     void serSalvado(Angel * angel);
     bool tieneMasBuenasAcciones();
-    void sumarPecadosAPais(int pecados);
+    void sumarPecadosAPais(Comportamiento comportamiento,int pecados);
 
 
     QString toString();

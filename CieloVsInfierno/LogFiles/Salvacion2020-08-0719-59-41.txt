@@ -1,0 +1,642 @@
+vie. ago. 7 19:59:41 2020	Humano#	873379	Hazel	CARRETERO	ISLAS MARSHALL	vie. ago. 7 19:59:41 2020	Pecados	1432	Buenas Acciones	1459	angel
+vie. ago. 7 19:59:41 2020	Humano#	903968	Iscariote	FRIAS	NUEVA ZELANDA	vie. ago. 7 19:59:41 2020	Pecados	1513	Buenas Acciones	1729	angel
+vie. ago. 7 19:59:41 2020	Humano#	745002	Procopio	GILABERT	GUAM	vie. ago. 7 19:59:41 2020	Pecados	1137	Buenas Acciones	1489	angel
+vie. ago. 7 19:59:41 2020	Humano#	823886	Bernadette	RICO	NUEVA ZELANDA	vie. ago. 7 19:59:41 2020	Pecados	1458	Buenas Acciones	1472	angel
+vie. ago. 7 19:59:41 2020	Humano#	794025	Prisciliana	MARISCAL	ISLAS MARSHALL	vie. ago. 7 19:59:41 2020	Pecados	1491	Buenas Acciones	1595	angel
+vie. ago. 7 19:59:41 2020	Humano#	873287	Censuria	VALVERDE	CAMER?N	vie. ago. 7 19:59:41 2020	Pecados	1538	Buenas Acciones	1598	angel
+vie. ago. 7 19:59:41 2020	Humano#	758749	Samay	CERDA	ISLAS MARSHALL	vie. ago. 7 19:59:41 2020	Pecados	1424	Buenas Acciones	1443	angel
+vie. ago. 7 19:59:41 2020	Humano#	896514	Car?sima	ROSALES	BELICE	vie. ago. 7 19:59:41 2020	Pecados	1404	Buenas Acciones	1443	angel
+vie. ago. 7 19:59:41 2020	Humano#	819603	Henrique	PERAL	REP?BLICA DEL CONGO	vie. ago. 7 19:59:41 2020	Pecados	1543	Buenas Acciones	1550	angel
+vie. ago. 7 19:59:41 2020	Humano#	811424	Prot?gena	ADAN	COREA DEL NORTE	vie. ago. 7 19:59:41 2020	Pecados	1585	Buenas Acciones	1730	angel
+vie. ago. 7 19:59:41 2020	Humano#	610365	Berlinda	LOSADA	COREA DEL NORTE	vie. ago. 7 19:59:41 2020	Pecados	1490	Buenas Acciones	1702	angel
+vie. ago. 7 19:59:41 2020	Humano#	739644	Hermelanda	BARRERA	ESLOVAQUIA	vie. ago. 7 19:59:41 2020	Pecados	1295	Buenas Acciones	1314	angel
+vie. ago. 7 19:59:41 2020	Humano#	637936	Potamio	SANTIAGO	ESLOVAQUIA	vie. ago. 7 19:59:41 2020	Pecados	1511	Buenas Acciones	1561	angel
+vie. ago. 7 19:59:41 2020	Humano#	895514	Josafat	ROS	INDIA	vie. ago. 7 19:59:41 2020	Pecados	1349	Buenas Acciones	1359	angel
+vie. ago. 7 19:59:41 2020	Humano#	834759	Capitolino	VALVERDE	GHANA	vie. ago. 7 19:59:41 2020	Pecados	1446	Buenas Acciones	1606	angel
+vie. ago. 7 19:59:41 2020	Humano#	774557	Inti	TOMAS	FINLANDIA	vie. ago. 7 19:59:41 2020	Pecados	1471	Buenas Acciones	1591	angel
+vie. ago. 7 19:59:41 2020	Humano#	821796	Hunifreda	ZAMORANO	ANGOLA	vie. ago. 7 19:59:41 2020	Pecados	1585	Buenas Acciones	1620	angel
+vie. ago. 7 19:59:41 2020	Humano#	829130	Orestes	DORADO	BRASIL	vie. ago. 7 19:59:41 2020	Pecados	1610	Buenas Acciones	1636	angel
+vie. ago. 7 19:59:41 2020	Humano#	905410	Ifigenia	ELIAS	REP?BLICA DEL CONGO	vie. ago. 7 19:59:41 2020	Pecados	1626	Buenas Acciones	1702	angel
+vie. ago. 7 19:59:41 2020	Humano#	710947	Herm?crates	TOMAS	FINLANDIA	vie. ago. 7 19:59:41 2020	Pecados	1104	Buenas Acciones	1465	angel
+vie. ago. 7 19:59:41 2020	Humano#	693589	Privada	YUSTE	BRASIL	vie. ago. 7 19:59:41 2020	Pecados	1315	Buenas Acciones	1498	angel
+vie. ago. 7 19:59:41 2020	Humano#	850875	Cerauna	BEJARANO	NUEVA ZELANDA	vie. ago. 7 19:59:41 2020	Pecados	1396	Buenas Acciones	1771	angel
+vie. ago. 7 19:59:41 2020	Humano#	807678	Bertila	MAYOR	AUSTRALIA	vie. ago. 7 19:59:41 2020	Pecados	1283	Buenas Acciones	1435	angel
+vie. ago. 7 19:59:41 2020	Humano#	777322	Catrina	PINEDA	COREA DEL NORTE	vie. ago. 7 19:59:41 2020	Pecados	1548	Buenas Acciones	1556	angel
+vie. ago. 7 19:59:41 2020	Humano#	909471	Braulia	BARRERA	ARGELIA	vie. ago. 7 19:59:41 2020	Pecados	1063	Buenas Acciones	1345	angel
+vie. ago. 7 19:59:41 2020	Humano#	629900	Grimanesa	PUERTO	ARGELIA	vie. ago. 7 19:59:41 2020	Pecados	1580	Buenas Acciones	1644	angel
+vie. ago. 7 19:59:41 2020	Humano#	717740	Bereguiso	MEDINA	CAMBOYA	vie. ago. 7 19:59:41 2020	Pecados	1314	Buenas Acciones	1444	angel
+vie. ago. 7 19:59:41 2020	Humano#	916428	Isaura	PALOMINO	ANGOLA	vie. ago. 7 19:59:41 2020	Pecados	1332	Buenas Acciones	1468	angel
+vie. ago. 7 19:59:41 2020	Humano#	773077	Karima	MERA	BRASIL	vie. ago. 7 19:59:41 2020	Pecados	1262	Buenas Acciones	1523	angel
+vie. ago. 7 19:59:41 2020	Humano#	921965	Hermana	GORDO	BRASIL	vie. ago. 7 19:59:41 2020	Pecados	1540	Buenas Acciones	1549	angel
+vie. ago. 7 19:59:41 2020	Humano#	780845	Isaura	BILBAO	NUEVA ZELANDA	vie. ago. 7 19:59:41 2020	Pecados	1469	Buenas Acciones	1505	angel
+vie. ago. 7 19:59:41 2020	Humano#	627814	Baraquisia	HOLGADO	CROACIA	vie. ago. 7 19:59:41 2020	Pecados	1445	Buenas Acciones	1532	angel
+vie. ago. 7 19:59:41 2020	Humano#	782419	Gael	ALCALA	REP?BLICA DEL CONGO	vie. ago. 7 19:59:41 2020	Pecados	1543	Buenas Acciones	1591	angel
+vie. ago. 7 19:59:41 2020	Humano#	812035	Calimera	FERRE	ARGELIA	vie. ago. 7 19:59:41 2020	Pecados	1334	Buenas Acciones	1349	angel
+vie. ago. 7 19:59:41 2020	Humano#	862324	Arabela	ELIAS	REP?BLICA DEL CONGO	vie. ago. 7 19:59:41 2020	Pecados	1061	Buenas Acciones	1474	angel
+vie. ago. 7 19:59:41 2020	Humano#	931176	Arduino	SASTRE	ARGELIA	vie. ago. 7 19:59:41 2020	Pecados	1310	Buenas Acciones	1389	angel
+vie. ago. 7 19:59:41 2020	Humano#	937474	Naiara	SANMARTIN	ARMENIA	vie. ago. 7 19:59:41 2020	Pecados	1399	Buenas Acciones	1537	angel
+vie. ago. 7 19:59:41 2020	Humano#	922233	Aretas	ANDUJAR	ISLAS MARSHALL	vie. ago. 7 19:59:41 2020	Pecados	1480	Buenas Acciones	1492	angel
+vie. ago. 7 19:59:41 2020	Humano#	657712	C?stor	DORADO	BAR?IN	vie. ago. 7 19:59:41 2020	Pecados	1376	Buenas Acciones	1716	angel
+vie. ago. 7 19:59:41 2020	Humano#	736302	Neferet	HERVAS	ARABIA SAUDITA	vie. ago. 7 19:59:41 2020	Pecados	1560	Buenas Acciones	1563	angel
+vie. ago. 7 19:59:41 2020	Humano#	813259	Cenerica	ROBLEDO	FINLANDIA	vie. ago. 7 19:59:41 2020	Pecados	1565	Buenas Acciones	1793	angel
+vie. ago. 7 19:59:41 2020	Humano#	713570	Elin	LEMA	BELICE	vie. ago. 7 19:59:41 2020	Pecados	1009	Buenas Acciones	1453	angel
+vie. ago. 7 19:59:41 2020	Humano#	946652	Jerry	DUE?AS	BAR?IN	vie. ago. 7 19:59:41 2020	Pecados	1515	Buenas Acciones	1669	angel
+vie. ago. 7 19:59:41 2020	Humano#	829205	Privata	MARQUEZ	COREA DEL NORTE	vie. ago. 7 19:59:41 2020	Pecados	1304	Buenas Acciones	1352	angel
+vie. ago. 7 19:59:41 2020	Humano#	786500	Isolda	LAGUNA	REP?BLICA DEL CONGO	vie. ago. 7 19:59:41 2020	Pecados	1568	Buenas Acciones	1604	angel
+vie. ago. 7 19:59:41 2020	Humano#	820628	Prisciliano	JIMENEZ	BRASIL	vie. ago. 7 19:59:41 2020	Pecados	1440	Buenas Acciones	1457	angel
+vie. ago. 7 19:59:41 2020	Humano#	856060	Aura	SABATER	GUAM	vie. ago. 7 19:59:41 2020	Pecados	1172	Buenas Acciones	1584	angel
+vie. ago. 7 19:59:41 2020	Humano#	837558	Kali	PADRON	CROACIA	vie. ago. 7 19:59:41 2020	Pecados	1564	Buenas Acciones	1587	angel
+vie. ago. 7 19:59:41 2020	Humano#	741122	Hortensia	GO?I	ARMENIA	vie. ago. 7 19:59:41 2020	Pecados	1272	Buenas Acciones	1319	angel
+vie. ago. 7 19:59:41 2020	Humano#	861966	Hossana	VILLAVERDE	PARAGUAY	vie. ago. 7 19:59:41 2020	Pecados	1651	Buenas Acciones	1722	angel
+vie. ago. 7 19:59:41 2020	Humano#	902403	Herculano	RICO	ISLAS MARSHALL	vie. ago. 7 19:59:41 2020	Pecados	947	Buenas Acciones	1295	angel
+vie. ago. 7 19:59:41 2020	Humano#	803948	Pe?a	SINGH	CHIPRE	vie. ago. 7 19:59:41 2020	Pecados	1297	Buenas Acciones	1715	angel
+vie. ago. 7 19:59:41 2020	Humano#	843214	Habiba	CORRALES	ACROTIRI Y DHEKELIA	vie. ago. 7 19:59:41 2020	Pecados	1351	Buenas Acciones	1487	angel
+vie. ago. 7 19:59:41 2020	Humano#	793227	?o	DEL PINO	ACROTIRI Y DHEKELIA	vie. ago. 7 19:59:41 2020	Pecados	1412	Buenas Acciones	1576	angel
+vie. ago. 7 19:59:41 2020	Humano#	719046	Castoria	CA?IZARES	CROACIA	vie. ago. 7 19:59:41 2020	Pecados	1380	Buenas Acciones	1473	angel
+vie. ago. 7 19:59:41 2020	Humano#	828200	Isarnio	ROVIRA	BURUNDI	vie. ago. 7 19:59:41 2020	Pecados	1490	Buenas Acciones	1587	angel
+vie. ago. 7 19:59:41 2020	Humano#	803146	Pomponio	QUINTANA	ACROTIRI Y DHEKELIA	vie. ago. 7 19:59:41 2020	Pecados	1352	Buenas Acciones	1432	angel
+vie. ago. 7 19:59:41 2020	Humano#	738046	Pros?rpina	SOLIS	COREA DEL NORTE	vie. ago. 7 19:59:41 2020	Pecados	1679	Buenas Acciones	1791	angel
+vie. ago. 7 19:59:41 2020	Humano#	733736	Helge	DUE?AS	GHANA	vie. ago. 7 19:59:41 2020	Pecados	1243	Buenas Acciones	1451	angel
+vie. ago. 7 19:59:41 2020	Humano#	913993	Pigmenia	LORENZO	INDIA	vie. ago. 7 19:59:41 2020	Pecados	1592	Buenas Acciones	1730	angel
+vie. ago. 7 19:59:41 2020	Humano#	823073	Hipacia	QUIROS	CAMER?N	vie. ago. 7 19:59:41 2020	Pecados	1165	Buenas Acciones	1345	angel
+vie. ago. 7 19:59:41 2020	Humano#	859204	Bonaparte	VALENCIA	GUAM	vie. ago. 7 19:59:41 2020	Pecados	1452	Buenas Acciones	1572	angel
+vie. ago. 7 19:59:41 2020	Humano#	666255	Hiparco	BILBAO	EGIPTO	vie. ago. 7 19:59:41 2020	Pecados	1344	Buenas Acciones	1581	angel
+vie. ago. 7 19:59:41 2020	Humano#	839204	Deolinda	PALOMARES	AUSTRALIA	vie. ago. 7 19:59:41 2020	Pecados	1440	Buenas Acciones	1772	angel
+vie. ago. 7 19:59:41 2020	Humano#	816959	Artemisa	GUERRERO	ARABIA SAUDITA	vie. ago. 7 19:59:41 2020	Pecados	1282	Buenas Acciones	1393	angel
+vie. ago. 7 19:59:41 2020	Humano#	859210	Celestino	ACEVEDO	ISLAS MARSHALL	vie. ago. 7 19:59:41 2020	Pecados	1505	Buenas Acciones	1862	angel
+vie. ago. 7 19:59:41 2020	Humano#	732576	Arconcio	MONTERO	GUAM	vie. ago. 7 19:59:41 2020	Pecados	1555	Buenas Acciones	1594	angel
+vie. ago. 7 19:59:41 2020	Humano#	907640	Cayo	MEDINA	CAMBOYA	vie. ago. 7 19:59:41 2020	Pecados	1437	Buenas Acciones	1843	angel
+vie. ago. 7 19:59:41 2020	Humano#	676615	Altaf	MALDONADO	REP?BLICA DEL CONGO	vie. ago. 7 19:59:41 2020	Pecados	1369	Buenas Acciones	1452	angel
+vie. ago. 7 19:59:41 2020	Humano#	880806	Delmiro	ARANA	COREA DEL NORTE	vie. ago. 7 19:59:41 2020	Pecados	1431	Buenas Acciones	1482	angel
+vie. ago. 7 19:59:41 2020	Humano#	731234	Cam	ENERIZ	GUAM	vie. ago. 7 19:59:41 2020	Pecados	1090	Buenas Acciones	1382	angel
+vie. ago. 7 19:59:41 2020	Humano#	901914	Proteria	CLIMENT	BRASIL	vie. ago. 7 19:59:41 2020	Pecados	1337	Buenas Acciones	1646	angel
+vie. ago. 7 19:59:41 2020	Humano#	857327	Orco	LLORENTE	CAMBOYA	vie. ago. 7 19:59:41 2020	Pecados	1419	Buenas Acciones	1559	angel
+vie. ago. 7 19:59:41 2020	Humano#	823279	Bonosa	BEJARANO	ACROTIRI Y DHEKELIA	vie. ago. 7 19:59:41 2020	Pecados	1466	Buenas Acciones	1575	angel
+vie. ago. 7 19:59:41 2020	Humano#	868147	Ceciliano	OJEDA	ACROTIRI Y DHEKELIA	vie. ago. 7 19:59:41 2020	Pecados	1435	Buenas Acciones	1585	angel
+vie. ago. 7 19:59:41 2020	Humano#	822143	Italia	RUS	BURUNDI	vie. ago. 7 19:59:41 2020	Pecados	1381	Buenas Acciones	1468	angel
+vie. ago. 7 19:59:41 2020	Humano#	881522	Aparecida	FRIAS	AUSTRALIA	vie. ago. 7 19:59:41 2020	Pecados	1431	Buenas Acciones	1493	angel
+vie. ago. 7 19:59:41 2020	Humano#	899579	Calixta	FRIAS	AUSTRALIA	vie. ago. 7 19:59:41 2020	Pecados	1557	Buenas Acciones	1558	angel
+vie. ago. 7 19:59:41 2020	Humano#	693440	Shirin	SINGH	REP?BLICA DEL CONGO	vie. ago. 7 19:59:41 2020	Pecados	1378	Buenas Acciones	1453	angel
+vie. ago. 7 19:59:41 2020	Humano#	803221	Orencio	PLAZA	CROACIA	vie. ago. 7 19:59:41 2020	Pecados	924	Buenas Acciones	1300	angel
+vie. ago. 7 19:59:41 2020	Humano#	879175	Hamlet	VELEZ	ISLAS MARSHALL	vie. ago. 7 19:59:41 2020	Pecados	1487	Buenas Acciones	1677	angel
+vie. ago. 7 19:59:41 2020	Humano#	845797	Abbas	PERAL	ARGELIA	vie. ago. 7 19:59:41 2020	Pecados	1702	Buenas Acciones	1727	angel
+vie. ago. 7 19:59:41 2020	Humano#	836809	Heleno	ESTEVEZ	ISLAS MARSHALL	vie. ago. 7 19:59:41 2020	Pecados	1440	Buenas Acciones	1559	angel
+vie. ago. 7 19:59:41 2020	Humano#	889164	Blandino	ECHEVERRIA	GUAM	vie. ago. 7 19:59:41 2020	Pecados	1378	Buenas Acciones	1609	angel
+vie. ago. 7 19:59:41 2020	Humano#	763025	Casio	COBOS	ARGELIA	vie. ago. 7 19:59:41 2020	Pecados	1539	Buenas Acciones	1768	angel
+vie. ago. 7 19:59:41 2020	Humano#	826692	Catalda	ROSALES	ARABIA SAUDITA	vie. ago. 7 19:59:41 2020	Pecados	1528	Buenas Acciones	1605	angel
+vie. ago. 7 19:59:41 2020	Humano#	916874	Oliveria	ARNAU	FINLANDIA	vie. ago. 7 19:59:41 2020	Pecados	1576	Buenas Acciones	1615	angel
+vie. ago. 7 19:59:41 2020	Humano#	666252	Pulquerio	VACA	ARMENIA	vie. ago. 7 19:59:41 2020	Pecados	1477	Buenas Acciones	1514	angel
+vie. ago. 7 19:59:41 2020	Humano#	913542	?o	ARENAS	CROACIA	vie. ago. 7 19:59:41 2020	Pecados	1529	Buenas Acciones	1602	angel
+vie. ago. 7 19:59:41 2020	Humano#	856653	Isis	TENA	CAMBOYA	vie. ago. 7 19:59:41 2020	Pecados	1272	Buenas Acciones	1453	angel
+vie. ago. 7 19:59:41 2020	Humano#	856560	Isaura	LAGO	GHANA	vie. ago. 7 19:59:41 2020	Pecados	1548	Buenas Acciones	1694	angel
+vie. ago. 7 19:59:41 2020	Humano#	816283	Bicor	ORTU?O	INDIA	vie. ago. 7 19:59:41 2020	Pecados	1539	Buenas Acciones	1700	angel
+vie. ago. 7 19:59:41 2020	Humano#	651554	Carlomagno	NIETO	CROACIA	vie. ago. 7 19:59:41 2020	Pecados	1409	Buenas Acciones	1492	angel
+vie. ago. 7 19:59:41 2020	Humano#	797882	Beltrana	CUBERO	GHANA	vie. ago. 7 19:59:41 2020	Pecados	1573	Buenas Acciones	1597	angel
+vie. ago. 7 19:59:41 2020	Humano#	719132	Mailen	DE LA ROSA	REP?BLICA DEL CONGO	vie. ago. 7 19:59:41 2020	Pecados	1401	Buenas Acciones	1725	angel
+vie. ago. 7 19:59:41 2020	Humano#	764503	?ptima	MENDOZA	NUEVA ZELANDA	vie. ago. 7 19:59:41 2020	Pecados	1687	Buenas Acciones	1711	angel
+vie. ago. 7 19:59:41 2020	Humano#	875694	Itziar	FONSECA	BURUNDI	vie. ago. 7 19:59:41 2020	Pecados	1115	Buenas Acciones	1356	angel
+vie. ago. 7 19:59:41 2020	Humano#	890131	Honorata	SEGOVIA	GUAM	vie. ago. 7 19:59:41 2020	Pecados	1639	Buenas Acciones	1640	angel
+vie. ago. 7 19:59:41 2020	Humano#	774950	Osi?n	SACRISTAN	BELICE	vie. ago. 7 19:59:41 2020	Pecados	1515	Buenas Acciones	1542	angel
+vie. ago. 7 19:59:41 2020	Humano#	850132	Aproniano	CRESPO	CAMER?N	vie. ago. 7 19:59:41 2020	Pecados	1675	Buenas Acciones	1743	angel
+vie. ago. 7 19:59:41 2020	Humano#	811413	Chencha	SAN MARTIN	ISLAS MARSHALL	vie. ago. 7 19:59:41 2020	Pecados	1489	Buenas Acciones	1544	angel
+vie. ago. 7 19:59:41 2020	Humano#	676273	Posidia	CORRALES	ANGOLA	vie. ago. 7 19:59:41 2020	Pecados	1564	Buenas Acciones	1621	angel
+vie. ago. 7 19:59:41 2020	Humano#	709550	Jovina	SEGARRA	EGIPTO	vie. ago. 7 19:59:41 2020	Pecados	971	Buenas Acciones	1180	angel
+vie. ago. 7 19:59:41 2020	Humano#	891160	Magnus	MARRERO	BAR?IN	vie. ago. 7 19:59:41 2020	Pecados	1407	Buenas Acciones	1457	angel
+vie. ago. 7 19:59:41 2020	Humano#	835069	Carterio	CHICO	GUAM	vie. ago. 7 19:59:41 2020	Pecados	1533	Buenas Acciones	1630	angel
+vie. ago. 7 19:59:41 2020	Humano#	812964	Cebri?n	SOTES	REP?BLICA DEL CONGO	vie. ago. 7 19:59:41 2020	Pecados	1681	Buenas Acciones	1764	angel
+vie. ago. 7 19:59:41 2020	Humano#	657217	Carisia	PULIDO	ESLOVAQUIA	vie. ago. 7 19:59:41 2020	Pecados	1548	Buenas Acciones	1562	angel
+vie. ago. 7 19:59:41 2020	Humano#	843163	Juan de Dios	LUCENA	COREA DEL NORTE	vie. ago. 7 19:59:41 2020	Pecados	1521	Buenas Acciones	1542	angel
+vie. ago. 7 19:59:41 2020	Humano#	807873	Aregoma	TALAVERA	ARMENIA	vie. ago. 7 19:59:41 2020	Pecados	1513	Buenas Acciones	1613	angel
+vie. ago. 7 19:59:41 2020	Humano#	758488	Aproniana	AMOR	ANGOLA	vie. ago. 7 19:59:41 2020	Pecados	1501	Buenas Acciones	1674	angel
+vie. ago. 7 19:59:41 2020	Humano#	908163	Julita	PUENTE	INDIA	vie. ago. 7 19:59:41 2020	Pecados	1340	Buenas Acciones	1464	angel
+vie. ago. 7 19:59:41 2020	Humano#	803539	Cibran	ZARAGOZA	CHIPRE	vie. ago. 7 19:59:41 2020	Pecados	1152	Buenas Acciones	1481	angel
+vie. ago. 7 19:59:41 2020	Humano#	843996	Otmara	ORDO?EZ	CROACIA	vie. ago. 7 19:59:41 2020	Pecados	1469	Buenas Acciones	1561	angel
+vie. ago. 7 19:59:41 2020	Humano#	673546	Carteria	PALAZON	BELICE	vie. ago. 7 19:59:41 2020	Pecados	1486	Buenas Acciones	1531	angel
+vie. ago. 7 19:59:41 2020	Humano#	843567	Pr?amo	AMOR	ANGOLA	vie. ago. 7 19:59:41 2020	Pecados	1405	Buenas Acciones	1459	angel
+vie. ago. 7 19:59:41 2020	Humano#	749730	P?ntico	JULIAN	ARGELIA	vie. ago. 7 19:59:41 2020	Pecados	1489	Buenas Acciones	1498	angel
+vie. ago. 7 19:59:41 2020	Humano#	862763	Jadidya	CALZADA	AUSTRALIA	vie. ago. 7 19:59:41 2020	Pecados	1500	Buenas Acciones	1526	angel
+vie. ago. 7 19:59:41 2020	Humano#	733253	Kim	SANTAMARIA	ARMENIA	vie. ago. 7 19:59:41 2020	Pecados	1381	Buenas Acciones	1415	angel
+vie. ago. 7 19:59:41 2020	Humano#	714385	Calixta	VELEZ	BURUNDI	vie. ago. 7 19:59:41 2020	Pecados	1403	Buenas Acciones	1526	angel
+vie. ago. 7 19:59:41 2020	Humano#	698161	Aptonio	CATALAN	PARAGUAY	vie. ago. 7 19:59:41 2020	Pecados	1321	Buenas Acciones	1407	angel
+vie. ago. 7 19:59:41 2020	Humano#	788230	Pr?spero	DE DIEGO	GHANA	vie. ago. 7 19:59:41 2020	Pecados	1575	Buenas Acciones	1671	angel
+vie. ago. 7 19:59:41 2020	Humano#	819573	Antar	GRANADOS	GUAM	vie. ago. 7 19:59:41 2020	Pecados	1399	Buenas Acciones	1566	angel
+vie. ago. 7 19:59:41 2020	Humano#	777659	Araia	CERDA	ACROTIRI Y DHEKELIA	vie. ago. 7 19:59:41 2020	Pecados	1387	Buenas Acciones	1650	angel
+vie. ago. 7 19:59:41 2020	Humano#	785504	Noradino	LILLO	BAR?IN	vie. ago. 7 19:59:41 2020	Pecados	1441	Buenas Acciones	1476	angel
+vie. ago. 7 19:59:41 2020	Humano#	831273	Boabdil	MONTORO	BELICE	vie. ago. 7 19:59:41 2020	Pecados	1455	Buenas Acciones	1525	angel
+vie. ago. 7 19:59:41 2020	Humano#	775195	Yanira	HIGUERAS	CHIPRE	vie. ago. 7 19:59:41 2020	Pecados	1322	Buenas Acciones	1410	angel
+vie. ago. 7 19:59:41 2020	Humano#	835797	Jadidya	DE LA IGLESIA	ANGOLA	vie. ago. 7 19:59:41 2020	Pecados	1583	Buenas Acciones	1600	angel
+vie. ago. 7 19:59:41 2020	Humano#	912620	Osorio	ZAMORANO	ARMENIA	vie. ago. 7 19:59:41 2020	Pecados	1420	Buenas Acciones	1524	angel
+vie. ago. 7 19:59:41 2020	Humano#	741720	Imma	MENA	CAMBOYA	vie. ago. 7 19:59:41 2020	Pecados	941	Buenas Acciones	1539	angel
+vie. ago. 7 19:59:41 2020	Humano#	837299	Alaia	AHMED	BRASIL	vie. ago. 7 19:59:41 2020	Pecados	1473	Buenas Acciones	1546	angel
+vie. ago. 7 19:59:41 2020	Humano#	730471	Oriencio	ALEMANY	EGIPTO	vie. ago. 7 19:59:41 2020	Pecados	1534	Buenas Acciones	1562	angel
+vie. ago. 7 19:59:41 2020	Humano#	749779	Hildebrando	VILCHES	ARGELIA	vie. ago. 7 19:59:41 2020	Pecados	1367	Buenas Acciones	1547	angel
+vie. ago. 7 19:59:41 2020	Humano#	585560	Dem?ter	LILLO	ACROTIRI Y DHEKELIA	vie. ago. 7 19:59:41 2020	Pecados	1185	Buenas Acciones	1588	angel
+vie. ago. 7 19:59:41 2020	Humano#	932855	Berna	ALVARADO	BURUNDI	vie. ago. 7 19:59:41 2020	Pecados	1398	Buenas Acciones	1578	angel
+vie. ago. 7 19:59:41 2020	Humano#	737268	Juniana	MONTERO	ANGOLA	vie. ago. 7 19:59:41 2020	Pecados	1302	Buenas Acciones	1569	angel
+vie. ago. 7 19:59:41 2020	Humano#	874631	Casio	MENDOZA	AUSTRALIA	vie. ago. 7 19:59:41 2020	Pecados	1117	Buenas Acciones	1559	angel
+vie. ago. 7 19:59:41 2020	Humano#	799268	Juncal	ANDUJAR	CHIPRE	vie. ago. 7 19:59:41 2020	Pecados	1540	Buenas Acciones	1587	angel
+vie. ago. 7 19:59:41 2020	Humano#	794886	Ces?rea	GALVAN	PARAGUAY	vie. ago. 7 19:59:41 2020	Pecados	1428	Buenas Acciones	1511	angel
+vie. ago. 7 19:59:41 2020	Humano#	903293	Queralt	MAYORAL	BURUNDI	vie. ago. 7 19:59:41 2020	Pecados	1387	Buenas Acciones	1616	angel
+vie. ago. 7 19:59:41 2020	Humano#	906365	Prot?gena	ARELLANO	EGIPTO	vie. ago. 7 19:59:41 2020	Pecados	1343	Buenas Acciones	1721	angel
+vie. ago. 7 19:59:41 2020	Humano#	803880	Nausica	ALVARADO	ESLOVAQUIA	vie. ago. 7 19:59:41 2020	Pecados	1318	Buenas Acciones	1576	angel
+vie. ago. 7 19:59:41 2020	Humano#	822276	Berardo	CARPIO	FINLANDIA	vie. ago. 7 19:59:41 2020	Pecados	1541	Buenas Acciones	1620	angel
+vie. ago. 7 19:59:41 2020	Humano#	848653	Belicar	RECHE	BAR?IN	vie. ago. 7 19:59:41 2020	Pecados	1503	Buenas Acciones	1575	angel
+vie. ago. 7 19:59:41 2020	Humano#	847448	Noor	BUENO	CHIPRE	vie. ago. 7 19:59:41 2020	Pecados	1383	Buenas Acciones	1573	angel
+vie. ago. 7 19:59:41 2020	Humano#	808601	Brendana	SANZ	CAMER?N	vie. ago. 7 19:59:41 2020	Pecados	1613	Buenas Acciones	1633	angel
+vie. ago. 7 19:59:41 2020	Humano#	795840	Josefino	YUSTE	EGIPTO	vie. ago. 7 19:59:41 2020	Pecados	1358	Buenas Acciones	1550	angel
+vie. ago. 7 19:59:41 2020	Humano#	937791	Irmina	RECHE	BAR?IN	vie. ago. 7 19:59:41 2020	Pecados	1184	Buenas Acciones	1499	angel
+vie. ago. 7 19:59:41 2020	Humano#	843957	Pirmina	LILLO	CAMBOYA	vie. ago. 7 19:59:41 2020	Pecados	1532	Buenas Acciones	1672	angel
+vie. ago. 7 19:59:41 2020	Humano#	807781	Chencho	MINGUEZ	AUSTRALIA	vie. ago. 7 19:59:41 2020	Pecados	1375	Buenas Acciones	1382	angel
+vie. ago. 7 19:59:41 2020	Humano#	742233	Cain?n	DE DIOS	BAR?IN	vie. ago. 7 19:59:41 2020	Pecados	1541	Buenas Acciones	1558	angel
+vie. ago. 7 19:59:41 2020	Humano#	891933	Ceciliana	RIVERO	COREA DEL NORTE	vie. ago. 7 19:59:41 2020	Pecados	1365	Buenas Acciones	1434	angel
+vie. ago. 7 19:59:41 2020	Humano#	602996	Zenda	SALCEDO	FINLANDIA	vie. ago. 7 19:59:41 2020	Pecados	1449	Buenas Acciones	1638	angel
+vie. ago. 7 19:59:41 2020	Humano#	597265	Doramas	PI?A	ESLOVAQUIA	vie. ago. 7 19:59:41 2020	Pecados	1340	Buenas Acciones	1433	angel
+vie. ago. 7 19:59:41 2020	Humano#	875132	Ayel?n	ROSALES	CROACIA	vie. ago. 7 19:59:41 2020	Pecados	1512	Buenas Acciones	1587	angel
+vie. ago. 7 19:59:41 2020	Humano#	804274	Imhotep	ACEVEDO	ARMENIA	vie. ago. 7 19:59:41 2020	Pecados	1469	Buenas Acciones	1638	angel
+vie. ago. 7 19:59:41 2020	Humano#	719185	Petronila	LEMA	ARMENIA	vie. ago. 7 19:59:41 2020	Pecados	1586	Buenas Acciones	1766	angel
+vie. ago. 7 19:59:41 2020	Humano#	908345	Privata	MONTEAGUDO	ARABIA SAUDITA	vie. ago. 7 19:59:41 2020	Pecados	1296	Buenas Acciones	1560	angel
+vie. ago. 7 19:59:41 2020	Humano#	878921	Bucola	BARROS	BAR?IN	vie. ago. 7 19:59:41 2020	Pecados	1450	Buenas Acciones	1672	angel
+vie. ago. 7 19:59:41 2020	Humano#	913916	Iv?n	MEDINA	COREA DEL NORTE	vie. ago. 7 19:59:41 2020	Pecados	1511	Buenas Acciones	1604	angel
+vie. ago. 7 19:59:41 2020	Humano#	841643	Ovidia	CARMONA	BAR?IN	vie. ago. 7 19:59:41 2020	Pecados	1000	Buenas Acciones	1809	angel
+vie. ago. 7 19:59:41 2020	Humano#	862310	Vania	OLIVARES	BURUNDI	vie. ago. 7 19:59:41 2020	Pecados	1451	Buenas Acciones	1602	angel
+vie. ago. 7 19:59:41 2020	Humano#	804956	Iballa	BAEZ	FINLANDIA	vie. ago. 7 19:59:41 2020	Pecados	1442	Buenas Acciones	1622	angel
+vie. ago. 7 19:59:41 2020	Humano#	785391	Brendana	RUANO	ACROTIRI Y DHEKELIA	vie. ago. 7 19:59:41 2020	Pecados	1259	Buenas Acciones	1397	angel
+vie. ago. 7 19:59:41 2020	Humano#	845115	Isolina	VALCARCEL	EGIPTO	vie. ago. 7 19:59:41 2020	Pecados	1380	Buenas Acciones	1471	angel
+vie. ago. 7 19:59:41 2020	Humano#	816900	Altaf	FRANCO	CHIPRE	vie. ago. 7 19:59:41 2020	Pecados	1343	Buenas Acciones	1416	angel
+vie. ago. 7 19:59:41 2020	Humano#	746250	Pomponia	RODENAS	REP?BLICA DEL CONGO	vie. ago. 7 19:59:41 2020	Pecados	1199	Buenas Acciones	1267	angel
+vie. ago. 7 19:59:41 2020	Humano#	686676	Bonoso	ABREU	ARMENIA	vie. ago. 7 19:59:41 2020	Pecados	1412	Buenas Acciones	1580	angel
+vie. ago. 7 19:59:41 2020	Humano#	884923	Hegesipo	GALIANO	EGIPTO	vie. ago. 7 19:59:41 2020	Pecados	1468	Buenas Acciones	1696	angel
+vie. ago. 7 19:59:41 2020	Humano#	891139	Cal?nica	JIMENO	CAMBOYA	vie. ago. 7 19:59:41 2020	Pecados	1633	Buenas Acciones	1833	angel
+vie. ago. 7 19:59:41 2020	Humano#	788624	Oier	RUANO	ACROTIRI Y DHEKELIA	vie. ago. 7 19:59:41 2020	Pecados	1489	Buenas Acciones	1608	angel
+vie. ago. 7 19:59:41 2020	Humano#	847783	Jud?	ESPINOZA	INDIA	vie. ago. 7 19:59:41 2020	Pecados	1413	Buenas Acciones	1581	angel
+vie. ago. 7 19:59:41 2020	Humano#	855670	Bardulfo	AROCA	ISLAS MARSHALL	vie. ago. 7 19:59:41 2020	Pecados	1240	Buenas Acciones	1402	angel
+vie. ago. 7 19:59:41 2020	Humano#	725065	?ride	FEIJOO	BAR?IN	vie. ago. 7 19:59:41 2020	Pecados	1323	Buenas Acciones	1454	angel
+vie. ago. 7 19:59:41 2020	Humano#	898348	Dem?ter	FUENTE	NUEVA ZELANDA	vie. ago. 7 19:59:41 2020	Pecados	1463	Buenas Acciones	1521	angel
+vie. ago. 7 19:59:41 2020	Humano#	875074	Kay	POSTIGO	FINLANDIA	vie. ago. 7 19:59:41 2020	Pecados	1450	Buenas Acciones	1540	angel
+vie. ago. 7 19:59:41 2020	Humano#	857262	Kepa	CABANILLAS	ARMENIA	vie. ago. 7 19:59:41 2020	Pecados	1103	Buenas Acciones	1433	angel
+vie. ago. 7 19:59:41 2020	Humano#	912497	Hern?n	RUS	ARMENIA	vie. ago. 7 19:59:41 2020	Pecados	1379	Buenas Acciones	1605	angel
+vie. ago. 7 19:59:41 2020	Humano#	892872	Hadulfo	PLANAS	REP?BLICA DEL CONGO	vie. ago. 7 19:59:41 2020	Pecados	1219	Buenas Acciones	1653	angel
+vie. ago. 7 19:59:41 2020	Humano#	795104	Helio	GUERRERO	CAMBOYA	vie. ago. 7 19:59:41 2020	Pecados	1187	Buenas Acciones	1514	angel
+vie. ago. 7 19:59:41 2020	Humano#	805786	C?stulo	ZAFRA	NUEVA ZELANDA	vie. ago. 7 19:59:41 2020	Pecados	1653	Buenas Acciones	1824	angel
+vie. ago. 7 19:59:41 2020	Humano#	698743	Pr?culo	HOLGADO	ISLAS MARSHALL	vie. ago. 7 19:59:41 2020	Pecados	1526	Buenas Acciones	1641	angel
+vie. ago. 7 19:59:41 2020	Humano#	876931	Ones?fora	GALIANO	FINLANDIA	vie. ago. 7 19:59:41 2020	Pecados	1352	Buenas Acciones	1453	angel
+vie. ago. 7 19:59:41 2020	Humano#	649793	Ari	PAREJO	ARMENIA	vie. ago. 7 19:59:41 2020	Pecados	1484	Buenas Acciones	1527	angel
+vie. ago. 7 19:59:41 2020	Humano#	757798	Hontanares	RIVERA	INDIA	vie. ago. 7 19:59:41 2020	Pecados	1625	Buenas Acciones	1710	angel
+vie. ago. 7 19:59:41 2020	Humano#	856555	Celedonia	RAMIRO	BURUNDI	vie. ago. 7 19:59:41 2020	Pecados	1509	Buenas Acciones	1557	angel
+vie. ago. 7 19:59:41 2020	Humano#	761712	Berenguer	SEVILLA	ISLAS MARSHALL	vie. ago. 7 19:59:41 2020	Pecados	1439	Buenas Acciones	1524	angel
+vie. ago. 7 19:59:41 2020	Humano#	810080	Opal	PAREJA	GUAM	vie. ago. 7 19:59:41 2020	Pecados	1447	Buenas Acciones	1483	angel
+vie. ago. 7 19:59:41 2020	Humano#	922415	Hipacio	BEJARANO	ACROTIRI Y DHEKELIA	vie. ago. 7 19:59:41 2020	Pecados	1599	Buenas Acciones	1707	angel
+vie. ago. 7 19:59:41 2020	Humano#	822684	Anquises	ELIAS	BRASIL	vie. ago. 7 19:59:41 2020	Pecados	1350	Buenas Acciones	1470	angel
+vie. ago. 7 19:59:41 2020	Humano#	806177	Irenia	PAREJO	CHIPRE	vie. ago. 7 19:59:41 2020	Pecados	1470	Buenas Acciones	1486	angel
+vie. ago. 7 19:59:41 2020	Humano#	860105	Iva	RAMIRO	ARABIA SAUDITA	vie. ago. 7 19:59:41 2020	Pecados	1483	Buenas Acciones	1564	angel
+vie. ago. 7 19:59:41 2020	Humano#	900233		ROSALES	CAMER?N	vie. ago. 7 19:59:41 2020	Pecados	1287	Buenas Acciones	1467	angel
+vie. ago. 7 19:59:41 2020	Humano#	729687	Buda	PALAZON	ARGELIA	vie. ago. 7 19:59:41 2020	Pecados	1454	Buenas Acciones	1584	angel
+vie. ago. 7 19:59:41 2020	Humano#	879432	Ifigenia	MENDOZA	CHIPRE	vie. ago. 7 19:59:41 2020	Pecados	1572	Buenas Acciones	1772	angel
+vie. ago. 7 19:59:41 2020	Humano#	793870	Pompilio	LORENZO	ARABIA SAUDITA	vie. ago. 7 19:59:41 2020	Pecados	1548	Buenas Acciones	1685	angel
+vie. ago. 7 19:59:41 2020	Humano#	795636	Melody	BLAZQUEZ	BURUNDI	vie. ago. 7 19:59:41 2020	Pecados	1517	Buenas Acciones	1550	angel
+vie. ago. 7 19:59:41 2020	Humano#	766103	Olek	ADAN	CHIPRE	vie. ago. 7 19:59:41 2020	Pecados	1458	Buenas Acciones	1668	angel
+vie. ago. 7 19:59:41 2020	Humano#	910054	Carponio	LEON	ANGOLA	vie. ago. 7 19:59:41 2020	Pecados	1469	Buenas Acciones	1486	angel
+vie. ago. 7 19:59:41 2020	Humano#	548310	Buc?falo	RUS	BAR?IN	vie. ago. 7 19:59:41 2020	Pecados	1509	Buenas Acciones	1614	angel
+vie. ago. 7 19:59:41 2020	Humano#	833951	Odeta	GIRALDO	AUSTRALIA	vie. ago. 7 19:59:41 2020	Pecados	1557	Buenas Acciones	1569	angel
+vie. ago. 7 19:59:41 2020	Humano#	846998	Amiel	HIGUERAS	COREA DEL NORTE	vie. ago. 7 19:59:41 2020	Pecados	1162	Buenas Acciones	1600	angel
+vie. ago. 7 19:59:41 2020	Humano#	830318	Oswalda	LLAMAS	BELICE	vie. ago. 7 19:59:41 2020	Pecados	1358	Buenas Acciones	1474	angel
+vie. ago. 7 19:59:41 2020	Humano#	806982	Pr?culo	BALAGUER	ARMENIA	vie. ago. 7 19:59:41 2020	Pecados	1362	Buenas Acciones	1451	angel
+vie. ago. 7 19:59:41 2020	Humano#	807814	Noradino	VALVERDE	AUSTRALIA	vie. ago. 7 19:59:41 2020	Pecados	1444	Buenas Acciones	1519	angel
+vie. ago. 7 19:59:41 2020	Humano#	767431	Brendana	CAMACHO	AUSTRALIA	vie. ago. 7 19:59:41 2020	Pecados	1327	Buenas Acciones	1487	angel
+vie. ago. 7 19:59:41 2020	Humano#	866173	Nayra	ROLDAN	ACROTIRI Y DHEKELIA	vie. ago. 7 19:59:41 2020	Pecados	1502	Buenas Acciones	1573	angel
+vie. ago. 7 19:59:41 2020	Humano#	875614	Hern?n	SALVADOR	NUEVA ZELANDA	vie. ago. 7 19:59:41 2020	Pecados	1573	Buenas Acciones	1645	angel
+vie. ago. 7 19:59:41 2020	Humano#	799089	Candaces	XU	AUSTRALIA	vie. ago. 7 19:59:41 2020	Pecados	1648	Buenas Acciones	1655	angel
+vie. ago. 7 19:59:41 2020	Humano#	830654	Ayel?n	CARRION	ARABIA SAUDITA	vie. ago. 7 19:59:41 2020	Pecados	1622	Buenas Acciones	1716	angel
+vie. ago. 7 19:59:41 2020	Humano#	818776	Chadia	LAFUENTE	ESLOVAQUIA	vie. ago. 7 19:59:41 2020	Pecados	1361	Buenas Acciones	1399	angel
+vie. ago. 7 19:59:41 2020	Humano#	766115	Nayra	SEGOVIA	ACROTIRI Y DHEKELIA	vie. ago. 7 19:59:41 2020	Pecados	1366	Buenas Acciones	1435	angel
+vie. ago. 7 19:59:41 2020	Humano#	877153	Arecida	ORTU?O	ARABIA SAUDITA	vie. ago. 7 19:59:41 2020	Pecados	1640	Buenas Acciones	1855	angel
+vie. ago. 7 19:59:41 2020	Humano#	821060	Bertario	VELEZ	ARABIA SAUDITA	vie. ago. 7 19:59:41 2020	Pecados	1623	Buenas Acciones	1692	angel
+vie. ago. 7 19:59:41 2020	Humano#	773195	Ces?reo	VELEZ	FINLANDIA	vie. ago. 7 19:59:41 2020	Pecados	1385	Buenas Acciones	1415	angel
+vie. ago. 7 19:59:41 2020	Humano#	903987	Hermogia	FEIJOO	ESLOVAQUIA	vie. ago. 7 19:59:41 2020	Pecados	1399	Buenas Acciones	1406	angel
+vie. ago. 7 19:59:41 2020	Humano#	865012	Or?genes	COBOS	ISLAS MARSHALL	vie. ago. 7 19:59:41 2020	Pecados	1447	Buenas Acciones	1596	angel
+vie. ago. 7 19:59:41 2020	Humano#	681089	Castalia	CARRION	INDIA	vie. ago. 7 19:59:41 2020	Pecados	1542	Buenas Acciones	1650	angel
+vie. ago. 7 19:59:41 2020	Humano#	785154	Hermafrodito	VILLANUEVA	INDIA	vie. ago. 7 19:59:41 2020	Pecados	1274	Buenas Acciones	1554	angel
+vie. ago. 7 19:59:41 2020	Humano#	812166	Huberta	TALAVERA	EGIPTO	vie. ago. 7 19:59:41 2020	Pecados	1407	Buenas Acciones	1490	angel
+vie. ago. 7 19:59:41 2020	Humano#	772356	Arecida	SOTO	EGIPTO	vie. ago. 7 19:59:41 2020	Pecados	1382	Buenas Acciones	1512	angel
+vie. ago. 7 19:59:41 2020	Humano#	844870	Iva	PE?A	ACROTIRI Y DHEKELIA	vie. ago. 7 19:59:41 2020	Pecados	1386	Buenas Acciones	1520	angel
+vie. ago. 7 19:59:41 2020	Humano#	797222	Idoberga	ENERIZ	CAMBOYA	vie. ago. 7 19:59:41 2020	Pecados	1528	Buenas Acciones	1639	angel
+vie. ago. 7 19:59:41 2020	Humano#	785323	Oseas	ENERIZ	CAMBOYA	vie. ago. 7 19:59:41 2020	Pecados	1234	Buenas Acciones	1554	angel
+vie. ago. 7 19:59:41 2020	Humano#	894576	Deolinda	CERDA	PARAGUAY	vie. ago. 7 19:59:41 2020	Pecados	1285	Buenas Acciones	1616	angel
+vie. ago. 7 19:59:41 2020	Humano#	709244	Asensio	ARANA	BAR?IN	vie. ago. 7 19:59:41 2020	Pecados	1352	Buenas Acciones	1538	angel
+vie. ago. 7 19:59:41 2020	Humano#	787412	Hermelanda	JULIAN	AUSTRALIA	vie. ago. 7 19:59:41 2020	Pecados	1603	Buenas Acciones	1755	angel
+vie. ago. 7 19:59:41 2020	Humano#	799727	Oier	QUI?ONES	NUEVA ZELANDA	vie. ago. 7 19:59:41 2020	Pecados	1570	Buenas Acciones	1592	angel
+vie. ago. 7 19:59:41 2020	Humano#	843069	Herodes	ARNAU	BURUNDI	vie. ago. 7 19:59:41 2020	Pecados	1443	Buenas Acciones	1484	angel
+vie. ago. 7 19:59:41 2020	Humano#	712000	Olivio	TOMAS	COREA DEL NORTE	vie. ago. 7 19:59:41 2020	Pecados	1552	Buenas Acciones	1565	angel
+vie. ago. 7 19:59:41 2020	Humano#	858273	Benicio	BATISTA	FINLANDIA	vie. ago. 7 19:59:41 2020	Pecados	1493	Buenas Acciones	1528	angel
+vie. ago. 7 19:59:41 2020	Humano#	735090	Irune	RICO	ARGELIA	vie. ago. 7 19:59:41 2020	Pecados	1366	Buenas Acciones	1588	angel
+vie. ago. 7 19:59:41 2020	Humano#	835430	Osvina	BRITO	COREA DEL NORTE	vie. ago. 7 19:59:41 2020	Pecados	1510	Buenas Acciones	1601	angel
+vie. ago. 7 19:59:41 2020	Humano#	644946	Bruto	BRITO	AUSTRALIA	vie. ago. 7 19:59:41 2020	Pecados	1526	Buenas Acciones	1624	angel
+vie. ago. 7 19:59:41 2020	Humano#	838823	Probo	VIZCAINO	ANGOLA	vie. ago. 7 19:59:41 2020	Pecados	1057	Buenas Acciones	1422	angel
+vie. ago. 7 19:59:41 2020	Humano#	716701	Cal?nico	FARRE	EGIPTO	vie. ago. 7 19:59:41 2020	Pecados	1492	Buenas Acciones	1755	angel
+vie. ago. 7 19:59:41 2020	Humano#	662270	Bono	CLIMENT	FINLANDIA	vie. ago. 7 19:59:41 2020	Pecados	1475	Buenas Acciones	1656	angel
+vie. ago. 7 19:59:41 2020	Humano#	796275	Iracema	FERRE	GUAM	vie. ago. 7 19:59:41 2020	Pecados	1394	Buenas Acciones	1430	angel
+vie. ago. 7 19:59:41 2020	Humano#	876951	Cal?nico	SEGOVIA	CHIPRE	vie. ago. 7 19:59:41 2020	Pecados	1331	Buenas Acciones	1474	angel
+vie. ago. 7 19:59:41 2020	Humano#	736066	Pigmenia	VALENZUELA	ARGELIA	vie. ago. 7 19:59:41 2020	Pecados	1367	Buenas Acciones	1726	angel
+vie. ago. 7 19:59:41 2020	Humano#	826920	Cesari?n	ACEVEDO	AUSTRALIA	vie. ago. 7 19:59:41 2020	Pecados	1383	Buenas Acciones	1499	angel
+vie. ago. 7 19:59:41 2020	Humano#	784285	Belicar	RIVERO	PARAGUAY	vie. ago. 7 19:59:41 2020	Pecados	1486	Buenas Acciones	1646	angel
+vie. ago. 7 19:59:41 2020	Humano#	850707	Anal?a	VALDIVIA	PARAGUAY	vie. ago. 7 19:59:41 2020	Pecados	1603	Buenas Acciones	1633	angel
+vie. ago. 7 19:59:41 2020	Humano#	854342	Pl?cida	RUANO	CHIPRE	vie. ago. 7 19:59:41 2020	Pecados	1529	Buenas Acciones	1575	angel
+vie. ago. 7 19:59:41 2020	Humano#	865979	Herculano	MAYOR	GUAM	vie. ago. 7 19:59:41 2020	Pecados	1467	Buenas Acciones	1626	angel
+vie. ago. 7 19:59:41 2020	Humano#	649977	Nivardo	SALVADOR	CHIPRE	vie. ago. 7 19:59:41 2020	Pecados	1519	Buenas Acciones	1531	angel
+vie. ago. 7 19:59:41 2020	Humano#	619478	Archibalda	ORDO?EZ	ANGOLA	vie. ago. 7 19:59:41 2020	Pecados	1019	Buenas Acciones	1364	angel
+vie. ago. 7 19:59:41 2020	Humano#	742777	Izaskun	GORDO	ESLOVAQUIA	vie. ago. 7 19:59:41 2020	Pecados	1413	Buenas Acciones	1425	angel
+vie. ago. 7 19:59:41 2020	Humano#	822570	Iballa	RUANO	CROACIA	vie. ago. 7 19:59:41 2020	Pecados	1577	Buenas Acciones	1629	angel
+vie. ago. 7 19:59:41 2020	Humano#	914954	Gamal	RIVERA	CHIPRE	vie. ago. 7 19:59:41 2020	Pecados	1566	Buenas Acciones	1709	angel
+vie. ago. 7 19:59:41 2020	Humano#	740027	Hildeberto	CARVAJAL	CROACIA	vie. ago. 7 19:59:41 2020	Pecados	1487	Buenas Acciones	1646	angel
+vie. ago. 7 19:59:41 2020	Humano#	827438	Ones?foro	ARANA	FINLANDIA	vie. ago. 7 19:59:41 2020	Pecados	1385	Buenas Acciones	1464	angel
+vie. ago. 7 19:59:41 2020	Humano#	871415	Guajara	PAZOS	ESLOVAQUIA	vie. ago. 7 19:59:41 2020	Pecados	1513	Buenas Acciones	1523	angel
+vie. ago. 7 19:59:41 2020	Humano#	787150	Bellido	SACRISTAN	CAMER?N	vie. ago. 7 19:59:41 2020	Pecados	1494	Buenas Acciones	1604	angel
+vie. ago. 7 19:59:41 2020	Humano#	800241	Rayan	PAREJO	BELICE	vie. ago. 7 19:59:41 2020	Pecados	1366	Buenas Acciones	1407	angel
+vie. ago. 7 19:59:41 2020	Humano#	818095	Bernalda	VI?AS	COREA DEL NORTE	vie. ago. 7 19:59:41 2020	Pecados	1586	Buenas Acciones	1606	angel
+vie. ago. 7 19:59:41 2020	Humano#	844655	Posidonia	BARROS	EGIPTO	vie. ago. 7 19:59:41 2020	Pecados	1687	Buenas Acciones	1707	angel
+vie. ago. 7 19:59:41 2020	Humano#	835619	Hunifreda	ROSA	ARGELIA	vie. ago. 7 19:59:41 2020	Pecados	1599	Buenas Acciones	1731	angel
+vie. ago. 7 19:59:41 2020	Humano#	887759	Aretusa	FERRERO	FINLANDIA	vie. ago. 7 19:59:41 2020	Pecados	1671	Buenas Acciones	1712	angel
+vie. ago. 7 19:59:41 2020	Humano#	798331	Berenguera	YAGUE	NUEVA ZELANDA	vie. ago. 7 19:59:41 2020	Pecados	1439	Buenas Acciones	1504	angel
+vie. ago. 7 19:59:41 2020	Humano#	608750	Guayanfanta	LILLO	ISLAS MARSHALL	vie. ago. 7 19:59:41 2020	Pecados	1482	Buenas Acciones	1510	angel
+vie. ago. 7 19:59:41 2020	Humano#	902563	Pulqueria	SAN MARTIN	FINLANDIA	vie. ago. 7 19:59:41 2020	Pecados	1309	Buenas Acciones	1580	angel
+vie. ago. 7 19:59:41 2020	Humano#	824066	Huberta	CALZADA	EGIPTO	vie. ago. 7 19:59:41 2020	Pecados	1095	Buenas Acciones	1510	angel
+vie. ago. 7 19:59:41 2020	Humano#	861203	Justiniana	ROMAN	AUSTRALIA	vie. ago. 7 19:59:41 2020	Pecados	1417	Buenas Acciones	1480	angel
+vie. ago. 7 19:59:41 2020	Humano#	788976	Ivo	TENA	ACROTIRI Y DHEKELIA	vie. ago. 7 19:59:41 2020	Pecados	1462	Buenas Acciones	1467	angel
+vie. ago. 7 19:59:41 2020	Humano#	810675	Doramas	MA?AS	ACROTIRI Y DHEKELIA	vie. ago. 7 19:59:41 2020	Pecados	1481	Buenas Acciones	1595	angel
+vie. ago. 7 19:59:41 2020	Humano#	749928	Bertilia	HERVAS	BRASIL	vie. ago. 7 19:59:41 2020	Pecados	1363	Buenas Acciones	1466	angel
+vie. ago. 7 19:59:41 2020	Humano#	784272	Hipacio	TENA	COREA DEL NORTE	vie. ago. 7 19:59:41 2020	Pecados	1550	Buenas Acciones	1659	angel
+vie. ago. 7 19:59:41 2020	Humano#	878144	Iraida	RAMIRO	PARAGUAY	vie. ago. 7 19:59:41 2020	Pecados	1585	Buenas Acciones	1725	angel
+vie. ago. 7 19:59:41 2020	Humano#	571386	Isarno	AMAYA	BRASIL	vie. ago. 7 19:59:41 2020	Pecados	1373	Buenas Acciones	1544	angel
+vie. ago. 7 19:59:41 2020	Humano#	822870	Casto	ESPINOZA	ACROTIRI Y DHEKELIA	vie. ago. 7 19:59:41 2020	Pecados	1645	Buenas Acciones	1731	angel
+vie. ago. 7 19:59:41 2020	Humano#	835176	Bricio	JIMENO	CAMER?N	vie. ago. 7 19:59:41 2020	Pecados	1480	Buenas Acciones	1503	angel
+vie. ago. 7 19:59:41 2020	Humano#	913618	Capitolino	CLIMENT	CROACIA	vie. ago. 7 19:59:41 2020	Pecados	1474	Buenas Acciones	1498	angel
+vie. ago. 7 19:59:41 2020	Humano#	641782	Acor?n	SAN MARTIN	CHIPRE	vie. ago. 7 19:59:41 2020	Pecados	1368	Buenas Acciones	1511	angel
+vie. ago. 7 19:59:41 2020	Humano#	848788	Ossi?n	FEIJOO	CHIPRE	vie. ago. 7 19:59:41 2020	Pecados	1345	Buenas Acciones	1415	angel
+vie. ago. 7 19:59:41 2020	Humano#	809724	Aresio	RUS	CAMBOYA	vie. ago. 7 19:59:41 2020	Pecados	1506	Buenas Acciones	1620	angel
+vie. ago. 7 19:59:41 2020	Humano#	727298	Hortulano	LEON	ARABIA SAUDITA	vie. ago. 7 19:59:41 2020	Pecados	1462	Buenas Acciones	1704	angel
+vie. ago. 7 19:59:41 2020	Humano#	835032	Optato	WU	GUAM	vie. ago. 7 19:59:41 2020	Pecados	1468	Buenas Acciones	1514	angel
+vie. ago. 7 19:59:41 2020	Humano#	686428	Januario	ECHEVERRIA	ESLOVAQUIA	vie. ago. 7 19:59:41 2020	Pecados	1443	Buenas Acciones	1565	angel
+vie. ago. 7 19:59:41 2020	Humano#	814096	Calimera	VALENZUELA	CAMBOYA	vie. ago. 7 19:59:41 2020	Pecados	1262	Buenas Acciones	1359	angel
+vie. ago. 7 19:59:41 2020	Humano#	841050	Bardulfa	LAGO	INDIA	vie. ago. 7 19:59:41 2020	Pecados	1416	Buenas Acciones	1482	angel
+vie. ago. 7 19:59:41 2020	Humano#	857835	Bruce	WU	BAR?IN	vie. ago. 7 19:59:41 2020	Pecados	1573	Buenas Acciones	1601	angel
+vie. ago. 7 19:59:41 2020	Humano#	811062	Petra	SORIANO	INDIA	vie. ago. 7 19:59:41 2020	Pecados	1315	Buenas Acciones	1765	angel
+vie. ago. 7 19:59:41 2020	Humano#	881961	Catulina	MAYOR	CROACIA	vie. ago. 7 19:59:41 2020	Pecados	1321	Buenas Acciones	1392	angel
+vie. ago. 7 19:59:41 2020	Humano#	789533	Dominga	ARELLANO	ARMENIA	vie. ago. 7 19:59:41 2020	Pecados	1398	Buenas Acciones	1400	angel
+vie. ago. 7 19:59:41 2020	Humano#	681245	Ber?nica	PARDILLA	INDIA	vie. ago. 7 19:59:41 2020	Pecados	1493	Buenas Acciones	1656	angel
+vie. ago. 7 19:59:41 2020	Humano#	816394	?ride	SASTRE	ANGOLA	vie. ago. 7 19:59:41 2020	Pecados	1366	Buenas Acciones	1490	angel
+vie. ago. 7 19:59:41 2020	Humano#	791444	Policarpa	LUCENA	ARABIA SAUDITA	vie. ago. 7 19:59:41 2020	Pecados	1208	Buenas Acciones	1369	angel
+vie. ago. 7 19:59:41 2020	Humano#	772592	Pr?spera	PUENTE	BELICE	vie. ago. 7 19:59:41 2020	Pecados	1360	Buenas Acciones	1801	angel
+vie. ago. 7 19:59:41 2020	Humano#	863717	Irlanda	CALLEJA	AUSTRALIA	vie. ago. 7 19:59:41 2020	Pecados	1570	Buenas Acciones	1571	angel
+vie. ago. 7 19:59:41 2020	Humano#	504302	Isis	MIGUEL	AUSTRALIA	vie. ago. 7 19:59:41 2020	Pecados	1461	Buenas Acciones	1545	angel
+vie. ago. 7 19:59:41 2020	Humano#	870219	Casia	MACHADO	CAMER?N	vie. ago. 7 19:59:41 2020	Pecados	1510	Buenas Acciones	1546	angel
+vie. ago. 7 19:59:41 2020	Humano#	866571	Delmiro	RECHE	NUEVA ZELANDA	vie. ago. 7 19:59:41 2020	Pecados	1355	Buenas Acciones	1522	angel
+vie. ago. 7 19:59:41 2020	Humano#	757654	Primiana	RECHE	NUEVA ZELANDA	vie. ago. 7 19:59:41 2020	Pecados	1332	Buenas Acciones	1342	angel
+vie. ago. 7 19:59:41 2020	Humano#	786405	Anah?	PUENTE	BELICE	vie. ago. 7 19:59:41 2020	Pecados	1691	Buenas Acciones	1749	angel
+vie. ago. 7 19:59:41 2020	Humano#	706312	Pelea	VACA	ISLAS MARSHALL	vie. ago. 7 19:59:41 2020	Pecados	1477	Buenas Acciones	1510	angel
+vie. ago. 7 19:59:41 2020	Humano#	877325	Isacio	LAGO	EGIPTO	vie. ago. 7 19:59:41 2020	Pecados	1575	Buenas Acciones	1616	angel
+vie. ago. 7 19:59:41 2020	Humano#	778194	Ilda	PLAZA	BAR?IN	vie. ago. 7 19:59:41 2020	Pecados	1450	Buenas Acciones	1666	angel
+vie. ago. 7 19:59:41 2020	Humano#	912100	Iago	NOVO	BURUNDI	vie. ago. 7 19:59:41 2020	Pecados	1237	Buenas Acciones	1389	angel
+vie. ago. 7 19:59:41 2020	Humano#	767060	Bucola	CIFUENTES	ANGOLA	vie. ago. 7 19:59:41 2020	Pecados	1543	Buenas Acciones	1607	angel
+vie. ago. 7 19:59:41 2020	Humano#	856493	Hugobaldo	BUSTAMANTE	NUEVA ZELANDA	vie. ago. 7 19:59:41 2020	Pecados	1044	Buenas Acciones	1482	angel
+vie. ago. 7 19:59:41 2020	Humano#	731828	H?lido	HERRERO	REP?BLICA DEL CONGO	vie. ago. 7 19:59:41 2020	Pecados	1154	Buenas Acciones	1566	angel
+vie. ago. 7 19:59:41 2020	Humano#	773891	Juvencio	LAGO	BELICE	vie. ago. 7 19:59:41 2020	Pecados	1579	Buenas Acciones	1631	angel
+vie. ago. 7 19:59:41 2020	Humano#	892781	Casto	URE?A	ARGELIA	vie. ago. 7 19:59:41 2020	Pecados	1443	Buenas Acciones	1634	angel
+vie. ago. 7 19:59:41 2020	Humano#	638243	Juvenal	MARQUEZ	CHIPRE	vie. ago. 7 19:59:41 2020	Pecados	1566	Buenas Acciones	1610	angel
+vie. ago. 7 19:59:41 2020	Humano#	909895	Oderica	TOMAS	NUEVA ZELANDA	vie. ago. 7 19:59:41 2020	Pecados	1596	Buenas Acciones	1614	angel
+vie. ago. 7 19:59:41 2020	Humano#	896856	Justiniano	MOTA	NUEVA ZELANDA	vie. ago. 7 19:59:41 2020	Pecados	1397	Buenas Acciones	1552	angel
+vie. ago. 7 19:59:41 2020	Humano#	795801	Adolfa	ACEVEDO	NUEVA ZELANDA	vie. ago. 7 19:59:41 2020	Pecados	1596	Buenas Acciones	1622	angel
+vie. ago. 7 19:59:41 2020	Humano#	827561	Caralipa	NADAL	ARABIA SAUDITA	vie. ago. 7 19:59:41 2020	Pecados	1374	Buenas Acciones	1694	angel
+vie. ago. 7 19:59:41 2020	Humano#	674367	Calpurnio	HERVAS	ISLAS MARSHALL	vie. ago. 7 19:59:41 2020	Pecados	1133	Buenas Acciones	1457	angel
+vie. ago. 7 19:59:41 2020	Humano#	881554	Tenesoya	GASPAR	GUAM	vie. ago. 7 19:59:41 2020	Pecados	1562	Buenas Acciones	1583	angel
+vie. ago. 7 19:59:41 2020	Humano#	858202	Elin	CABRERA	ESLOVAQUIA	vie. ago. 7 19:59:41 2020	Pecados	1459	Buenas Acciones	1609	angel
+vie. ago. 7 19:59:41 2020	Humano#	529220	Bernalda	ARENAS	CAMER?N	vie. ago. 7 19:59:41 2020	Pecados	1501	Buenas Acciones	1584	angel
+vie. ago. 7 19:59:41 2020	Humano#	889262	Privato	PRADOS	ARMENIA	vie. ago. 7 19:59:41 2020	Pecados	1525	Buenas Acciones	1584	angel
+vie. ago. 7 19:59:41 2020	Humano#	738516	Proto	ESPEJO	ANGOLA	vie. ago. 7 19:59:41 2020	Pecados	1463	Buenas Acciones	1489	angel
+vie. ago. 7 19:59:41 2020	Humano#	730015	Bera	BILBAO	CROACIA	vie. ago. 7 19:59:41 2020	Pecados	1498	Buenas Acciones	1575	angel
+vie. ago. 7 19:59:41 2020	Humano#	619115	?caro	SANGIL	NUEVA ZELANDA	vie. ago. 7 19:59:41 2020	Pecados	1330	Buenas Acciones	1526	angel
+vie. ago. 7 19:59:41 2020	Humano#	824397	Vania	VICENTE	CHIPRE	vie. ago. 7 19:59:41 2020	Pecados	1391	Buenas Acciones	1405	angel
+vie. ago. 7 19:59:41 2020	Humano#	861669	Humildad	MARTORELL	EGIPTO	vie. ago. 7 19:59:41 2020	Pecados	1669	Buenas Acciones	1812	angel
+vie. ago. 7 19:59:41 2020	Humano#	858026	Aloia	ESPEJO	ANGOLA	vie. ago. 7 19:59:41 2020	Pecados	1218	Buenas Acciones	1409	angel
+vie. ago. 7 19:59:41 2020	Humano#	739218	Daida	ALVARADO	ISLAS MARSHALL	vie. ago. 7 19:59:41 2020	Pecados	1459	Buenas Acciones	1462	angel
+vie. ago. 7 19:59:41 2020	Humano#	847486	Karl	MELENDEZ	INDIA	vie. ago. 7 19:59:41 2020	Pecados	1633	Buenas Acciones	1722	angel
+vie. ago. 7 19:59:41 2020	Humano#	848185	Euria	SEVILLA	CHIPRE	vie. ago. 7 19:59:41 2020	Pecados	1482	Buenas Acciones	1785	angel
+vie. ago. 7 19:59:41 2020	Humano#	902331	Riyad	MARISCAL	CAMER?N	vie. ago. 7 19:59:41 2020	Pecados	1448	Buenas Acciones	1535	angel
+vie. ago. 7 19:59:41 2020	Humano#	867851	Heladio	CARVAJAL	CAMER?N	vie. ago. 7 19:59:41 2020	Pecados	1442	Buenas Acciones	1471	angel
+vie. ago. 7 19:59:41 2020	Humano#	689997	Hildebranda	CUBERO	BAR?IN	vie. ago. 7 19:59:41 2020	Pecados	1503	Buenas Acciones	1664	angel
+vie. ago. 7 19:59:41 2020	Humano#	881466	Riyad	PADRON	CAMBOYA	vie. ago. 7 19:59:41 2020	Pecados	1081	Buenas Acciones	1441	angel
+vie. ago. 7 19:59:41 2020	Humano#	645465	Noel	PULIDO	CAMER?N	vie. ago. 7 19:59:41 2020	Pecados	1495	Buenas Acciones	1811	angel
+vie. ago. 7 19:59:41 2020	Humano#	727328	Hu?scar	ANTOLIN	ACROTIRI Y DHEKELIA	vie. ago. 7 19:59:41 2020	Pecados	1351	Buenas Acciones	1511	angel
+vie. ago. 7 19:59:41 2020	Humano#	818227	Pr?cula	CARRERA	ARGELIA	vie. ago. 7 19:59:41 2020	Pecados	1546	Buenas Acciones	1634	angel
+vie. ago. 7 19:59:41 2020	Humano#	796612	Otokar	RUANO	REP?BLICA DEL CONGO	vie. ago. 7 19:59:41 2020	Pecados	1266	Buenas Acciones	1350	angel
+vie. ago. 7 19:59:41 2020	Humano#	744741	Proteo	LOPEZ	REP?BLICA DEL CONGO	vie. ago. 7 19:59:41 2020	Pecados	1375	Buenas Acciones	1572	angel
+vie. ago. 7 19:59:41 2020	Humano#	918153	Camino	GIRALDO	ARGELIA	vie. ago. 7 19:59:41 2020	Pecados	1053	Buenas Acciones	1435	angel
+vie. ago. 7 19:59:41 2020	Humano#	831453	Archibaldo	LLORENTE	NUEVA ZELANDA	vie. ago. 7 19:59:41 2020	Pecados	1496	Buenas Acciones	1548	angel
+vie. ago. 7 19:59:41 2020	Humano#	694888	Hipodamia	TENA	BELICE	vie. ago. 7 19:59:41 2020	Pecados	1656	Buenas Acciones	1674	angel
+vie. ago. 7 19:59:41 2020	Humano#	749312	Oleguer	DORADO	COREA DEL NORTE	vie. ago. 7 19:59:41 2020	Pecados	1436	Buenas Acciones	1680	angel
+vie. ago. 7 19:59:41 2020	Humano#	895885	Itat?	VALDIVIA	ESLOVAQUIA	vie. ago. 7 19:59:41 2020	Pecados	1422	Buenas Acciones	1585	angel
+vie. ago. 7 19:59:41 2020	Humano#	865563	Antioca	SALDA?A	BAR?IN	vie. ago. 7 19:59:41 2020	Pecados	1539	Buenas Acciones	1564	angel
+vie. ago. 7 19:59:41 2020	Humano#	697031	?talo	DORADO	COREA DEL NORTE	vie. ago. 7 19:59:41 2020	Pecados	1311	Buenas Acciones	1389	angel
+vie. ago. 7 19:59:41 2020	Humano#	873655	Arecida	BERJA	ANGOLA	vie. ago. 7 19:59:41 2020	Pecados	1157	Buenas Acciones	1275	angel
+vie. ago. 7 19:59:41 2020	Humano#	822060	Oriencio	SERRA	GHANA	vie. ago. 7 19:59:41 2020	Pecados	1378	Buenas Acciones	1464	angel
+vie. ago. 7 19:59:41 2020	Humano#	840822	Hipacio	SANTAMARIA	CROACIA	vie. ago. 7 19:59:41 2020	Pecados	1310	Buenas Acciones	1604	angel
+vie. ago. 7 19:59:41 2020	Humano#	840119	Irune	SORIANO	GUAM	vie. ago. 7 19:59:41 2020	Pecados	1086	Buenas Acciones	1358	angel
+vie. ago. 7 19:59:41 2020	Humano#	875714	Her?n	MA?AS	ACROTIRI Y DHEKELIA	vie. ago. 7 19:59:41 2020	Pecados	1509	Buenas Acciones	1535	angel
+vie. ago. 7 19:59:41 2020	Humano#	673278	Jerry	GALERA	AUSTRALIA	vie. ago. 7 19:59:41 2020	Pecados	1557	Buenas Acciones	1702	angel
+vie. ago. 7 19:59:41 2020	Humano#	685555	Potamia	VILA	EGIPTO	vie. ago. 7 19:59:41 2020	Pecados	1330	Buenas Acciones	1366	angel
+vie. ago. 7 19:59:41 2020	Humano#	893500	Orco	BILBAO	CHIPRE	vie. ago. 7 19:59:41 2020	Pecados	1208	Buenas Acciones	1385	angel
+vie. ago. 7 19:59:41 2020	Humano#	897424	Camerino	MIGUEL	CROACIA	vie. ago. 7 19:59:41 2020	Pecados	1233	Buenas Acciones	1429	angel
+vie. ago. 7 19:59:41 2020	Humano#	693642	Idomeneo	FERRERO	INDIA	vie. ago. 7 19:59:41 2020	Pecados	1138	Buenas Acciones	1330	angel
+vie. ago. 7 19:59:41 2020	Humano#	846084	Proyecta	SERRA	GHANA	vie. ago. 7 19:59:41 2020	Pecados	1328	Buenas Acciones	1430	angel
+vie. ago. 7 19:59:41 2020	Humano#	741957	Zaira	RAMIREZ	BAR?IN	vie. ago. 7 19:59:41 2020	Pecados	1553	Buenas Acciones	1612	angel
+vie. ago. 7 19:59:41 2020	Humano#	673339	Kefr?n	ARNAU	AUSTRALIA	vie. ago. 7 19:59:41 2020	Pecados	1460	Buenas Acciones	1501	angel
+vie. ago. 7 19:59:41 2020	Humano#	761863	Hildebranda	FRANCES	PARAGUAY	vie. ago. 7 19:59:41 2020	Pecados	1324	Buenas Acciones	1379	angel
+vie. ago. 7 19:59:41 2020	Humano#	851467	Bonnie	CARVAJAL	CAMER?N	vie. ago. 7 19:59:41 2020	Pecados	1351	Buenas Acciones	1557	angel
+vie. ago. 7 19:59:41 2020	Humano#	802203	Itat?	VELEZ	ISLAS MARSHALL	vie. ago. 7 19:59:41 2020	Pecados	1629	Buenas Acciones	1631	angel
+vie. ago. 7 19:59:41 2020	Humano#	824843	Pr?coro	MACHADO	REP?BLICA DEL CONGO	vie. ago. 7 19:59:41 2020	Pecados	1451	Buenas Acciones	1514	angel
+vie. ago. 7 19:59:41 2020	Humano#	890986	Juan de Dios	PALACIOS	BELICE	vie. ago. 7 19:59:41 2020	Pecados	1623	Buenas Acciones	1644	angel
+vie. ago. 7 19:59:41 2020	Humano#	883324	Bardona	CARVAJAL	BAR?IN	vie. ago. 7 19:59:41 2020	Pecados	1535	Buenas Acciones	1605	angel
+vie. ago. 7 19:59:41 2020	Humano#	819576	Otmara	FERRE	CHIPRE	vie. ago. 7 19:59:41 2020	Pecados	1451	Buenas Acciones	1527	angel
+vie. ago. 7 19:59:41 2020	Humano#	805515	Primiano	BAEZ	GHANA	vie. ago. 7 19:59:41 2020	Pecados	1357	Buenas Acciones	1637	angel
+vie. ago. 7 19:59:41 2020	Humano#	730147	Ces?reo	PE?A	BRASIL	vie. ago. 7 19:59:41 2020	Pecados	1118	Buenas Acciones	1212	angel
+vie. ago. 7 19:59:41 2020	Humano#	875332	Juvenciola	BILBAO	CAMER?N	vie. ago. 7 19:59:41 2020	Pecados	1285	Buenas Acciones	1374	angel
+vie. ago. 7 19:59:41 2020	Humano#	898319	Bernadette	PERAL	EGIPTO	vie. ago. 7 19:59:41 2020	Pecados	1426	Buenas Acciones	1469	angel
+vie. ago. 7 19:59:41 2020	Humano#	794030	Castora	TORREJON	GHANA	vie. ago. 7 19:59:41 2020	Pecados	1314	Buenas Acciones	1395	angel
+vie. ago. 7 19:59:41 2020	Humano#	733745	Orlanda	ALBERT	FINLANDIA	vie. ago. 7 19:59:41 2020	Pecados	1456	Buenas Acciones	1638	angel
+vie. ago. 7 19:59:41 2020	Humano#	734658	Proyecto	MELIAN	REP?BLICA DEL CONGO	vie. ago. 7 19:59:41 2020	Pecados	1555	Buenas Acciones	1686	angel
+vie. ago. 7 19:59:41 2020	Humano#	783764	Jorja	VILLANUEVA	FINLANDIA	vie. ago. 7 19:59:41 2020	Pecados	1441	Buenas Acciones	1729	angel
+vie. ago. 7 19:59:41 2020	Humano#	890587	Bellida	URE?A	ARGELIA	vie. ago. 7 19:59:41 2020	Pecados	1106	Buenas Acciones	1377	angel
+vie. ago. 7 19:59:41 2020	Humano#	931445	Khafra	CRESPO	BELICE	vie. ago. 7 19:59:41 2020	Pecados	1476	Buenas Acciones	1530	angel
+vie. ago. 7 19:59:41 2020	Humano#	835782	Uxue	CAROD	ISLAS MARSHALL	vie. ago. 7 19:59:41 2020	Pecados	1397	Buenas Acciones	1562	angel
+vie. ago. 7 19:59:41 2020	Humano#	764749	Karima	CARBONELL	FINLANDIA	vie. ago. 7 19:59:41 2020	Pecados	1304	Buenas Acciones	1526	angel
+vie. ago. 7 19:59:41 2020	Humano#	617463	Chadia	VILLAVERDE	EGIPTO	vie. ago. 7 19:59:41 2020	Pecados	1364	Buenas Acciones	1497	angel
+vie. ago. 7 19:59:41 2020	Humano#	820429	I?aki	VILLAVERDE	EGIPTO	vie. ago. 7 19:59:41 2020	Pecados	1400	Buenas Acciones	1410	angel
+vie. ago. 7 19:59:41 2020	Humano#	748022	Basiana	FUENTE	GUAM	vie. ago. 7 19:59:41 2020	Pecados	1433	Buenas Acciones	1461	angel
+vie. ago. 7 19:59:41 2020	Humano#	732109	Humildad	SAIZ	ARABIA SAUDITA	vie. ago. 7 19:59:41 2020	Pecados	1447	Buenas Acciones	1651	angel
+vie. ago. 7 19:59:41 2020	Humano#	824021	Caldeola	PUERTAS	GHANA	vie. ago. 7 19:59:41 2020	Pecados	1435	Buenas Acciones	1611	angel
+vie. ago. 7 19:59:41 2020	Humano#	670156	Orlanda	RECIO	INDIA	vie. ago. 7 19:59:41 2020	Pecados	1377	Buenas Acciones	1873	angel
+vie. ago. 7 19:59:41 2020	Humano#	755745	Belmaco	GRANADO	AUSTRALIA	vie. ago. 7 19:59:41 2020	Pecados	1561	Buenas Acciones	1664	angel
+vie. ago. 7 19:59:41 2020	Humano#	903427	Irune	BERMEJO	EGIPTO	vie. ago. 7 19:59:41 2020	Pecados	1356	Buenas Acciones	1535	angel
+vie. ago. 7 19:59:41 2020	Humano#	695404	Capitolino	DEL PINO	AUSTRALIA	vie. ago. 7 19:59:41 2020	Pecados	1365	Buenas Acciones	1442	angel
+vie. ago. 7 19:59:41 2020	Humano#	818542	Ben?n	AZNAR	ARGELIA	vie. ago. 7 19:59:41 2020	Pecados	984	Buenas Acciones	1111	angel
+vie. ago. 7 19:59:41 2020	Humano#	651472	Arabela	ACEVEDO	GUAM	vie. ago. 7 19:59:41 2020	Pecados	1417	Buenas Acciones	1536	angel
+vie. ago. 7 19:59:41 2020	Humano#	825544	Prudencio	SOLIS	BELICE	vie. ago. 7 19:59:41 2020	Pecados	1345	Buenas Acciones	1357	angel
+vie. ago. 7 19:59:41 2020	Humano#	874821	Jared	ALCARAZ	ARABIA SAUDITA	vie. ago. 7 19:59:41 2020	Pecados	1358	Buenas Acciones	1387	angel
+vie. ago. 7 19:59:41 2020	Humano#	811188	Janet	RECIO	CROACIA	vie. ago. 7 19:59:41 2020	Pecados	1555	Buenas Acciones	1599	angel
+vie. ago. 7 19:59:41 2020	Humano#	945686	Celio	PAVON	ACROTIRI Y DHEKELIA	vie. ago. 7 19:59:41 2020	Pecados	1319	Buenas Acciones	1414	angel
+vie. ago. 7 19:59:41 2020	Humano#	890947	Karmele	MARTORELL	FINLANDIA	vie. ago. 7 19:59:41 2020	Pecados	1466	Buenas Acciones	1503	angel
+vie. ago. 7 19:59:41 2020	Humano#	716592	Ifigenia	BOTELLA	INDIA	vie. ago. 7 19:59:41 2020	Pecados	1512	Buenas Acciones	1546	angel
+vie. ago. 7 19:59:41 2020	Humano#	865325	Hermes	MIR	REP?BLICA DEL CONGO	vie. ago. 7 19:59:41 2020	Pecados	1497	Buenas Acciones	1573	angel
+vie. ago. 7 19:59:41 2020	Humano#	719109	Honesta	BARROS	ARMENIA	vie. ago. 7 19:59:41 2020	Pecados	1649	Buenas Acciones	1684	angel
+vie. ago. 7 19:59:41 2020	Humano#	706616	Aretas	QUI?ONES	BAR?IN	vie. ago. 7 19:59:41 2020	Pecados	1330	Buenas Acciones	1542	angel
+vie. ago. 7 19:59:41 2020	Humano#	894347	Naroa	GARZON	ARMENIA	vie. ago. 7 19:59:41 2020	Pecados	1176	Buenas Acciones	1205	angel
+vie. ago. 7 19:59:41 2020	Humano#	881004	Hortulano	FRANCES	ARGELIA	vie. ago. 7 19:59:41 2020	Pecados	1534	Buenas Acciones	1617	angel
+vie. ago. 7 19:59:41 2020	Humano#	754679	Iole	SERRA	ESLOVAQUIA	vie. ago. 7 19:59:41 2020	Pecados	1566	Buenas Acciones	1586	angel
+vie. ago. 7 19:59:41 2020	Humano#	830534	Iballa	MAZA	PARAGUAY	vie. ago. 7 19:59:41 2020	Pecados	1338	Buenas Acciones	1583	angel
+vie. ago. 7 19:59:41 2020	Humano#	869213	C?stulo	MARRERO	ESLOVAQUIA	vie. ago. 7 19:59:41 2020	Pecados	1530	Buenas Acciones	1685	angel
+vie. ago. 7 19:59:41 2020	Humano#	936299	Bonosa	PELAEZ	CAMER?N	vie. ago. 7 19:59:41 2020	Pecados	1596	Buenas Acciones	1629	angel
+vie. ago. 7 19:59:41 2020	Humano#	802162	Josafat	LLAMAS	CAMER?N	vie. ago. 7 19:59:41 2020	Pecados	1703	Buenas Acciones	1840	angel
+vie. ago. 7 19:59:41 2020	Humano#	838086	Hernando	TABOADA	AUSTRALIA	vie. ago. 7 19:59:41 2020	Pecados	1489	Buenas Acciones	1662	angel
+vie. ago. 7 19:59:41 2020	Humano#	838756	Milan	DUE?AS	FINLANDIA	vie. ago. 7 19:59:41 2020	Pecados	1413	Buenas Acciones	1423	angel
+vie. ago. 7 19:59:41 2020	Humano#	779180	Blando	TORRES	ANGOLA	vie. ago. 7 19:59:41 2020	Pecados	998	Buenas Acciones	1330	angel
+vie. ago. 7 19:59:41 2020	Humano#	770354	Ordo?o	ARNAU	ARABIA SAUDITA	vie. ago. 7 19:59:41 2020	Pecados	1546	Buenas Acciones	1742	angel
+vie. ago. 7 19:59:41 2020	Humano#	821616	Ori?n	RAMIREZ	EGIPTO	vie. ago. 7 19:59:41 2020	Pecados	1495	Buenas Acciones	1518	angel
+vie. ago. 7 19:59:41 2020	Humano#	928856	Caprasio	SEVILLANO	GHANA	vie. ago. 7 19:59:41 2020	Pecados	1672	Buenas Acciones	1786	angel
+vie. ago. 7 19:59:41 2020	Humano#	875739	Kepa	MA?AS	ISLAS MARSHALL	vie. ago. 7 19:59:41 2020	Pecados	1406	Buenas Acciones	1415	angel
+vie. ago. 7 19:59:41 2020	Humano#	881694	Idalia	TORREJON	ISLAS MARSHALL	vie. ago. 7 19:59:41 2020	Pecados	1549	Buenas Acciones	1569	angel
+vie. ago. 7 19:59:41 2020	Humano#	858856	Beltrana	QUI?ONES	BURUNDI	vie. ago. 7 19:59:41 2020	Pecados	1602	Buenas Acciones	1616	angel
+vie. ago. 7 19:59:41 2020	Humano#	835010	Januaria	MERA	CAMER?N	vie. ago. 7 19:59:41 2020	Pecados	1704	Buenas Acciones	1768	angel
+vie. ago. 7 19:59:41 2020	Humano#	773079	Perpetua	SANTANA	GHANA	vie. ago. 7 19:59:41 2020	Pecados	1459	Buenas Acciones	1507	angel
+vie. ago. 7 19:59:41 2020	Humano#	807913	Isarnio	VI?AS	ARGELIA	vie. ago. 7 19:59:41 2020	Pecados	1335	Buenas Acciones	1391	angel
+vie. ago. 7 19:59:41 2020	Humano#	912636	Cesarino	MACHADO	REP?BLICA DEL CONGO	vie. ago. 7 19:59:41 2020	Pecados	1366	Buenas Acciones	1371	angel
+vie. ago. 7 19:59:41 2020	Humano#	929320	Hegesipo	LEON	ESLOVAQUIA	vie. ago. 7 19:59:41 2020	Pecados	1509	Buenas Acciones	1632	angel
+vie. ago. 7 19:59:41 2020	Humano#	801678	Casia	GIRALDO	BELICE	vie. ago. 7 19:59:41 2020	Pecados	1402	Buenas Acciones	1522	angel
+vie. ago. 7 19:59:41 2020	Humano#	846982	Pr?culo	SERRANO	ARMENIA	vie. ago. 7 19:59:41 2020	Pecados	1391	Buenas Acciones	1640	angel
+vie. ago. 7 19:59:41 2020	Humano#	922981	Proyecta	DE DIEGO	AUSTRALIA	vie. ago. 7 19:59:41 2020	Pecados	1501	Buenas Acciones	1643	angel
+vie. ago. 7 19:59:41 2020	Humano#	817158	Olegaria	OLIVER	ARGELIA	vie. ago. 7 19:59:41 2020	Pecados	1508	Buenas Acciones	1530	angel
+vie. ago. 7 19:59:41 2020	Humano#	890167	Adolfa	YAGUE	GUAM	vie. ago. 7 19:59:41 2020	Pecados	1096	Buenas Acciones	1377	angel
+vie. ago. 7 19:59:41 2020	Humano#	725205	Hunfrido	LEON	PARAGUAY	vie. ago. 7 19:59:41 2020	Pecados	1509	Buenas Acciones	1531	angel
+vie. ago. 7 19:59:41 2020	Humano#	895316	Hugoberto	LLOPIS	BURUNDI	vie. ago. 7 19:59:41 2020	Pecados	1424	Buenas Acciones	1465	angel
+vie. ago. 7 19:59:41 2020	Humano#	766956	Itat?	SACRISTAN	GHANA	vie. ago. 7 19:59:41 2020	Pecados	1400	Buenas Acciones	1533	angel
+vie. ago. 7 19:59:41 2020	Humano#	873176	Hernanda	SEVILLANO	COREA DEL NORTE	vie. ago. 7 19:59:41 2020	Pecados	1467	Buenas Acciones	1474	angel
+vie. ago. 7 19:59:41 2020	Humano#	509547	Buda	AHMED	ARMENIA	vie. ago. 7 19:59:41 2020	Pecados	1676	Buenas Acciones	1689	angel
+vie. ago. 7 19:59:41 2020	Humano#	784681	Pomponio	PALACIOS	BELICE	vie. ago. 7 19:59:41 2020	Pecados	1598	Buenas Acciones	1641	angel
+vie. ago. 7 19:59:41 2020	Humano#	628851	Izaro	GORDO	ARABIA SAUDITA	vie. ago. 7 19:59:41 2020	Pecados	1245	Buenas Acciones	1591	angel
+vie. ago. 7 19:59:41 2020	Humano#	785582	Bera	PALACIOS	BELICE	vie. ago. 7 19:59:41 2020	Pecados	1202	Buenas Acciones	1298	angel
+vie. ago. 7 19:59:41 2020	Humano#	737085	Calirroe	CUELLAR	CHIPRE	vie. ago. 7 19:59:41 2020	Pecados	1539	Buenas Acciones	1623	angel
+vie. ago. 7 19:59:41 2020	Humano#	777433	Carp?fora	SANMARTIN	GHANA	vie. ago. 7 19:59:41 2020	Pecados	1402	Buenas Acciones	1724	angel
+vie. ago. 7 19:59:41 2020	Humano#	705956	Ayel?n	YAGUE	FINLANDIA	vie. ago. 7 19:59:41 2020	Pecados	1646	Buenas Acciones	1658	angel
+vie. ago. 7 19:59:41 2020	Humano#	862550	Pompilio	RECHE	NUEVA ZELANDA	vie. ago. 7 19:59:41 2020	Pecados	1369	Buenas Acciones	1586	angel
+vie. ago. 7 19:59:41 2020	Humano#	776140	Osmunda	RICO	ACROTIRI Y DHEKELIA	vie. ago. 7 19:59:41 2020	Pecados	1470	Buenas Acciones	1471	angel
+vie. ago. 7 19:59:41 2020	Humano#	736248	Calisto	FEIJOO	AUSTRALIA	vie. ago. 7 19:59:41 2020	Pecados	1454	Buenas Acciones	1606	angel
+vie. ago. 7 19:59:41 2020	Humano#	839654	Is?crates	PALMA	CHIPRE	vie. ago. 7 19:59:41 2020	Pecados	1461	Buenas Acciones	1796	angel
+vie. ago. 7 19:59:41 2020	Humano#	802248	Catalda	CAMACHO	FINLANDIA	vie. ago. 7 19:59:41 2020	Pecados	1415	Buenas Acciones	1491	angel
+vie. ago. 7 19:59:41 2020	Humano#	749975	Henning	PE?A	CAMBOYA	vie. ago. 7 19:59:41 2020	Pecados	1478	Buenas Acciones	1670	angel
+vie. ago. 7 19:59:41 2020	Humano#	867044	Benancio	MA?AS	COREA DEL NORTE	vie. ago. 7 19:59:41 2020	Pecados	1531	Buenas Acciones	1551	angel
+vie. ago. 7 19:59:41 2020	Humano#	769442	Yanira	CA?ADAS	GHANA	vie. ago. 7 19:59:41 2020	Pecados	1410	Buenas Acciones	1519	angel
+vie. ago. 7 19:59:41 2020	Humano#	712313	Aproniano	CAROD	COREA DEL NORTE	vie. ago. 7 19:59:41 2020	Pecados	1587	Buenas Acciones	1658	angel
+vie. ago. 7 19:59:41 2020	Humano#	927534	Herodes	OLMEDO	BELICE	vie. ago. 7 19:59:41 2020	Pecados	1392	Buenas Acciones	1601	angel
+vie. ago. 7 19:59:41 2020	Humano#	820067	Kepa	GALLARDO	CAMER?N	vie. ago. 7 19:59:41 2020	Pecados	1570	Buenas Acciones	1653	angel
+vie. ago. 7 19:59:41 2020	Humano#	934849	Carit?n	ENERIZ	REP?BLICA DEL CONGO	vie. ago. 7 19:59:41 2020	Pecados	1449	Buenas Acciones	1672	angel
+vie. ago. 7 19:59:41 2020	Humano#	852800	Osvino	NIETO	COREA DEL NORTE	vie. ago. 7 19:59:41 2020	Pecados	1585	Buenas Acciones	1696	angel
+vie. ago. 7 19:59:41 2020	Humano#	950439	Herculano	RICO	EGIPTO	vie. ago. 7 19:59:41 2020	Pecados	1631	Buenas Acciones	1749	angel
+vie. ago. 7 19:59:41 2020	Humano#	802981	Hermilo	JULIAN	INDIA	vie. ago. 7 19:59:41 2020	Pecados	1243	Buenas Acciones	1564	angel
+vie. ago. 7 19:59:41 2020	Humano#	781311	Deucali?n	HIGUERAS	FINLANDIA	vie. ago. 7 19:59:41 2020	Pecados	1189	Buenas Acciones	1497	angel
+vie. ago. 7 19:59:41 2020	Humano#	791434	Brand?n	BATISTA	CAMER?N	vie. ago. 7 19:59:41 2020	Pecados	1157	Buenas Acciones	1823	angel
+vie. ago. 7 19:59:41 2020	Humano#	851304	Primiana	SEVILLANO	ARMENIA	vie. ago. 7 19:59:41 2020	Pecados	1564	Buenas Acciones	1680	angel
+vie. ago. 7 19:59:41 2020	Humano#	780292	Kamel	HERVAS	BURUNDI	vie. ago. 7 19:59:41 2020	Pecados	1577	Buenas Acciones	1639	angel
+vie. ago. 7 19:59:41 2020	Humano#	864298	Nagore	PANIAGUA	CHIPRE	vie. ago. 7 19:59:41 2020	Pecados	1072	Buenas Acciones	1659	angel
+vie. ago. 7 19:59:41 2020	Humano#	908433	Olav	OLIVER	COREA DEL NORTE	vie. ago. 7 19:59:41 2020	Pecados	1627	Buenas Acciones	1695	angel
+vie. ago. 7 19:59:41 2020	Humano#	860538	Capitona	LAFUENTE	ANGOLA	vie. ago. 7 19:59:41 2020	Pecados	1347	Buenas Acciones	1442	angel
+vie. ago. 7 19:59:41 2020	Humano#	858091	Inti	SAN MIGUEL	ACROTIRI Y DHEKELIA	vie. ago. 7 19:59:41 2020	Pecados	1562	Buenas Acciones	1608	angel
+vie. ago. 7 19:59:41 2020	Humano#	790726	Indra	ZAMORA	INDIA	vie. ago. 7 19:59:41 2020	Pecados	1361	Buenas Acciones	1550	angel
+vie. ago. 7 19:59:41 2020	Humano#	748177	Celestino	MELGAR	GHANA	vie. ago. 7 19:59:41 2020	Pecados	1555	Buenas Acciones	1613	angel
+vie. ago. 7 19:59:41 2020	Humano#	849184	Orget?rix	XU	ARGELIA	vie. ago. 7 19:59:41 2020	Pecados	1444	Buenas Acciones	1484	angel
+vie. ago. 7 19:59:41 2020	Humano#	832100	Itzae	TOLEDO	GUAM	vie. ago. 7 19:59:41 2020	Pecados	1456	Buenas Acciones	1610	angel
+vie. ago. 7 19:59:41 2020	Humano#	667110	Cancio	CARRERA	ACROTIRI Y DHEKELIA	vie. ago. 7 19:59:41 2020	Pecados	1437	Buenas Acciones	1595	angel
+vie. ago. 7 19:59:41 2020	Humano#	748885	Ponciano	PALOMO	ARGELIA	vie. ago. 7 19:59:41 2020	Pecados	1377	Buenas Acciones	1451	angel
+vie. ago. 7 19:59:41 2020	Humano#	910380	Osvina	MELERO	ARGELIA	vie. ago. 7 19:59:41 2020	Pecados	1401	Buenas Acciones	1410	angel
+vie. ago. 7 19:59:41 2020	Humano#	810932	Henning	AGUDO	CAMER?N	vie. ago. 7 19:59:41 2020	Pecados	1233	Buenas Acciones	1516	angel
+vie. ago. 7 19:59:41 2020	Humano#	874742	Hator	CAMACHO	INDIA	vie. ago. 7 19:59:41 2020	Pecados	1403	Buenas Acciones	1476	angel
+vie. ago. 7 19:59:41 2020	Humano#	638397	Puerto	ACEVEDO	INDIA	vie. ago. 7 19:59:41 2020	Pecados	1518	Buenas Acciones	1551	angel
+vie. ago. 7 19:59:41 2020	Humano#	870238	Urano	URE?A	PARAGUAY	vie. ago. 7 19:59:41 2020	Pecados	1527	Buenas Acciones	1533	angel
+vie. ago. 7 19:59:41 2020	Humano#	863203	Huberta	MORCILLO	BURUNDI	vie. ago. 7 19:59:41 2020	Pecados	1585	Buenas Acciones	1622	angel
+vie. ago. 7 19:59:41 2020	Humano#	861764	?o	SANTANA	ARMENIA	vie. ago. 7 19:59:41 2020	Pecados	1453	Buenas Acciones	1459	angel
+vie. ago. 7 19:59:41 2020	Humano#	974154	Prot?goras	ESPINOZA	ANGOLA	vie. ago. 7 19:59:41 2020	Pecados	1417	Buenas Acciones	1516	angel
+vie. ago. 7 19:59:41 2020	Humano#	707606	Benancio	SANTANA	ARMENIA	vie. ago. 7 19:59:41 2020	Pecados	1489	Buenas Acciones	1490	angel
+vie. ago. 7 19:59:41 2020	Humano#	662610	Bardulfo	MARQUEZ	BURUNDI	vie. ago. 7 19:59:41 2020	Pecados	1572	Buenas Acciones	1699	angel
+vie. ago. 7 19:59:41 2020	Humano#	817179	Onofre	RIO	REP?BLICA DEL CONGO	vie. ago. 7 19:59:41 2020	Pecados	1561	Buenas Acciones	1564	angel
+vie. ago. 7 19:59:41 2020	Humano#	797343	Anisa	SORIANO	ESLOVAQUIA	vie. ago. 7 19:59:41 2020	Pecados	1521	Buenas Acciones	1633	angel
+vie. ago. 7 19:59:41 2020	Humano#	845393	Benancia	ZAMORA	BURUNDI	vie. ago. 7 19:59:41 2020	Pecados	1683	Buenas Acciones	1835	angel
+vie. ago. 7 19:59:41 2020	Humano#	864789	Hip?menes	CANTERO	GUAM	vie. ago. 7 19:59:41 2020	Pecados	1389	Buenas Acciones	1578	angel
+vie. ago. 7 19:59:41 2020	Humano#	829468	Hegesipo	RICO	NUEVA ZELANDA	vie. ago. 7 19:59:41 2020	Pecados	1487	Buenas Acciones	1565	angel
+vie. ago. 7 19:59:41 2020	Humano#	829574	Bertila	ANDUJAR	AUSTRALIA	vie. ago. 7 19:59:41 2020	Pecados	1609	Buenas Acciones	1664	angel
+vie. ago. 7 19:59:41 2020	Humano#	739498	Catulina	ALEMANY	ESLOVAQUIA	vie. ago. 7 19:59:41 2020	Pecados	1449	Buenas Acciones	1580	angel
+vie. ago. 7 19:59:41 2020	Humano#	728553	Her?clito	ALCARAZ	ARABIA SAUDITA	vie. ago. 7 19:59:41 2020	Pecados	1272	Buenas Acciones	1581	angel
+vie. ago. 7 19:59:41 2020	Humano#	760451	Celerino	BERNAL	ACROTIRI Y DHEKELIA	vie. ago. 7 19:59:41 2020	Pecados	1708	Buenas Acciones	1750	angel
+vie. ago. 7 19:59:41 2020	Humano#	831528	Karima	MIRA	EGIPTO	vie. ago. 7 19:59:41 2020	Pecados	1658	Buenas Acciones	1694	angel
+vie. ago. 7 19:59:41 2020	Humano#	864015	Aparici?n	PORRAS	BAR?IN	vie. ago. 7 19:59:41 2020	Pecados	1600	Buenas Acciones	1614	angel
+vie. ago. 7 19:59:41 2020	Humano#	768171	Belenos	AMADOR	ARABIA SAUDITA	vie. ago. 7 19:59:41 2020	Pecados	1505	Buenas Acciones	1640	angel
+vie. ago. 7 19:59:41 2020	Humano#	787368	Hazael	DURAN	ARGELIA	vie. ago. 7 19:59:41 2020	Pecados	1523	Buenas Acciones	1525	angel
+vie. ago. 7 19:59:41 2020	Humano#	830843	Jovina	OLIVARES	CAMBOYA	vie. ago. 7 19:59:41 2020	Pecados	1524	Buenas Acciones	1603	angel
+vie. ago. 7 19:59:41 2020	Humano#	950435	Presentaci?n	MORA	BAR?IN	vie. ago. 7 19:59:41 2020	Pecados	1453	Buenas Acciones	1593	angel
+vie. ago. 7 19:59:41 2020	Humano#	824216	Iraides	ZAMORA	ANGOLA	vie. ago. 7 19:59:41 2020	Pecados	1527	Buenas Acciones	1543	angel
+vie. ago. 7 19:59:41 2020	Humano#	880115	I?aki	CHICO	PARAGUAY	vie. ago. 7 19:59:41 2020	Pecados	1629	Buenas Acciones	1669	angel
+vie. ago. 7 19:59:41 2020	Humano#	696427	Kim	PACHECO	CROACIA	vie. ago. 7 19:59:41 2020	Pecados	1473	Buenas Acciones	1487	angel
+vie. ago. 7 19:59:41 2020	Humano#	873726	Capitolino	RUANO	FINLANDIA	vie. ago. 7 19:59:41 2020	Pecados	1378	Buenas Acciones	1452	angel
+vie. ago. 7 19:59:41 2020	Humano#	834267	Karmele	ARELLANO	GHANA	vie. ago. 7 19:59:41 2020	Pecados	1491	Buenas Acciones	1494	angel
+vie. ago. 7 19:59:41 2020	Humano#	755222	Elin	ADAN	BRASIL	vie. ago. 7 19:59:41 2020	Pecados	1427	Buenas Acciones	1432	angel
+vie. ago. 7 19:59:41 2020	Humano#	774315	Bonfilia	PAEZ	REP?BLICA DEL CONGO	vie. ago. 7 19:59:41 2020	Pecados	1381	Buenas Acciones	1532	angel
+vie. ago. 7 19:59:41 2020	Humano#	843837	Belceb?	ROSA	BAR?IN	vie. ago. 7 19:59:41 2020	Pecados	1651	Buenas Acciones	1739	angel
+vie. ago. 7 19:59:41 2020	Humano#	879185	Kay	ESPEJO	ANGOLA	vie. ago. 7 19:59:41 2020	Pecados	1509	Buenas Acciones	1631	angel
+vie. ago. 7 19:59:41 2020	Humano#	829483	Carponia	MANZANO	ACROTIRI Y DHEKELIA	vie. ago. 7 19:59:41 2020	Pecados	1369	Buenas Acciones	1500	angel
+vie. ago. 7 19:59:41 2020	Humano#	846110	Dorian	SOTO	ANGOLA	vie. ago. 7 19:59:41 2020	Pecados	1567	Buenas Acciones	1649	angel
+vie. ago. 7 19:59:41 2020	Humano#	800300	Pomponio	MONTORO	ACROTIRI Y DHEKELIA	vie. ago. 7 19:59:41 2020	Pecados	1011	Buenas Acciones	1166	angel
+vie. ago. 7 19:59:41 2020	Humano#	755666	Hugoberto	FIGUEROA	CROACIA	vie. ago. 7 19:59:41 2020	Pecados	1512	Buenas Acciones	1569	angel
+vie. ago. 7 19:59:41 2020	Humano#	766821	Cenicienta	MELERO	BRASIL	vie. ago. 7 19:59:41 2020	Pecados	1415	Buenas Acciones	1432	angel
+vie. ago. 7 19:59:41 2020	Humano#	855189	Calistena	ALVAREZ	ACROTIRI Y DHEKELIA	vie. ago. 7 19:59:41 2020	Pecados	1342	Buenas Acciones	1463	angel
+vie. ago. 7 19:59:41 2020	Humano#	896201	Poncia	TAMAYO	ARMENIA	vie. ago. 7 19:59:41 2020	Pecados	1471	Buenas Acciones	1512	angel
+vie. ago. 7 19:59:41 2020	Humano#	680891	C?stula	BELLIDO	ARABIA SAUDITA	vie. ago. 7 19:59:41 2020	Pecados	1554	Buenas Acciones	1565	angel
+vie. ago. 7 19:59:41 2020	Humano#	709120	Carponio	VACA	ANGOLA	vie. ago. 7 19:59:41 2020	Pecados	1547	Buenas Acciones	1757	angel
+vie. ago. 7 19:59:41 2020	Humano#	642773	Proteria	SANZ	COREA DEL NORTE	vie. ago. 7 19:59:41 2020	Pecados	1349	Buenas Acciones	1555	angel
+vie. ago. 7 19:59:41 2020	Humano#	852725	Donatila	GARZON	BRASIL	vie. ago. 7 19:59:41 2020	Pecados	1432	Buenas Acciones	1558	angel
+vie. ago. 7 19:59:41 2020	Humano#	803580	Isarnia	LAGUNA	GUAM	vie. ago. 7 19:59:41 2020	Pecados	1367	Buenas Acciones	1483	angel
+vie. ago. 7 19:59:41 2020	Humano#	794664	Olimpio	MIGUEL	ARABIA SAUDITA	vie. ago. 7 19:59:41 2020	Pecados	1455	Buenas Acciones	1547	angel
+vie. ago. 7 19:59:41 2020	Humano#	842050	Hormisdas	MELERO	ESLOVAQUIA	vie. ago. 7 19:59:41 2020	Pecados	1418	Buenas Acciones	1499	angel
+vie. ago. 7 19:59:41 2020	Humano#	777134	Cain?n	LUCENA	ACROTIRI Y DHEKELIA	vie. ago. 7 19:59:41 2020	Pecados	1437	Buenas Acciones	1615	angel
+vie. ago. 7 19:59:41 2020	Humano#	860774	Petronila	ZAMORANO	BELICE	vie. ago. 7 19:59:41 2020	Pecados	1120	Buenas Acciones	1367	angel
+vie. ago. 7 19:59:41 2020	Humano#	762301	Humberta	ESPINOZA	FINLANDIA	vie. ago. 7 19:59:41 2020	Pecados	1472	Buenas Acciones	1573	angel
+vie. ago. 7 19:59:41 2020	Humano#	865088	Tareq	CASTA?O	ARGELIA	vie. ago. 7 19:59:41 2020	Pecados	1538	Buenas Acciones	1610	angel
+vie. ago. 7 19:59:41 2020	Humano#	831097	Cal?nica	RIVERO	NUEVA ZELANDA	vie. ago. 7 19:59:41 2020	Pecados	1633	Buenas Acciones	1805	angel
+vie. ago. 7 19:59:41 2020	Humano#	966989	Pr?cora	LEON	GUAM	vie. ago. 7 19:59:41 2020	Pecados	1557	Buenas Acciones	1701	angel
+vie. ago. 7 19:59:41 2020	Humano#	858006	Naroa	MERA	ISLAS MARSHALL	vie. ago. 7 19:59:41 2020	Pecados	1450	Buenas Acciones	1580	angel
+vie. ago. 7 19:59:41 2020	Humano#	706060	Probo	SACRISTAN	CAMER?N	vie. ago. 7 19:59:41 2020	Pecados	1344	Buenas Acciones	1504	angel
+vie. ago. 7 19:59:41 2020	Humano#	801438	Braulio	ROBLEDO	COREA DEL NORTE	vie. ago. 7 19:59:41 2020	Pecados	1433	Buenas Acciones	1476	angel
+vie. ago. 7 19:59:41 2020	Humano#	841651	Casia	PI?A	GHANA	vie. ago. 7 19:59:41 2020	Pecados	1453	Buenas Acciones	1776	angel
+vie. ago. 7 19:59:41 2020	Humano#	865402	Habencia	PUERTO	ESLOVAQUIA	vie. ago. 7 19:59:41 2020	Pecados	1555	Buenas Acciones	1662	angel
+vie. ago. 7 19:59:41 2020	Humano#	855031	Onofre	DE DIOS	CHIPRE	vie. ago. 7 19:59:41 2020	Pecados	1587	Buenas Acciones	1626	angel
+vie. ago. 7 19:59:41 2020	Humano#	853292	Acor?n	FEIJOO	BAR?IN	vie. ago. 7 19:59:41 2020	Pecados	1302	Buenas Acciones	1344	angel
+vie. ago. 7 19:59:41 2020	Humano#	744396	Lainer	PADILLA	NUEVA ZELANDA	vie. ago. 7 19:59:41 2020	Pecados	1440	Buenas Acciones	1538	angel
+vie. ago. 7 19:59:41 2020	Humano#	822846	Catulina	BARBERA	ESLOVAQUIA	vie. ago. 7 19:59:41 2020	Pecados	1567	Buenas Acciones	1623	angel
+vie. ago. 7 19:59:41 2020	Humano#	835084	Jorja	MARISCAL	PARAGUAY	vie. ago. 7 19:59:41 2020	Pecados	1575	Buenas Acciones	1752	angel
+vie. ago. 7 19:59:41 2020	Humano#	765903	Guacimara	CASTELLANO	FINLANDIA	vie. ago. 7 19:59:41 2020	Pecados	1459	Buenas Acciones	1541	angel
+vie. ago. 7 19:59:41 2020	Humano#	802864	Jerry	DORADO	BURUNDI	vie. ago. 7 19:59:41 2020	Pecados	1352	Buenas Acciones	1494	angel
+vie. ago. 7 19:59:41 2020	Humano#	881016	Irenia	SEVILLANO	CAMBOYA	vie. ago. 7 19:59:41 2020	Pecados	1563	Buenas Acciones	1639	angel
+vie. ago. 7 19:59:41 2020	Humano#	749251	Blandina	MEJIAS	BURUNDI	vie. ago. 7 19:59:41 2020	Pecados	1558	Buenas Acciones	1595	angel
+vie. ago. 7 19:59:41 2020	Humano#	781927	Calixta	ELIAS	AUSTRALIA	vie. ago. 7 19:59:41 2020	Pecados	1438	Buenas Acciones	1544	angel
+vie. ago. 7 19:59:41 2020	Humano#	844698	Ordo?o	VENTURA	PARAGUAY	vie. ago. 7 19:59:41 2020	Pecados	1507	Buenas Acciones	1726	angel
+vie. ago. 7 19:59:41 2020	Humano#	759960	Altair	CA?ADAS	BRASIL	vie. ago. 7 19:59:41 2020	Pecados	1072	Buenas Acciones	1184	angel
+vie. ago. 7 19:59:41 2020	Humano#	781204	Ca?osanto	TOMAS	CAMBOYA	vie. ago. 7 19:59:41 2020	Pecados	1554	Buenas Acciones	1577	angel
+vie. ago. 7 19:59:41 2020	Humano#	813744	Apolonio	LOBATO	CHIPRE	vie. ago. 7 19:59:41 2020	Pecados	1544	Buenas Acciones	1667	angel
+vie. ago. 7 19:59:41 2020	Humano#	864278	Atteneri	MELIAN	GUAM	vie. ago. 7 19:59:41 2020	Pecados	1460	Buenas Acciones	1639	angel
+vie. ago. 7 19:59:41 2020	Humano#	769800	Beltrana	PLANAS	EGIPTO	vie. ago. 7 19:59:41 2020	Pecados	1358	Buenas Acciones	1684	angel
+vie. ago. 7 19:59:41 2020	Humano#	751154	Brocardo	MIGUEZ	COREA DEL NORTE	vie. ago. 7 19:59:41 2020	Pecados	1606	Buenas Acciones	1707	angel
+vie. ago. 7 19:59:41 2020	Humano#	806480	Hugobaldo	AGUDO	ARMENIA	vie. ago. 7 19:59:41 2020	Pecados	1707	Buenas Acciones	1716	angel
+vie. ago. 7 19:59:41 2020	Humano#	917957	Argimiro	MONTORO	ARGELIA	vie. ago. 7 19:59:41 2020	Pecados	1466	Buenas Acciones	1669	angel
+vie. ago. 7 19:59:41 2020	Humano#	893431	Iracema	LORENZO	GHANA	vie. ago. 7 19:59:41 2020	Pecados	1485	Buenas Acciones	1509	angel
+vie. ago. 7 19:59:41 2020	Humano#	846052	Odeta	BERMEJO	ARABIA SAUDITA	vie. ago. 7 19:59:41 2020	Pecados	1345	Buenas Acciones	1579	angel
+vie. ago. 7 19:59:41 2020	Humano#	759098	Catulino	SOLA	ARMENIA	vie. ago. 7 19:59:41 2020	Pecados	1597	Buenas Acciones	1604	angel
+vie. ago. 7 19:59:41 2020	Humano#	836769	Hildegunda	OJEDA	REP?BLICA DEL CONGO	vie. ago. 7 19:59:41 2020	Pecados	1541	Buenas Acciones	1595	angel
+vie. ago. 7 19:59:41 2020	Humano#	852325	Perfecta	FRAGA	PARAGUAY	vie. ago. 7 19:59:41 2020	Pecados	1472	Buenas Acciones	1569	angel
+vie. ago. 7 19:59:41 2020	Humano#	928577	Buen consejo	PALOMO	CHIPRE	vie. ago. 7 19:59:41 2020	Pecados	1294	Buenas Acciones	1332	angel
+vie. ago. 7 19:59:41 2020	Humano#	770334	Dino	DE CASTRO	BELICE	vie. ago. 7 19:59:41 2020	Pecados	1547	Buenas Acciones	1720	angel
+vie. ago. 7 19:59:41 2020	Humano#	892826	Hermipa	MELGAR	BAR?IN	vie. ago. 7 19:59:41 2020	Pecados	1386	Buenas Acciones	1576	angel
+vie. ago. 7 19:59:41 2020	Humano#	852014	Bruto	ZAFRA	GUAM	vie. ago. 7 19:59:41 2020	Pecados	1449	Buenas Acciones	1496	angel
+vie. ago. 7 19:59:41 2020	Humano#	917559	Ibai	MONTORO	ARABIA SAUDITA	vie. ago. 7 19:59:41 2020	Pecados	1449	Buenas Acciones	1587	angel
+vie. ago. 7 19:59:41 2020	Humano#	843494	Brendana	CAMACHO	ANGOLA	vie. ago. 7 19:59:41 2020	Pecados	1356	Buenas Acciones	1444	angel
+vie. ago. 7 19:59:41 2020	Humano#	878799	Karmel	GARZON	FINLANDIA	vie. ago. 7 19:59:41 2020	Pecados	1523	Buenas Acciones	1561	angel
+vie. ago. 7 19:59:41 2020	Humano#	831252	Hern?n	MIGUEZ	COREA DEL NORTE	vie. ago. 7 19:59:41 2020	Pecados	1511	Buenas Acciones	1579	angel
+vie. ago. 7 19:59:41 2020	Humano#	809574	Dionisia	SANTAMARIA	BURUNDI	vie. ago. 7 19:59:41 2020	Pecados	1299	Buenas Acciones	1408	angel
+vie. ago. 7 19:59:41 2020	Humano#	774413	Delmiro	SOTO	BRASIL	vie. ago. 7 19:59:41 2020	Pecados	1580	Buenas Acciones	1620	angel
+vie. ago. 7 19:59:41 2020	Humano#	880816	Adir	SOLER	FINLANDIA	vie. ago. 7 19:59:41 2020	Pecados	1281	Buenas Acciones	1460	angel
+vie. ago. 7 19:59:41 2020	Humano#	783735	Heraclides	VILCHES	INDIA	vie. ago. 7 19:59:41 2020	Pecados	1017	Buenas Acciones	1035	angel
+vie. ago. 7 19:59:41 2020	Humano#	722722	Her?n	CAMACHO	BELICE	vie. ago. 7 19:59:41 2020	Pecados	1374	Buenas Acciones	1673	angel
+vie. ago. 7 19:59:41 2020	Humano#	800836	Altaf	CALZADA	PARAGUAY	vie. ago. 7 19:59:41 2020	Pecados	1755	Buenas Acciones	1758	angel
+vie. ago. 7 19:59:41 2020	Humano#	807945	Castoria	SEGOVIA	BURUNDI	vie. ago. 7 19:59:41 2020	Pecados	1347	Buenas Acciones	1625	angel
+vie. ago. 7 19:59:41 2020	Humano#	793883	C?stula	SAIZ	ESLOVAQUIA	vie. ago. 7 19:59:41 2020	Pecados	1560	Buenas Acciones	1573	angel
+vie. ago. 7 19:59:41 2020	Humano#	872056	Helvecio	MELIAN	ANGOLA	vie. ago. 7 19:59:41 2020	Pecados	1654	Buenas Acciones	1656	angel
+vie. ago. 7 19:59:41 2020	Humano#	827831	Itzae	OLIVARES	ARMENIA	vie. ago. 7 19:59:41 2020	Pecados	1231	Buenas Acciones	1575	angel
+vie. ago. 7 19:59:41 2020	Humano#	837366	Prot?geno	XU	ANGOLA	vie. ago. 7 19:59:41 2020	Pecados	1366	Buenas Acciones	1543	angel
+vie. ago. 7 19:59:41 2020	Humano#	791961	Iduberga	ZAFRA	CAMER?N	vie. ago. 7 19:59:41 2020	Pecados	1336	Buenas Acciones	1366	angel
+vie. ago. 7 19:59:41 2020	Humano#	902248	Opal	ALVARADO	BELICE	vie. ago. 7 19:59:41 2020	Pecados	1624	Buenas Acciones	1753	angel
+vie. ago. 7 19:59:41 2020	Humano#	531384	Shadia	BALAGUER	COREA DEL NORTE	vie. ago. 7 19:59:41 2020	Pecados	1549	Buenas Acciones	1608	angel
+vie. ago. 7 19:59:41 2020	Humano#	822289	Bardona	SAENZ	ANGOLA	vie. ago. 7 19:59:41 2020	Pecados	1573	Buenas Acciones	1585	angel
+vie. ago. 7 19:59:41 2020	Humano#	729567	Faruk	MANSILLA	COREA DEL NORTE	vie. ago. 7 19:59:41 2020	Pecados	1568	Buenas Acciones	1586	angel
+vie. ago. 7 19:59:41 2020	Humano#	799884	Belisa	LEMA	CAMER?N	vie. ago. 7 19:59:41 2020	Pecados	1426	Buenas Acciones	1526	angel
+vie. ago. 7 19:59:41 2020	Humano#	632335	Osorio	MALDONADO	ISLAS MARSHALL	vie. ago. 7 19:59:41 2020	Pecados	1544	Buenas Acciones	1545	angel
+vie. ago. 7 19:59:41 2020	Humano#	844569	Henrique	JIMENEZ	BURUNDI	vie. ago. 7 19:59:41 2020	Pecados	1647	Buenas Acciones	1725	angel
+vie. ago. 7 19:59:41 2020	Humano#	778596	Isis	DE LA ROSA	ESLOVAQUIA	vie. ago. 7 19:59:41 2020	Pecados	1519	Buenas Acciones	1572	angel
+vie. ago. 7 19:59:41 2020	Humano#	844933	P?ntico	BILBAO	CAMBOYA	vie. ago. 7 19:59:41 2020	Pecados	1511	Buenas Acciones	1633	angel
+vie. ago. 7 19:59:41 2020	Humano#	755311	Posidia	BERJA	ARMENIA	vie. ago. 7 19:59:41 2020	Pecados	1043	Buenas Acciones	1628	angel
+vie. ago. 7 19:59:41 2020	Humano#	828232	Capilla	LOBO	ACROTIRI Y DHEKELIA	vie. ago. 7 19:59:41 2020	Pecados	1309	Buenas Acciones	1540	angel
+vie. ago. 7 19:59:41 2020	Humano#	908926	Arduino	COBOS	BAR?IN	vie. ago. 7 19:59:41 2020	Pecados	1530	Buenas Acciones	1688	angel
+vie. ago. 7 19:59:41 2020	Humano#	869806	Helenio	CARVAJAL	ISLAS MARSHALL	vie. ago. 7 19:59:41 2020	Pecados	1465	Buenas Acciones	1642	angel
+vie. ago. 7 19:59:41 2020	Humano#	891336	Norberta	SEGARRA	GHANA	vie. ago. 7 19:59:41 2020	Pecados	1413	Buenas Acciones	1640	angel
+vie. ago. 7 19:59:41 2020	Humano#	908953	Cesidio	RODRIGUEZ	EGIPTO	vie. ago. 7 19:59:41 2020	Pecados	1568	Buenas Acciones	1722	angel
+vie. ago. 7 19:59:41 2020	Humano#	810823	Perfecta	REVUELTA	BAR?IN	vie. ago. 7 19:59:41 2020	Pecados	1622	Buenas Acciones	1634	angel
+vie. ago. 7 19:59:41 2020	Humano#	639861	Heleno	CABANILLAS	NUEVA ZELANDA	vie. ago. 7 19:59:41 2020	Pecados	1325	Buenas Acciones	1673	angel
+vie. ago. 7 19:59:41 2020	Humano#	697417	Izaskun	HARO	NUEVA ZELANDA	vie. ago. 7 19:59:41 2020	Pecados	1535	Buenas Acciones	1544	angel
+vie. ago. 7 19:59:41 2020	Humano#	883937	Oier	VALENZUELA	BRASIL	vie. ago. 7 19:59:41 2020	Pecados	1469	Buenas Acciones	1558	angel
+vie. ago. 7 19:59:41 2020	Humano#	830658	Cenobio	SOLIS	BURUNDI	vie. ago. 7 19:59:41 2020	Pecados	1534	Buenas Acciones	1556	angel
+vie. ago. 7 19:59:41 2020	Humano#	870176	Ones?foro	GALVAN	CAMER?N	vie. ago. 7 19:59:41 2020	Pecados	1539	Buenas Acciones	1759	angel
+vie. ago. 7 19:59:41 2020	Humano#	839012	Carpa	FARRE	AUSTRALIA	vie. ago. 7 19:59:41 2020	Pecados	1446	Buenas Acciones	1481	angel
+vie. ago. 7 19:59:41 2020	Humano#	789634	Bretani?n	ZURITA	BURUNDI	vie. ago. 7 19:59:41 2020	Pecados	1533	Buenas Acciones	1554	angel
+vie. ago. 7 19:59:41 2020	Humano#	852065	Primitiva	ANTOLIN	ARGELIA	vie. ago. 7 19:59:41 2020	Pecados	1497	Buenas Acciones	1545	angel
+vie. ago. 7 19:59:41 2020	Humano#	881582	Baldomino	SASTRE	GUAM	vie. ago. 7 19:59:41 2020	Pecados	1506	Buenas Acciones	1573	angel
+vie. ago. 7 19:59:41 2020	Humano#	763244	Julieta	AROCA	REP?BLICA DEL CONGO	vie. ago. 7 19:59:41 2020	Pecados	1613	Buenas Acciones	1653	angel
+vie. ago. 7 19:59:41 2020	Humano#	633228	Bona	CAROD	BAR?IN	vie. ago. 7 19:59:41 2020	Pecados	1389	Buenas Acciones	1393	angel
+vie. ago. 7 19:59:41 2020	Humano#	890900	Ifigenia	SORIANO	ACROTIRI Y DHEKELIA	vie. ago. 7 19:59:41 2020	Pecados	1508	Buenas Acciones	1556	angel
+vie. ago. 7 19:59:41 2020	Humano#	751692	Ponciana	BILBAO	REP?BLICA DEL CONGO	vie. ago. 7 19:59:41 2020	Pecados	1120	Buenas Acciones	1467	angel
+vie. ago. 7 19:59:41 2020	Humano#	784619	Cadmo	ZAMORA	CAMBOYA	vie. ago. 7 19:59:41 2020	Pecados	1492	Buenas Acciones	1706	angel
+vie. ago. 7 19:59:41 2020	Humano#	878633	Proto	SEVILLANO	NUEVA ZELANDA	vie. ago. 7 19:59:41 2020	Pecados	1693	Buenas Acciones	1718	angel
+vie. ago. 7 19:59:41 2020	Humano#	875088	Lila	CATALAN	BAR?IN	vie. ago. 7 19:59:41 2020	Pecados	1415	Buenas Acciones	1552	angel
+vie. ago. 7 19:59:41 2020	Humano#	765637	Jorja	RUS	NUEVA ZELANDA	vie. ago. 7 19:59:41 2020	Pecados	1418	Buenas Acciones	1513	angel
+vie. ago. 7 19:59:41 2020	Humano#	613209	C?stor	PAREJO	AUSTRALIA	vie. ago. 7 19:59:41 2020	Pecados	1527	Buenas Acciones	1591	angel
+vie. ago. 7 19:59:41 2020	Humano#	864512	Brocarda	VI?AS	ARGELIA	vie. ago. 7 19:59:41 2020	Pecados	1426	Buenas Acciones	1702	angel
+vie. ago. 7 19:59:41 2020	Humano#	797811	Indira	SEGARRA	FINLANDIA	vie. ago. 7 19:59:41 2020	Pecados	1411	Buenas Acciones	1561	angel
+vie. ago. 7 19:59:41 2020	Humano#	897402	Asensio	RODRIGUEZ	ARMENIA	vie. ago. 7 19:59:41 2020	Pecados	1339	Buenas Acciones	1480	angel
+vie. ago. 7 19:59:41 2020	Humano#	765544	Aretusa	LLOPIS	BURUNDI	vie. ago. 7 19:59:41 2020	Pecados	1548	Buenas Acciones	1667	angel
+vie. ago. 7 19:59:41 2020	Humano#	753095	Idara	ENERIZ	REP?BLICA DEL CONGO	vie. ago. 7 19:59:41 2020	Pecados	1584	Buenas Acciones	1633	angel
+vie. ago. 7 19:59:41 2020	Humano#	779415	Blando	CASAL	BURUNDI	vie. ago. 7 19:59:41 2020	Pecados	1535	Buenas Acciones	1642	angel
+vie. ago. 7 19:59:41 2020	Humano#	719518	Cenicienta	AHMED	REP?BLICA DEL CONGO	vie. ago. 7 19:59:41 2020	Pecados	1708	Buenas Acciones	1737	angel
+vie. ago. 7 19:59:41 2020	Humano#	836582	Hagen	AGUDO	CAMER?N	vie. ago. 7 19:59:41 2020	Pecados	1375	Buenas Acciones	1499	angel
+vie. ago. 7 19:59:41 2020	Humano#	898010	Tahiel	GALVAN	GUAM	vie. ago. 7 19:59:41 2020	Pecados	1508	Buenas Acciones	1538	angel
+vie. ago. 7 19:59:41 2020	Humano#	797263	Faruk	CAMACHO	INDIA	vie. ago. 7 19:59:41 2020	Pecados	1515	Buenas Acciones	1640	angel
+vie. ago. 7 19:59:41 2020	Humano#	721253	Aregoma	JIMENO	ACROTIRI Y DHEKELIA	vie. ago. 7 19:59:41 2020	Pecados	1581	Buenas Acciones	1657	angel
+vie. ago. 7 19:59:41 2020	Humano#	729951	Euria	MAS	COREA DEL NORTE	vie. ago. 7 19:59:41 2020	Pecados	1435	Buenas Acciones	1640	angel
+vie. ago. 7 19:59:41 2020	Humano#	828264	Brais	CARRETERO	COREA DEL NORTE	vie. ago. 7 19:59:41 2020	Pecados	1322	Buenas Acciones	1458	angel
+vie. ago. 7 19:59:41 2020	Humano#	690937	Eadmunda	PENA	GHANA	vie. ago. 7 19:59:41 2020	Pecados	1451	Buenas Acciones	1547	angel
+vie. ago. 7 19:59:41 2020	Humano#	860452	Argimiro	GRANADOS	AUSTRALIA	vie. ago. 7 19:59:41 2020	Pecados	1703	Buenas Acciones	1899	angel
+vie. ago. 7 19:59:41 2020	Humano#	734828	Arconcio	DE CASTRO	GUAM	vie. ago. 7 19:59:41 2020	Pecados	1160	Buenas Acciones	1585	angel
+vie. ago. 7 19:59:41 2020	Humano#	952678	Otto	SANJUAN	ESLOVAQUIA	vie. ago. 7 19:59:41 2020	Pecados	1662	Buenas Acciones	1704	angel
+vie. ago. 7 19:59:41 2020	Humano#	908312	Inti	LOBO	BRASIL	vie. ago. 7 19:59:41 2020	Pecados	1459	Buenas Acciones	1461	angel
+vie. ago. 7 19:59:41 2020	Humano#	901334	Orestes	MARI?O	INDIA	vie. ago. 7 19:59:41 2020	Pecados	1503	Buenas Acciones	1541	angel
+vie. ago. 7 19:59:41 2020	Humano#	741043	Ceraunio	CABANILLAS	ARMENIA	vie. ago. 7 19:59:41 2020	Pecados	1289	Buenas Acciones	1306	angel
+vie. ago. 7 19:59:41 2020	Humano#	820009	Katya	PLANAS	REP?BLICA DEL CONGO	vie. ago. 7 19:59:41 2020	Pecados	1622	Buenas Acciones	1669	angel
+vie. ago. 7 19:59:41 2020	Humano#	797314	Adir	SALCEDO	BURUNDI	vie. ago. 7 19:59:41 2020	Pecados	1479	Buenas Acciones	1575	angel
+vie. ago. 7 19:59:41 2020	Humano#	820492	Bertilo	PE?A	BAR?IN	vie. ago. 7 19:59:41 2020	Pecados	1640	Buenas Acciones	1710	angel
+vie. ago. 7 19:59:41 2020	Humano#	856179	Eukene	NEVADO	ISLAS MARSHALL	vie. ago. 7 19:59:41 2020	Pecados	1572	Buenas Acciones	1679	angel
+vie. ago. 7 19:59:41 2020	Humano#	692931		BUENO	REP?BLICA DEL CONGO	vie. ago. 7 19:59:41 2020	Pecados	1368	Buenas Acciones	1392	angel
+vie. ago. 7 19:59:41 2020	Humano#	716645	Ismene	OJEDA	ARMENIA	vie. ago. 7 19:59:41 2020	Pecados	1470	Buenas Acciones	1472	angel
+vie. ago. 7 19:59:41 2020	Humano#	917553	Brahma	VELEZ	INDIA	vie. ago. 7 19:59:41 2020	Pecados	1406	Buenas Acciones	1431	angel
+vie. ago. 7 19:59:41 2020	Humano#	755831	Gazmira	CATALAN	FINLANDIA	vie. ago. 7 19:59:41 2020	Pecados	1280	Buenas Acciones	1482	angel
+vie. ago. 7 19:59:41 2020	Humano#	844510	Apolonio	SANTANA	ESLOVAQUIA	vie. ago. 7 19:59:41 2020	Pecados	1284	Buenas Acciones	1446	angel
+vie. ago. 7 19:59:41 2020	Humano#	742191	Aura	GIMENEZ	ISLAS MARSHALL	vie. ago. 7 19:59:41 2020	Pecados	1479	Buenas Acciones	1491	angel
+vie. ago. 7 19:59:41 2020	Humano#	927028	Anquises	GUERRERO	CROACIA	vie. ago. 7 19:59:41 2020	Pecados	1527	Buenas Acciones	1618	angel
+vie. ago. 7 19:59:41 2020	Humano#	847098	Ca?osanto	MANRIQUE	GHANA	vie. ago. 7 19:59:41 2020	Pecados	1657	Buenas Acciones	1817	angel
+vie. ago. 7 19:59:41 2020	Humano#	880684	Per?stera	AZNAR	GHANA	vie. ago. 7 19:59:41 2020	Pecados	1559	Buenas Acciones	1705	angel
+vie. ago. 7 19:59:41 2020	Humano#	799004	On?sima	LIN	PARAGUAY	vie. ago. 7 19:59:41 2020	Pecados	1635	Buenas Acciones	1702	angel
+vie. ago. 7 19:59:41 2020	Humano#	899140	Cal?cero	QUERO	AUSTRALIA	vie. ago. 7 19:59:41 2020	Pecados	1356	Buenas Acciones	1439	angel
+vie. ago. 7 19:59:41 2020	Humano#	907904	Perseveranda	HIGUERAS	BAR?IN	vie. ago. 7 19:59:41 2020	Pecados	1445	Buenas Acciones	1677	angel
+vie. ago. 7 19:59:41 2020	Humano#	831339	Hu?scar	LLORENTE	CHIPRE	vie. ago. 7 19:59:41 2020	Pecados	1312	Buenas Acciones	1473	angel
+vie. ago. 7 19:59:41 2020	Humano#	875640	Mifaya	MEDINA	REP?BLICA DEL CONGO	vie. ago. 7 19:59:41 2020	Pecados	1647	Buenas Acciones	1736	angel
+vie. ago. 7 19:59:41 2020	Humano#	746542	Dino	SINGH	BRASIL	vie. ago. 7 19:59:41 2020	Pecados	1497	Buenas Acciones	1559	angel
+vie. ago. 7 19:59:41 2020	Humano#	810242	Candaces	PALAZON	AUSTRALIA	vie. ago. 7 19:59:41 2020	Pecados	1538	Buenas Acciones	1706	angel
+vie. ago. 7 19:59:41 2020	Humano#	834421	Aretas	ROVIRA	BRASIL	vie. ago. 7 19:59:41 2020	Pecados	1417	Buenas Acciones	1430	angel
+vie. ago. 7 19:59:41 2020	Humano#	762212	Joram	MAZA	PARAGUAY	vie. ago. 7 19:59:41 2020	Pecados	1479	Buenas Acciones	1505	angel
+vie. ago. 7 19:59:41 2020	Humano#	807802	Blanda	FERRER	EGIPTO	vie. ago. 7 19:59:41 2020	Pecados	1486	Buenas Acciones	1606	angel
+vie. ago. 7 19:59:41 2020	Humano#	878756	Iscariote	ORELLANA	COREA DEL NORTE	vie. ago. 7 19:59:41 2020	Pecados	1489	Buenas Acciones	1647	angel
+vie. ago. 7 19:59:41 2020	Humano#	806616	Iraida	TORO	ARABIA SAUDITA	vie. ago. 7 19:59:41 2020	Pecados	1557	Buenas Acciones	1807	angel
+vie. ago. 7 19:59:41 2020	Humano#	791999	Publio	FEIJOO	AUSTRALIA	vie. ago. 7 19:59:41 2020	Pecados	1444	Buenas Acciones	1546	angel
+vie. ago. 7 19:59:41 2020	Humano#	762686	Canio	ZURITA	AUSTRALIA	vie. ago. 7 19:59:41 2020	Pecados	1616	Buenas Acciones	1619	angel
+vie. ago. 7 19:59:41 2020	Humano#	834215	Ruym?n	VILA	INDIA	vie. ago. 7 19:59:41 2020	Pecados	1439	Buenas Acciones	1549	angel
+vie. ago. 7 19:59:41 2020	Humano#	776094	Nivardo	ANDUJAR	ARMENIA	vie. ago. 7 19:59:41 2020	Pecados	1423	Buenas Acciones	1587	angel

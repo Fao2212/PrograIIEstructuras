@@ -138,3 +138,11 @@ QString Acciones::toString(){
     msg+="]";
     return msg;
 }
+
+int Acciones::getIndexComportamiento(Comportamiento comportamiento){
+    for (int i = 0;i<14;i++) {
+        if(comportamiento == enumValues[i])
+            return i;
+    }
+    return -1;
+}

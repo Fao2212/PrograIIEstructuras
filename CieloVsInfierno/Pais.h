@@ -16,9 +16,11 @@ struct Pais{
     QString continente;
     QString nombre;
     int pecados;//...
+    int buenasAcciones;
 
     void obtenerContinente(int pos);
     void sumarPecados(int pecados);
+    void sumarBuenasAcciones(int buenasAcciones);
 
 };
 

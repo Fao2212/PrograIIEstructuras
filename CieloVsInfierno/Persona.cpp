@@ -39,7 +39,7 @@ QString Persona::toString(){
 }
 
 void Persona::sumarAccion(Comportamiento comportamiento, int cantidad){
-    sumarPecadosAPais(cantidad);
+    sumarPecadosAPais(comportamiento,cantidad);
     acciones->sumarAccion(comportamiento,cantidad);
 }
 
@@ -63,7 +63,6 @@ void Persona::morir(Demonio *demonio){
     this->demonio = demonio;
     this->estado = MUERTO;
     this->localizacion = INFIERNO;
-    //Funcion de bitacora para infierno
 }
 
 void Persona::serSalvado(Angel *angel){
@@ -75,8 +74,11 @@ bool Persona::tieneMasBuenasAcciones(){
     return acciones->totalBuenasAcciones() > acciones->totalPecados();
 }
 
-void Persona::sumarPecadosAPais(int pecados){
-    this->pais->sumarPecados(pecados);
+void Persona::sumarPecadosAPais(Comportamiento comportamiento,int pecados){
+    if(acciones->getIndexComportamiento(comportamiento)<7)
+        this->pais->sumarPecados(pecados);
+    else
+        this->pais->sumarBuenasAcciones(pecados);
 }
 
 QString Persona::toStringInfierno(){

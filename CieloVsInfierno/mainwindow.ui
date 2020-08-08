@@ -41,7 +41,7 @@
     <property name="geometry">
      <rect>
       <x>690</x>
-      <y>380</y>
+      <y>430</y>
       <width>80</width>
       <height>25</height>
      </rect>
@@ -54,7 +54,7 @@
     <property name="geometry">
      <rect>
       <x>670</x>
-      <y>410</y>
+      <y>460</y>
       <width>113</width>
       <height>24</height>
      </rect>
@@ -63,8 +63,8 @@
    <widget class="QPushButton" name="pushButton_3">
     <property name="geometry">
      <rect>
-      <x>660</x>
-      <y>290</y>
+      <x>520</x>
+      <y>430</y>
       <width>131</width>
       <height>25</height>
      </rect>
@@ -76,8 +76,8 @@
    <widget class="QLineEdit" name="txtImprimirFamily">
     <property name="geometry">
      <rect>
-      <x>670</x>
-      <y>320</y>
+      <x>530</x>
+      <y>460</y>
       <width>113</width>
       <height>24</height>
      </rect>
@@ -88,7 +88,7 @@
      <rect>
       <x>40</x>
       <y>20</y>
-      <width>571</width>
+      <width>321</width>
       <height>521</height>
      </rect>
     </property>
@@ -96,8 +96,8 @@
    <widget class="QPushButton" name="pushButton_4">
     <property name="geometry">
      <rect>
-      <x>680</x>
-      <y>10</y>
+      <x>410</x>
+      <y>30</y>
       <width>80</width>
       <height>25</height>
      </rect>
@@ -109,8 +109,8 @@
    <widget class="QPushButton" name="btnCondenacion">
     <property name="geometry">
      <rect>
-      <x>690</x>
-      <y>230</y>
+      <x>660</x>
+      <y>30</y>
       <width>80</width>
       <height>25</height>
      </rect>
@@ -122,8 +122,8 @@
    <widget class="QPushButton" name="pushButton_5">
     <property name="geometry">
      <rect>
-      <x>670</x>
-      <y>40</y>
+      <x>400</x>
+      <y>60</y>
       <width>101</width>
       <height>25</height>
      </rect>
@@ -135,8 +135,8 @@
    <widget class="QPushButton" name="pushButton_6">
     <property name="geometry">
      <rect>
-      <x>690</x>
-      <y>190</y>
+      <x>660</x>
+      <y>60</y>
       <width>80</width>
       <height>25</height>
      </rect>
@@ -148,8 +148,8 @@
    <widget class="QPushButton" name="pushButton_7">
     <property name="geometry">
      <rect>
-      <x>670</x>
-      <y>90</y>
+      <x>530</x>
+      <y>30</y>
       <width>111</width>
       <height>25</height>
      </rect>
@@ -161,8 +161,8 @@
    <widget class="QPushButton" name="pushButton_8">
     <property name="geometry">
      <rect>
-      <x>670</x>
-      <y>150</y>
+      <x>380</x>
+      <y>520</y>
       <width>111</width>
       <height>25</height>
      </rect>
@@ -174,14 +174,203 @@
    <widget class="QPushButton" name="pushButton_9">
     <property name="geometry">
      <rect>
-      <x>670</x>
-      <y>120</y>
+      <x>530</x>
+      <y>60</y>
       <width>101</width>
       <height>25</height>
      </rect>
     </property>
     <property name="text">
      <string>Imprimir Cielo</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_10">
+    <property name="geometry">
+     <rect>
+      <x>520</x>
+      <y>490</y>
+      <width>141</width>
+      <height>25</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Imprimir Apellido Pais</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="txtApellidoPais">
+    <property name="geometry">
+     <rect>
+      <x>520</x>
+      <y>520</y>
+      <width>141</width>
+      <height>24</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_11">
+    <property name="geometry">
+     <rect>
+      <x>380</x>
+      <y>470</y>
+      <width>121</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Rank Pecados Pais</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_12">
+    <property name="geometry">
+     <rect>
+      <x>380</x>
+      <y>440</y>
+      <width>121</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Rank Bondad Pais</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_13">
+    <property name="geometry">
+     <rect>
+      <x>440</x>
+      <y>160</y>
+      <width>80</width>
+      <height>25</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Pecados Pais</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_14">
+    <property name="geometry">
+     <rect>
+      <x>440</x>
+      <y>190</y>
+      <width>111</width>
+      <height>25</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Pecados Profesion</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_15">
+    <property name="geometry">
+     <rect>
+      <x>440</x>
+      <y>220</y>
+      <width>111</width>
+      <height>25</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Pecados Creencia</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_16">
+    <property name="geometry">
+     <rect>
+      <x>440</x>
+      <y>250</y>
+      <width>111</width>
+      <height>25</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Pecados Apellido</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_17">
+    <property name="geometry">
+     <rect>
+      <x>440</x>
+      <y>280</y>
+      <width>121</width>
+      <height>25</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Pecados Continente</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_18">
+    <property name="geometry">
+     <rect>
+      <x>600</x>
+      <y>160</y>
+      <width>80</width>
+      <height>25</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Bondad Pais</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_19">
+    <property name="geometry">
+     <rect>
+      <x>600</x>
+      <y>190</y>
+      <width>111</width>
+      <height>25</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Bondad Profesion</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_20">
+    <property name="geometry">
+     <rect>
+      <x>600</x>
+      <y>220</y>
+      <width>111</width>
+      <height>25</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Bondad Creencia</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_21">
+    <property name="geometry">
+     <rect>
+      <x>600</x>
+      <y>250</y>
+      <width>111</width>
+      <height>25</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Bondad Apellido</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_22">
+    <property name="geometry">
+     <rect>
+      <x>600</x>
+      <y>280</y>
+      <width>111</width>
+      <height>25</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Bondad Continente</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="txtBusquedaPecadosBondad">
+    <property name="geometry">
+     <rect>
+      <x>520</x>
+      <y>320</y>
+      <width>113</width>
+      <height>24</height>
+     </rect>
     </property>
    </widget>
   </widget>

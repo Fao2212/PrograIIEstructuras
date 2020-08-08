@@ -104,3 +104,12 @@ void MainWindow::on_pushButton_9_clicked()
 {
     mundo->imprimirCielo();
 }
+
+void MainWindow::on_pushButton_10_clicked()
+{
+    QString key = ui->txtApellidoPais->text();
+    QList<QString> values  = key.split(" ");
+    if(values.length() == 2){
+        mundo->imprimirFamiliaNombrePais(values.at(0),values.at(1));
+    }
+}

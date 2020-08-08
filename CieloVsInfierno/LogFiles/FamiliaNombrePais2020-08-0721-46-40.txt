@@ -1,0 +1,7 @@
+Porcentaje Vivos/t50
+Porcentaje Infierno/t50
+Porcentaje Cielo/t0
+
+FamiliaNombrePais2020-08-0721-46-40
+705343	Caritina	RIVAS	INDONESIA	[Pecados: Orgullo/306,Envidia/203,Ira/239,Pereza/294,Codicia/132,Gula/185,Lujuria/188,Buenas Acciones:Humildad/62,Solidaridad/143,Calma/158,Diligencia/158,Donacion/100,Ayuno/118,Castidad/46,]	[]
+897345	Bonaparte	RIVAS	INDONESIA	[Pecados: Orgullo/143,Envidia/176,Ira/89,Pereza/238,Codicia/160,Gula/148,Lujuria/180,Buenas Acciones:Humildad/172,Solidaridad/132,Calma/152,Diligencia/127,Donacion/160,Ayuno/86,Castidad/127,]	[705343	Caritina	RIVAS,]

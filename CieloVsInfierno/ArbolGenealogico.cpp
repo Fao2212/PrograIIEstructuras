@@ -36,4 +36,38 @@ Persona * ArbolGenealogico::buscarDisponible(Persona * persona){
         }
     }
 
+QString ArbolGenealogico::toStringPorcentajes(){
+    QString msg = "";
+    msg+= "Porcentaje Vivos\t"+QString::number(porcentajeVivos())+"\n";
+    msg+= "Porcentaje Infierno\t"+QString::number(porcentajeInfierno())+"\n";
+    msg+= "Porcentaje Cielo\t"+QString::number(porcentajeCielo())+"\n";
+    return  msg;
+}
 
+
+int ArbolGenealogico::porcentajeCielo(){
+   int vivos = 0;
+   for (int i = 0;i<heap->largo();i++) {
+       if(heap->get(i)->dato->localizacion == CIELO)
+           vivos+=1;
+   }
+   return  (100/heap->largo())*vivos;
+}
+
+int ArbolGenealogico::porcentajeVivos(){
+    int vivos = 0;
+    for (int i = 0;i<heap->largo();i++) {
+        if(heap->get(i)->dato->estado == VIVO)
+            vivos+=1;
+    }
+    return  (100/heap->largo())*vivos;
+}
+
+int ArbolGenealogico::porcentajeInfierno(){
+    int vivos = 0;
+    for (int i = 0;i<heap->largo();i++) {
+        if(heap->get(i)->dato->localizacion == INFIERNO)
+            vivos+=1;
+    }
+    return  (100/heap->largo())*vivos;
+}

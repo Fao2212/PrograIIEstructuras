@@ -127,15 +127,14 @@ QString Acciones::comportamientoName(Comportamiento comportamiento){
 }
 
 QString Acciones::toString(){
-    QString msg = "[Pecados: ";
+    QString msg = "Pecados:\t"+QString::number(totalPecados())+"\t";
     for (int i = 0;i<7;i++) {
-        msg += pecados[i]->toString()+",";
+        msg += pecados[i]->toString()+"\t";
     }
-    msg += "Buenas Acciones:";
+    msg += "Buenas Acciones:\t"+QString::number(totalBuenasAcciones())+"\t";
     for (int i = 0;i<7;i++) {
-        msg += buenasAcciones[i]->toString()+",";
+        msg += buenasAcciones[i]->toString()+"\t";
     }
-    msg+="]";
     return msg;
 }
 

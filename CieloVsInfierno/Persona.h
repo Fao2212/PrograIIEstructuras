@@ -15,6 +15,9 @@ struct Persona{
     Localizacion localizacion;
     Demonio * demonio;
     Angel * angel;
+    QString nacimiento;
+    QString creencia;
+    QString profesion;
 
     Persona(int id){
         initPersona(id);

@@ -7,6 +7,8 @@ struct Util{
     static void ordenarPorPecadoMernosAMayor(Persona **personas, Comportamiento comportamiento,int length);
     static void ordenarPorTotalMayorMenor(Persona **personas,int length);
     static void ordenarPorTotalMenorMayor(Persona **personas,int length);
+    static void ordenarBondadPorTotalMayorMenor(Persona **personas,int length);
+    static void ordenarBondadPorTotalMenorMayor(Persona **personas,int length);
 };
 
 #endif // UTIL_H

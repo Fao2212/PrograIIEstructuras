@@ -46,3 +46,25 @@ void Util::ordenarPorTotalMenorMayor(Persona **personas, int length){
         }
     }
 }
+void Util::ordenarBondadPorTotalMayorMenor(Persona **personas, int length){
+    for (int i = 0;i<length-1;i++) {
+        for (int j = i+1;j<length;j++) {
+            if (personas[j]->acciones->totalBuenasAcciones() > personas[i]->acciones->totalBuenasAcciones()){
+                Persona * temp = personas[i];
+                personas[i] = personas[j];
+                personas[j] = temp;
+            }
+        }
+    }
+}
+void Util::ordenarBondadPorTotalMenorMayor(Persona **personas,int length){
+    for (int i = 0;i<length-1;i++) {
+        for (int j = i+1;j<length;j++) {
+            if (personas[j]->acciones->totalBuenasAcciones() < personas[i]->acciones->totalBuenasAcciones()){
+                Persona * temp = personas[i];
+                personas[i] = personas[j];
+                personas[j] = temp;
+            }
+        }
+    }
+}

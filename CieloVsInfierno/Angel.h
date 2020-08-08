@@ -11,11 +11,13 @@ struct Angel{
     int version;
     int generacion;
 
-    Angel(HashCielo * hash,Infierno * infierno){
+    Angel(HashCielo * hash,Infierno * infierno,QString nombre,int generacion){
         this->hash = hash;
         this->infierno = infierno;
         //Aasignacion de datos
         salvarPersona();
+        this->nombre = nombre;
+        this->generacion = generacion;
     }
 
     void salvarPersona();//Usa el algoritmo del infierno y este mismo borra de su heap a la apersona

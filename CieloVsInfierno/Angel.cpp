@@ -15,5 +15,5 @@ void Angel::salvarPersona(){
 
 
 QString Angel::toString(){
-    return "angel";
+    return nombre+" "+QString::number(version);
 }

@@ -2,6 +2,7 @@
 #include "NodoAG.h"
 #include "Persona.h"
 #include "ArbolGenealogico.h"
+#include "Pais.h"
 
 ArbolGenealogico * ListaSimple::buscar(Persona * persona){
     NodoAG * temp = primerNodo;
@@ -31,4 +32,15 @@ void ListaSimple::insertar(NodoAG * cliente){
         }
         temp->siguiente = nuevo;
     }
+}
+
+ArbolGenealogico * ListaSimple::buscar(QString apellido,QString pais){
+    NodoAG * temp = primerNodo;
+    while (temp != nullptr) {
+        qDebug()<<temp->dato->familia<<temp->dato->pais->nombre;
+        if(apellido == temp->dato->familia && pais == temp->dato->pais->nombre)
+            return  temp->dato;
+        temp = temp->siguiente;
+    }
+    return  nullptr;
 }

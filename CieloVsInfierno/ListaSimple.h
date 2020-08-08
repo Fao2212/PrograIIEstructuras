@@ -8,6 +8,7 @@ struct ListaSimple{
     ArbolGenealogico * buscar(Persona *);
     void insertar(ArbolGenealogico * ag);
     void insertar(NodoAG * );
+    ArbolGenealogico * buscar(QString apellido,QString pais);
 
 };
 

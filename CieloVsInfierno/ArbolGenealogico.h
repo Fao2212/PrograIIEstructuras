@@ -14,6 +14,10 @@ struct ArbolGenealogico{
 
     void initArbolGenealogico(QString nombre,Pais * pais);
     Persona * buscarDisponible(Persona * persona);
+    int porcentajeVivos();
+    int porcentajeInfierno();
+    int porcentajeCielo();
+    QString toStringPorcentajes();
 
 };
 

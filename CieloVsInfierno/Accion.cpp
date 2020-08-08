@@ -6,5 +6,5 @@ void Accion::aumentarValor(int cantidad){
 }
 
 QString Accion::toString(){
-    return Acciones::comportamientoName(this->comportamiento)+"/"+QString::number(valor);
+    return Acciones::comportamientoName(this->comportamiento)+"\t"+QString::number(valor);
 }

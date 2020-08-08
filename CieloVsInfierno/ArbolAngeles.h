@@ -4,6 +4,7 @@
 
 struct ArbolAngeles{
 
+    int nivel;
     NodoAngeles * raiz;
     HashCielo * hash;
     Infierno  * infierno;
@@ -22,6 +23,7 @@ struct ArbolAngeles{
 
     ArbolAngeles(HashCielo * hash,Infierno * infierno){
         this->hash = hash;
+        this->nivel = 0;
         this->infierno = infierno;
         this->raiz = nullptr;
     }
@@ -30,6 +32,7 @@ struct ArbolAngeles{
     void buscarHoja(NodoAngeles *);
     void llenarHijos(NodoAngeles * nodo);
     void generarNombres(QString nombres[]);
+    QString randomName();
 
 };
 

@@ -10,6 +10,8 @@ struct Mundo{
     int identidades[1000000];
     QString apellidos[200];
     QString nombres[1001];
+    QString profesiones[50];
+    QString creencias[10];
     Pais * paises[25];
     int vivos;//El total esta en poblacion index  muertos = total - vivos
     Infierno * infierno;
@@ -34,6 +36,8 @@ struct Mundo{
     void initNombres();
     void initPaises();
     void iniciarDistribucionDeFamilias();
+    void initProfesiones();
+    void initCreencias();
 
     Persona * crearPersona();
     void nombrarPersona(Persona *);
@@ -41,6 +45,8 @@ struct Mundo{
     void darApellido(Persona *);
     void darPais(Persona *);
     void asignarFamilia(Persona *);
+    void darCreencia(Persona *);
+    void darProfesion(Persona *);
 
     ArbolGenealogico * buscarArbolFamiliar(Persona *);
     ArbolGenealogico * crearArbolFamiliar(Persona *);
@@ -56,7 +62,21 @@ struct Mundo{
     QString rankingPaisesMasBondadosos();
     QString rankingPaisesMenosBondadosos();
     QString imprimirMundo();
+    QString imprimirFamiliaNombrePais(QString apellido,QString pais);
+    QString imprimirMundoPecadosProfesion(QString profesion);
+    QString imprimirMundoPecadosApellido(QString apellido);
+    QString imprimirMundoPecadosContinente(QString contienente);
+    QString imprimirMundoPecadosPaises(QString paises);
+    QString imprimirMundoPecadosCreencia(QString creencia);
+    QString imprimirMundoBondadProfesion(QString profesion);
+    QString imprimirMundoBondadApellido(QString apellido);
+    QString imprimirMundoBondadContinente(QString contienente);
+    QString imprimirMundoBondadPaises(QString paises);
+    QString imprimirMundoBondadCreencia(QString creencia);
 
+
+    static QString localizacionToString(Localizacion localizacion);
+    static QString estadoToString(Estado estado);
     Persona * buscarPersona(int id);//Usa el arbol para encontrar el mas proximo y se mueve anterior o siguietne a partir del nodo
     void pecar();
     QString imprimirGuerra();

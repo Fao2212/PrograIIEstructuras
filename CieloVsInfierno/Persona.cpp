@@ -4,6 +4,7 @@
 #include "Acciones.h"
 #include "Demonio.h"
 #include "Angel.h"
+#include "Mundo.h"
 
 void Persona:: initPersona(int id){
     this->id = id;
@@ -12,6 +13,7 @@ void Persona:: initPersona(int id){
     this->acciones = new Acciones(this);
     this->estado = VIVO;
     this->localizacion = MUNDO;
+    this->nacimiento = QDateTime::currentDateTime().toString();
 }
 
 int Persona::tieneHijos(){
@@ -34,8 +36,8 @@ bool Persona::tieneFamilia(){
 
 QString Persona::toString(){
     return QString::number(id)+"\t"+nombre+"\t"+apellido+"\t"+pais->nombre+"\t"+
-            /*creencia+profesion+correo+horaDeNacimiento+*/acciones->toString()+
-            "\t"+familia->toStringHijos();
+            creencia+"\t"+profesion+"\t"+/*correo*/nacimiento+"\t"+acciones->toString()+
+            "\t"+familia->toStringHijos()+"\t"+Mundo::localizacionToString(localizacion)+"\t"+Mundo::estadoToString(estado);
 }
 
 void Persona::sumarAccion(Comportamiento comportamiento, int cantidad){
@@ -82,8 +84,8 @@ void Persona::sumarPecadosAPais(Comportamiento comportamiento,int pecados){
 }
 
 QString Persona::toStringInfierno(){
-    return QDateTime::currentDateTime().toString()+"\tHumano#\t"+QString::number(id)+"\t"+nombre+
-            "\t"+apellido+"\t"+pais->nombre+"\t"+QDateTime::currentDateTime().toString()+
+    return QDateTime::currentDateTime().toString()+"\tHumano\t"+QString::number(id)+"\t"+nombre+
+            "\t"+apellido+"\t"+pais->nombre+"\t"+"Nacimiento:\t"+nacimiento+
             "\t"+toStringComportamiento(demonio->pecado)+"\t"+QString::number(getComportamiento(demonio->pecado))+"\t"+
             toStringComportamiento(demonio->buenaAccion)+"\t"+QString::number(getComportamiento(demonio->buenaAccion))+"\t"+
             demonio->nombre;

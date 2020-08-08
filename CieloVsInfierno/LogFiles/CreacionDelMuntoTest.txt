@@ -3,3 +3,5 @@ Creando nombres
 Creando apellidos
 Creando paises
 Creando continentes
+Creando Creencias
+Creando Creencias

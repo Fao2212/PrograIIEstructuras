@@ -15,6 +15,7 @@
 #include "Contienente.h"
 #include "Cielo.h"
 #include "Log.h"
+#include "Util.h"
 
 void Mundo:: nombrarPersona(Persona * persona){
     darNombre(persona);
@@ -45,6 +46,28 @@ void Mundo::initNombres(){
     QStringList ql = data.split(";");
     for (int i = 0;i<ql.length();i++) {
         nombres[i] = ql.at(i);
+    }
+}
+
+void Mundo::initCreencias(){
+    Log::addToLog("Creando Creencias");
+    QDir a = FileManager::setDir();
+    QString path = a.path()+"/CieloVsInfierno/Datos Humanos/Creencias.txt";
+    QString data = FileManager::leer(path);
+    QStringList ql = data.split(";");
+    for (int i = 0;i<10;i++) {
+        creencias[i] = ql.at(i);
+    }
+}
+
+void Mundo::initProfesiones(){
+    Log::addToLog("Creando Creencias");
+    QDir a = FileManager::setDir();
+    QString path = a.path()+"/CieloVsInfierno/Datos Humanos/Profesiones.txt";
+    QString data = FileManager::leer(path);
+    QStringList ql = data.split(";");
+    for (int i = 0;i<25;i++) {
+        profesiones[i] = ql.at(i);
     }
 }
 
@@ -81,6 +104,8 @@ void Mundo::initMundo(){
     initApellidos();
     initPaises();
     initContinentes();
+    initProfesiones();
+    initCreencias();
     Log::saveLog();
 }
 
@@ -115,6 +140,8 @@ Persona * Mundo::crearPersona(){
     Persona * persona = new Persona(identidades[consecutivo++]);
     nombrarPersona(persona);
     darPais(persona);
+    darProfesion(persona);
+    darCreencia(persona);
     guardarFamilia(persona);
     vivos++;
     return persona;
@@ -314,4 +341,214 @@ QString Mundo::imprimirMundo(){
     }
     Log::saveLog();
     return "";
+}
+
+QString Mundo::imprimirFamiliaNombrePais(QString apellido,QString pais){
+    ArbolGenealogico * ag = familias->buscar(apellido,pais);
+    if(ag != nullptr){
+        Persona * arrayPersona[ag->heap->largo()];
+        for (int i = 0;i<ag->heap->largo();i++) {
+            arrayPersona[i] = ag->heap->get(i)->dato;
+        }
+        Util::ordenarPorTotalMayorMenor(arrayPersona,ag->heap->largo());
+        Log::createlog("FamiliaNombrePais"+Log::timeStamp());
+        Log::addToLog(ag->toStringPorcentajes());
+        Log::addToLog("FamiliaNombrePais"+Log::timeStamp());
+        for (int i = 0;i<ag->heap->largo();i++) {
+            Log::addToLog(arrayPersona[i]->toString());
+        }
+        Log::saveLog();
+    }
+    return "";
+}
+
+QString Mundo::localizacionToString(Localizacion localizacion){
+    switch (localizacion) {
+    case INFIERNO:
+        return "Infierno";
+    case CIELO:
+        return "Cielo";
+    case MUNDO:
+        return "Mundo";
+    }
+    return "";
+}
+
+QString Mundo::estadoToString(Estado estado){
+    switch(estado){
+    case VIVO:
+        return "Vivo";
+    case MUERTO:
+        return "Muerto";
+    }
+
+}
+
+QString Mundo::imprimirMundoPecadosProfesion(QString profesion){
+    //100 entre total de pecados * pecados por profesion
+    Log::createlog("PecadosPorProfesion"+Log::timeStamp());
+    Persona * arrayPersonas [poblacion->largo()];
+    for (int i =0;i<poblacion->largo();i++) {
+        arrayPersonas[i] = poblacion->get(i)->dato;
+    }
+    Util::ordenarPorTotalMayorMenor(arrayPersonas,poblacion->largo());
+    for (int i = 0;i<poblacion->largo();i++) {
+        if (arrayPersonas[i]->profesion == profesion) {
+            Log::addToLog(arrayPersonas[i]->toString());
+        }
+    }
+    Log::saveLog();
+    return "";
+}
+
+QString Mundo::imprimirMundoPecadosApellido(QString apellido){
+    Log::createlog("PecadosPorProfesion"+Log::timeStamp());
+    Persona * arrayPersonas [poblacion->largo()];
+    for (int i =0;i<poblacion->largo();i++) {
+        arrayPersonas[i] = poblacion->get(i)->dato;
+    }
+    Util::ordenarPorTotalMayorMenor(arrayPersonas,poblacion->largo());
+    for (int i = 0;i<poblacion->largo();i++) {
+        if (arrayPersonas[i]->apellido == apellido) {
+            Log::addToLog(arrayPersonas[i]->toString());
+        }
+    }
+    Log::saveLog();
+    return "";
+}
+
+QString Mundo::imprimirMundoPecadosContinente(QString contienente){
+    Log::createlog("PecadosPorProfesion"+Log::timeStamp());
+    Persona * arrayPersonas [poblacion->largo()];
+    for (int i =0;i<poblacion->largo();i++) {
+        arrayPersonas[i] = poblacion->get(i)->dato;
+    }
+    Util::ordenarPorTotalMayorMenor(arrayPersonas,poblacion->largo());
+    for (int i = 0;i<poblacion->largo();i++) {
+        if (arrayPersonas[i]->pais->continente == contienente) {
+            Log::addToLog(arrayPersonas[i]->toString());
+        }
+    }
+    Log::saveLog();
+    return "";
+}
+
+QString Mundo::imprimirMundoPecadosPaises(QString elpais){
+    Log::createlog("PecadosPorProfesion"+Log::timeStamp());
+    Persona * arrayPersonas [poblacion->largo()];
+    for (int i =0;i<poblacion->largo();i++) {
+        arrayPersonas[i] = poblacion->get(i)->dato;
+    }
+    Util::ordenarPorTotalMayorMenor(arrayPersonas,poblacion->largo());
+    for (int i = 0;i<poblacion->largo();i++) {
+        if (arrayPersonas[i]->pais->nombre == elpais) {
+            Log::addToLog(arrayPersonas[i]->toString());
+        }
+    }
+    Log::saveLog();
+    return "";
+}
+
+QString Mundo::imprimirMundoPecadosCreencia(QString creencia){
+    Log::createlog("PecadosPorProfesion"+Log::timeStamp());
+    Persona * arrayPersonas [poblacion->largo()];
+    for (int i =0;i<poblacion->largo();i++) {
+        arrayPersonas[i] = poblacion->get(i)->dato;
+    }
+    Util::ordenarPorTotalMayorMenor(arrayPersonas,poblacion->largo());
+    for (int i = 0;i<poblacion->largo();i++) {
+        if (arrayPersonas[i]->creencia == creencia) {
+            Log::addToLog(arrayPersonas[i]->toString());
+        }
+    }
+    Log::saveLog();
+    return "";
+}
+
+QString Mundo::imprimirMundoBondadProfesion(QString profesion){
+    Log::createlog("PecadosPorProfesion"+Log::timeStamp());
+    Persona * arrayPersonas [poblacion->largo()];
+    for (int i =0;i<poblacion->largo();i++) {
+        arrayPersonas[i] = poblacion->get(i)->dato;
+    }
+    Util::ordenarBondadPorTotalMayorMenor(arrayPersonas,poblacion->largo());
+    for (int i = 0;i<poblacion->largo();i++) {
+        if (arrayPersonas[i]->profesion == profesion) {
+            Log::addToLog(arrayPersonas[i]->toString());
+        }
+    }
+    Log::saveLog();
+    return "";
+}
+
+QString Mundo::imprimirMundoBondadApellido(QString apellido){
+    Log::createlog("PecadosPorProfesion"+Log::timeStamp());
+    Persona * arrayPersonas [poblacion->largo()];
+    for (int i =0;i<poblacion->largo();i++) {
+        arrayPersonas[i] = poblacion->get(i)->dato;
+    }
+    Util::ordenarBondadPorTotalMayorMenor(arrayPersonas,poblacion->largo());
+    for (int i = 0;i<poblacion->largo();i++) {
+        if (arrayPersonas[i]->apellido == apellido) {
+            Log::addToLog(arrayPersonas[i]->toString());
+        }
+    }
+    Log::saveLog();
+    return "";
+}
+
+QString Mundo::imprimirMundoBondadContinente(QString contienente){
+    Log::createlog("PecadosPorProfesion"+Log::timeStamp());
+    Persona * arrayPersonas [poblacion->largo()];
+    for (int i =0;i<poblacion->largo();i++) {
+        arrayPersonas[i] = poblacion->get(i)->dato;
+    }
+    Util::ordenarBondadPorTotalMayorMenor(arrayPersonas,poblacion->largo());
+    for (int i = 0;i<poblacion->largo();i++) {
+        if (arrayPersonas[i]->pais->continente == contienente) {
+            Log::addToLog(arrayPersonas[i]->toString());
+        }
+    }
+    Log::saveLog();
+    return "";
+}
+
+QString Mundo::imprimirMundoBondadPaises(QString elpais){
+    Log::createlog("PecadosPorProfesion"+Log::timeStamp());
+    Persona * arrayPersonas [poblacion->largo()];
+    for (int i =0;i<poblacion->largo();i++) {
+        arrayPersonas[i] = poblacion->get(i)->dato;
+    }
+    Util::ordenarBondadPorTotalMayorMenor(arrayPersonas,poblacion->largo());
+    for (int i = 0;i<poblacion->largo();i++) {
+        if (arrayPersonas[i]->pais->nombre == elpais) {
+            Log::addToLog(arrayPersonas[i]->toString());
+        }
+    }
+    Log::saveLog();
+    return "";
+}
+
+QString Mundo::imprimirMundoBondadCreencia(QString creencia){
+    Log::createlog("PecadosPorProfesion"+Log::timeStamp());
+    Persona * arrayPersonas [poblacion->largo()];
+    for (int i =0;i<poblacion->largo();i++) {
+        arrayPersonas[i] = poblacion->get(i)->dato;
+    }
+    Util::ordenarBondadPorTotalMayorMenor(arrayPersonas,poblacion->largo());
+    for (int i = 0;i<poblacion->largo();i++) {
+        if (arrayPersonas[i]->creencia == creencia) {
+            Log::addToLog(arrayPersonas[i]->toString());
+        }
+    }
+    Log::saveLog();
+    return "";
+}
+
+void Mundo::darProfesion(Persona * persona){
+    persona->profesion = profesiones[Random::RandomRange(0,49)];
+}
+
+void Mundo::darCreencia(Persona * persona){
+    persona->creencia = creencias[Random::RandomRange(0,9)];
 }
